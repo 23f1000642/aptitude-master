@@ -1,6 +1,6 @@
 # Aptitude Master
 
-An interactive study app for **Quantitative Aptitude**, **Data Interpretation** and **Logical Reasoning**. Every topic is taught like a story, then you attempt real exam questions and open a step-by-step solution only after you've tried.
+An interactive study app covering the whole aptitude syllabus: **Quantitative Aptitude**, **Data Interpretation**, **Logical Reasoning**, **English**, and **Computer & General Awareness**. Every topic is taught like a story, then you attempt real exam questions and open a step-by-step solution only after you've tried.
 
 **Live app:** https://23f1000642.github.io/aptitude-master/
 
@@ -8,11 +8,11 @@ An interactive study app for **Quantitative Aptitude**, **Data Interpretation** 
 
 | | |
 | --- | --- |
-| Sections | 3: Quantitative Aptitude, Data Interpretation, Logical Reasoning |
-| Topics | 26 (14 quant + 3 DI + 9 reasoning) |
-| Solved questions | 220, each with options, steps and the trick used |
-| PDF question bank | 3,183 questions from the GATE Overflow aptitude book, in 153 sub-topics, with the book's answer key where it has one (761) |
-| Charts | 53 chart images taken from the PDF and shown with their questions |
+| Sections | 5: Quant, Data Interpretation, Logical Reasoning, English, Computer & General Awareness |
+| Topics | 34 (14 quant + 3 DI + 9 reasoning + 6 English + 2 GA) |
+| Solved questions | 303, each with options, steps and the trick used |
+| PDF question bank | All 5,018 questions from the GATE Overflow aptitude book, in 221 sub-topics, with the book's answer key where it has one (1,173) |
+| Figures | 268 images taken from the PDF and shown with their 525 questions |
 
 ### Each topic has three tabs
 
@@ -49,7 +49,7 @@ js/registry.js          global registry the data files add themselves to
 js/store.js             progress, bookmarks and theme (localStorage)
 js/render.js            small rendering helpers
 js/app.js               router, pages, question cards
-data/topics/*.js        one file per topic: concepts + solved questions (lr-* = reasoning)
+data/topics/*.js        one file per topic: concepts + solved questions (di-, lr-, en-, gk- prefixes by section)
 data/bank/*.js          PDF question bank, one file per sub-topic (loaded on demand)
 data/figures/           chart images from the PDF + map.json (question id -> images)
 tools/build_bank.py     builds data/bank from the PDF's extracted text
@@ -80,8 +80,8 @@ For a question without options, use `options: null`, `answerText: '16000'` and o
 ```bash
 pdftotext -layout aptitude.pdf apt.txt
 pip install pymupdf
-python3 tools/extract_figures.py aptitude.pdf 6 168 data/figures   # DI pages
-python3 tools/build_bank.py apt.txt data/bank 1 2 7   # chapters: 1 = DI, 2 = reasoning, 7 = quant
+python3 tools/extract_figures.py aptitude.pdf 6 1773 data/figures   # whole book
+python3 tools/build_bank.py apt.txt data/bank 1 2 3 4 5 6 7 8       # every chapter
 node tools/validate.js                               # checks every answer against the PDF key
 ```
 
@@ -90,8 +90,9 @@ node tools/validate.js                               # checks every answer again
 - [x] Quantitative Aptitude
 - [x] Logical Reasoning
 - [x] Data Interpretation
-- [ ] English Language
-- [ ] Computer Knowledge & General Awareness
+- [x] English Language
+- [x] Computer Knowledge & General Awareness
+- [ ] More step-by-step solutions for the PDF bank
 
 ## Credits
 
