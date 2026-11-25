@@ -10,7 +10,7 @@ An interactive study app covering the whole aptitude syllabus: **Quantitative Ap
 | --- | --- |
 | Sections | 5: Quant, Data Interpretation, Logical Reasoning, English, Computer & General Awareness |
 | Topics | 34 (14 quant + 3 DI + 9 reasoning + 6 English + 2 GA) |
-| Solved questions | 303, each with options, steps and the trick used |
+| Solved questions | 297 (all from the PDF), each with options, steps and the trick used |
 | PDF question bank | All 5,018 questions from the GATE Overflow aptitude book, in 221 sub-topics, with the book's answer key where it has one (1,173) |
 | Figures | 268 images taken from the PDF and shown with their 525 questions |
 
@@ -28,6 +28,18 @@ An interactive study app covering the whole aptitude syllabus: **Quantitative Ap
 - Dark mode
 - Works on mobile
 - No build step, no dependencies: plain HTML, CSS and JavaScript
+
+## Which exams the questions come from
+
+Every solved question is from the PDF (GATE Overflow aptitude book, July 2022 edition) and shows its PDF number.
+
+| Exam | Years | Questions in the bank |
+| --- | --- | --- |
+| CAT (IIM entrance) | 1994 – 2021 (every year) | ~3,780 |
+| NIELIT (Scientist B/C/D, Scientific Assistant A) | 2016, 2017, 2019 | ~730 |
+| GATE (General Aptitude) | 2014, 2017 | ~12 |
+| Others (SBI, UGC NET) | 2017, 2018 | 3 |
+| No exam named (practice / doubt questions posted on GATE Overflow) | n/a | ~490 |
 
 ## Run it locally
 
