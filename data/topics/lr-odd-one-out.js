@@ -1,0 +1,96 @@
+APT.addTopic({
+  id: 'lr-odd-one-out',
+  section: 'reasoning',
+  title: 'Odd One Out & Classification',
+  tagline: 'Three are friends, one doesn\'t belong. Find the rule.',
+  pdfTopics: ['2.25', '2.33', '2.22'],
+  concepts: {
+    story: [
+      'Apple, banana, mango, carrot: three are fruits and one is a vegetable. The odd one out is the one that breaks the group\'s rule.',
+      'With numbers and letters the rule is hidden: all squares, all multiples of 11, all letter jumps of +4 then −2.',
+    ],
+    memory: 'Find the rule that THREE share. The one left out is the answer.',
+    formulas: [
+      'Numbers: check squares, cubes, primes, odd/even, multiples (of 3, 7, 11), digit sums',
+      'Divisible by 11: (sum of odd-place digits) − (sum of even-place digits) is 0 or a multiple of 11',
+      'Letter groups: write each letter\'s number and look at the gaps (KOM: 11, 15, 13 → +4, −2)',
+      'Words: meaning (synonyms), category (tools, animals), or how they\'re made (micro- words)',
+    ],
+    tricks: [
+      'For letter groups, <b>always write the gaps</b>. The odd one has a different gap.',
+      'For words, ask "what kind of thing is it?" before "what does it mean?"',
+      'For a number list that\'s a series, find the series and see which term breaks it.',
+      'If two rules seem possible, the right one is the one that leaves exactly ONE item out.',
+    ],
+    patterns: [
+      ['Four letter groups', 'Write the gaps between letters'],
+      ['Four numbers', 'Squares, primes, multiples'],
+      ['Four words', 'Category or meaning'],
+      ['A series with one odd term', 'Find the rule, spot the breaker'],
+    ],
+  },
+  questions: [
+    {
+      pdf: '2.25.13', level: 'easy',
+      q: 'Find the odd one out: KOM, UYW, FJH, DGF',
+      options: ['KOM', 'UYW', 'FJH', 'DGF'], answer: 3,
+      steps: ['KOM: K→O (+4), O→M (−2). UYW: +4, −2. FJH: +4, −2.', 'DGF: D→G (+3), G→F (−1). Different.'],
+      trick: 'Write the gaps.',
+    },
+    {
+      pdf: '2.25.15', level: 'easy',
+      q: 'Find the odd one: PRSQ, UWXV, LONM, CEFD',
+      options: ['PRSQ', 'UWXV', 'LONM', 'CEFD'], answer: 2,
+      steps: ['PRSQ: +2, +1, −2. UWXV: +2, +1, −2. CEFD: +2, +1, −2.', 'LONM: +3, −1, −1. Different.'],
+    },
+    {
+      pdf: '2.25.16', level: 'easy',
+      q: 'Find the odd one: YXVU, ORQP, KJHG, MLJI',
+      options: ['YXVU', 'ORQP', 'KJHG', 'MLJI'], answer: 1,
+      steps: ['YXVU: −1, −2, −1. KJHG: −1, −2, −1. MLJI: −1, −2, −1.', 'ORQP: +3, −1, −1. Different.'],
+    },
+    {
+      pdf: '2.25.20', level: 'easy',
+      q: 'Get the odd one out: YWU, NLJ, KIF, VTR',
+      options: ['YWU', 'NLJ', 'KIF', 'VTR'], answer: 2,
+      steps: ['YWU, NLJ, VTR all go −2, −2.', 'KIF goes −2, −3. Odd one.'],
+    },
+    {
+      pdf: '2.25.19', level: 'easy',
+      q: 'Find the odd one in the series: 2, 5, 10, 17, 26, 37, 50, 64',
+      options: ['50', '26', '37', '64'], answer: 3,
+      steps: ['The terms are n² + 1: 1+1, 4+1, 9+1, 16+1, 25+1, 36+1, 49+1.', 'Next should be 64 + 1 = 65, not 64.'],
+    },
+    {
+      pdf: '2.25.21', level: 'easy',
+      q: 'The number that least fits this set: 324, 441, 97, 64',
+      options: ['324', '441', '97', '64'], answer: 2,
+      steps: ['324 = 18², 441 = 21², 64 = 8².', '97 is not a perfect square (it\'s a prime).'],
+    },
+    {
+      pdf: '2.23.9', level: 'medium',
+      q: 'Find the odd one: 396, 462, 572, 427, 671, 264',
+      options: ['396', '427', '671', '264'], answer: 1,
+      steps: ['Test divisibility by 11: 396 = 11×36, 462 = 11×42, 572 = 11×52, 671 = 11×61, 264 = 11×24.', '427: (4 + 7) − 2 = 9, not a multiple of 11. Odd one.'],
+      trick: 'Divisibility by 11.',
+    },
+    {
+      pdf: '2.25.6', level: 'easy',
+      q: 'Pick the odd man out: brink, hub, verge, brim',
+      options: ['brink', 'hub', 'verge', 'brim'], answer: 1,
+      steps: ['Brink, verge and brim all mean the edge of something.', 'Hub means the centre. Odd one.'],
+    },
+    {
+      pdf: '2.25.14', level: 'easy',
+      q: 'Find the odd word: Microbe, Microfilm, Microphone, Microscope',
+      options: ['Microbe', 'Microfilm', 'Microphone', 'Microscope'], answer: 0,
+      steps: ['Microfilm, microphone and microscope are man-made things.', 'A microbe is a living organism. Odd one.'],
+    },
+    {
+      pdf: '2.35.16', level: 'easy',
+      q: 'Which one does not belong? JMP, RUX, UYB, EHK',
+      options: ['JMP', 'RUX', 'UYB', 'EHK'], answer: 2,
+      steps: ['JMP: +3, +3. RUX: +3, +3. EHK: +3, +3.', 'UYB: U→Y is +4, Y→B is +3. Odd one.'],
+    },
+  ],
+});
