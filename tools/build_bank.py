@@ -1,7 +1,8 @@
 """Build the practice bank from the extracted PDF text.
 
 Usage: python3 tools/build_bank.py <pdftotext-layout.txt> <out_dir> [chapter ...]
-Chapters default to 7 (Quantitative Aptitude). 1 = Data Interpretation, 2 = Logical Reasoning.
+Chapters default to 7 (Quantitative Aptitude). 1 = Data Interpretation, 2 = Logical Reasoning,
+3 = Attitude & Leadership, 4 = Computer Knowledge, 5 = English, 6 = General Awareness, 8 = Spatial Aptitude.
 If data/figures/map.json exists (see extract_figures.py), each question gets its chart images.
 Writes one JS file per PDF sub-topic (data/bank/7-62.js ...) and data/bank/index.js.
 """
@@ -12,7 +13,7 @@ from collections import OrderedDict
 
 src, out = sys.argv[1], sys.argv[2]
 chapters = sys.argv[3:] or ['7']
-SECTION = {'1': 'di', '2': 'reasoning', '7': 'quant'}
+SECTION = {'1': 'di', '2': 'reasoning', '3': 'general', '4': 'general', '5': 'english', '6': 'general', '7': 'quant', '8': 'reasoning'}
 import os
 FIG_MAP = os.path.join(os.path.dirname(os.path.abspath(out)), 'figures', 'map.json')
 figures = json.load(open(FIG_MAP)) if os.path.exists(FIG_MAP) else {}
@@ -73,6 +74,7 @@ for ch in chapters:
 
 names['7.0'] = 'Mixed questions'
 names['2.0'] = 'Mixed reasoning questions'
+names.update({'4.0': 'Mixed computer questions', '5.0': 'Mixed English questions', '6.0': 'Mixed general awareness', '6.6': 'Computer Knowledge (GA)', '5.7': 'Logical Reasoning (English)', '5.6': 'Logic Puzzles (English)', '8.1': 'Direction Sense (spatial)', '8.3': 'Sequences (spatial)'})
 names.update({'7.1': 'Year 2019', '7.50': 'LCM & HCF', '7.82': 'Sequences & Series', '7.96': 'TCS Digital'})
 index = []
 for sub, qs in groups.items():
