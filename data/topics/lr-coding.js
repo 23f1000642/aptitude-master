@@ -1,0 +1,101 @@
+APT.addTopic({
+  id: 'lr-coding',
+  section: 'reasoning',
+  title: 'Coding & Decoding',
+  tagline: 'Secret languages: crack the code, then use it.',
+  pdfTopics: ['2.7', '2.8'],
+  concepts: {
+    story: [
+      'You and your best friend invent a secret code: every letter moves one step forward, so CAT becomes DBU. Anyone who finds the rule can read your notes.',
+      'Coding questions give you one word and its code. Find the rule, then apply it to the new word.',
+    ],
+    memory: 'Letter codes: compare letter by letter. Word codes: find the word that appears in two sentences.',
+    formulas: [
+      '<b>Shift code</b>: each letter moves +n or −n (C→D is +1)',
+      '<b>Opposite code</b>: each letter becomes its mirror, the two adding to 27 (A↔Z, T↔G)',
+      '<b>Reverse code</b>: the word is written backwards, sometimes with a shift too',
+      '<b>Split-and-reverse</b>: cut the word in halves and reverse each half',
+      '<b>Sentence codes</b>: a word that appears in two sentences has the code that appears in both',
+    ],
+    tricks: [
+      'Write the alphabet with numbers once at the top of your rough page (A1 … Z26). It saves time on every question.',
+      'If the code letters look "far" from the original (T→G), try opposites first.',
+      'Check the <b>first and last letters</b> first. They often show whether the word was reversed.',
+      'In made-up languages (gorblflur = fan belt), the code keeps the <b>same word order</b> as English.',
+      '"Data inadequate" is right when two words always appear together and you can\'t separate them.',
+    ],
+    patterns: [
+      ['WORD → code letters', 'Compare position numbers letter by letter'],
+      ['Code looks like the word written backwards', 'Reverse, then check for a shift'],
+      ['Several sentences with codes', 'Find common words and common codes'],
+      ['Made-up compound words', 'Split into parts that repeat'],
+    ],
+  },
+  questions: [
+    {
+      pdf: '2.7.10', level: 'easy',
+      q: '"Zat Poo Tim" means "eat good mangoes", "Pus Tim Sim" means "mangoes and sweets", and "Sim Poo Kit" means "purchase good sweets". Which word means "good"?',
+      options: ['Poo', 'Pus', 'Tim', 'Sim'], answer: 0,
+      steps: ['"good" is in sentences 1 and 3.', 'The only code in both 1 and 3 is "Poo".'],
+      trick: 'Common word ↔ common code.',
+    },
+    {
+      pdf: '2.7.11', level: 'easy',
+      q: '"lew yas iuna cejo" = "she is eating apples", "lew tepo qua" = "she sells toys", "sul lim cejo" = "I like apples". Which words mean "she" and "apples"?',
+      options: ['yas & cejo', 'yas & lew', 'lew & cejo', 'lew & yas'], answer: 2,
+      steps: ['"she" is in sentences 1 and 2 → common code "lew".', '"apples" is in sentences 1 and 3 → common code "cejo".'],
+    },
+    {
+      pdf: '2.7.12', level: 'medium',
+      q: '"1 3 4" = "you are well", "7 5 8" = "they go home", "8 3 9" = "we are home". Which number means "they"?',
+      options: ['5', '7', '3', 'Data inadequate'], answer: 3,
+      steps: ['"home" is in sentences 2 and 3 → 8.', 'So "they go" = 7 and 5, but nothing tells us which is which.', 'Answer: data inadequate.'],
+    },
+    {
+      pdf: '2.7.14', level: 'medium',
+      q: 'If FRAGRANCE is written as SBHSBODFG, how is IMPOSING written?',
+      options: ['NQPTJHOJ', 'NQPTJOHI', 'NQTPJOHJ', 'NQPTJOHJ', 'None of these'], answer: 3,
+      steps: [
+        'Move each letter of FRAGRANCE +1: GSBHSBODF.',
+        'The code SBHSBODFG is that word with its first letter (G) moved to the end.',
+        'IMPOSING +1 → JNQPTJOH. Move J to the end → NQPTJOHJ.',
+      ],
+    },
+    {
+      pdf: '2.8.2', level: 'medium',
+      q: '"CLEAR" is written as "SBFMD" and "BONDS" as "TEOPC". How is "STALE" written?',
+      options: ['DKZSR', 'BUTFM', 'TUBMF', 'FMBUT', 'None of these'], answer: 3,
+      steps: ['CLEAR reversed = RAELC. Each letter +1 → SBFMD ✓.', 'STALE reversed = ELATS. Each +1 → FMBUT.'],
+      trick: 'Reverse + shift.',
+    },
+    {
+      pdf: '2.35.12', level: 'medium',
+      q: 'If TABLE is coded as GZYOV, how is JUICE coded?',
+      options: ['OZLFJ', 'QFRXV', 'HOFAD', 'QZHMT'], answer: 1,
+      steps: ['T→G, A→Z, B→Y, L→O, E→V: each letter is replaced by its opposite (they add to 27).', 'J(10)→Q(17), U(21)→F(6), I(9)→R(18), C(3)→X(24), E(5)→V(22).', 'JUICE → QFRXV.'],
+      trick: 'Opposite letters.',
+    },
+    {
+      pdf: '2.35.36', level: 'medium',
+      q: 'In a code, UPGRADE is written as WNIPCBG. How is DROWN written?',
+      options: ['BTMYL', 'BPMYL', 'BTQYL', 'FPQUP'], answer: 3,
+      steps: ['U→W (+2), P→N (−2), G→I (+2), R→P (−2), A→C (+2), D→B (−2), E→G (+2).', 'DROWN: D+2 = F, R−2 = P, O+2 = Q, W−2 = U, N+2 = P → FPQUP.'],
+    },
+    {
+      pdf: '2.8.3', level: 'easy',
+      q: '"gorblflur" means fan belt, "pixngorbl" means ceiling fan, and "arthtusl" means tile roof. Which word could mean "ceiling tile"?',
+      options: ['gorbltusl', 'flurgorbl', 'arthflur', 'pixnarth'], answer: 3,
+      steps: [
+        '"gorbl" is in both fan words → gorbl = fan. So flur = belt and pixn = ceiling.',
+        'Word order follows English (fan belt = gorbl + flur), so in "tile roof", arth = tile.',
+        'Ceiling tile = pixn + arth = pixnarth.',
+      ],
+    },
+    {
+      pdf: '2.8.4', level: 'easy',
+      q: '"qmelaqali" means fruitcake, "qalitiimmeo" means cakewalk, "useguamao" means buttercup. Which could mean "cupcake"?',
+      options: ['qalitiiqali', 'amaotiimmeo', 'pakitreft', 'amaoqali'], answer: 3,
+      steps: ['"qali" appears in both cake words → qali = cake.', 'In buttercup, the second part "amao" = cup.', 'Cupcake = amao + qali = amaoqali.'],
+    },
+  ],
+});
