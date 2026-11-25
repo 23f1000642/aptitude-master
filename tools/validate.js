@@ -27,8 +27,12 @@ APT.topics.forEach((t) => {
       const k = q.pdf && keyOf[q.pdf];
       if (k && /^[A-E]$/.test(k) && L[q.answer] !== k && !q.keyNote) fail(`${where}: PDF key is ${k}, app says ${L[q.answer]}`);
     } else if (!q.answerText) fail(`${where}: needs answerText`);
+    (q.figures || []).forEach((f) => { if (!fs.existsSync(path.join(root, 'data/figures', f))) fail(`${where}: missing figure ${f}`); });
   });
 });
+Object.values(APT.bank).flat().forEach((q) => (q.images || []).forEach((f) => {
+  if (!fs.existsSync(path.join(root, 'data/figures', f))) fail(`bank ${q.id}: missing figure ${f}`);
+}));
 APT.bankIndex.forEach((b) => {
   if (!APT.bank[b.id]) fail(`bank ${b.id}: file missing`);
   else if (APT.bank[b.id].length !== b.count) fail(`bank ${b.id}: count mismatch`);
