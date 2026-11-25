@@ -110,6 +110,7 @@ h1, h2, h3, h4 { line-height: 1.25; margin: 0 0 0.5em; }
 }
 .hero h1 { font-size: clamp(1.6rem, 3vw, 2.2rem); }
 .hero p { color: var(--muted); max-width: 560px; font-size: 1.05rem; }
+.hero .exams { font-size: 0.92rem; margin-top: -4px; }
 .hero-stats { display: flex; flex-wrap: wrap; gap: 28px; margin-top: 18px; }
 .hero-stats div { display: flex; flex-direction: column; }
 .hero-stats b { font-size: 1.6rem; }

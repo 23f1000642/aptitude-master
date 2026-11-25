@@ -79,6 +79,7 @@
       <section class="hero">
         <h1>Aptitude, made easy</h1>
         <p>Learn each idea like a story, try the question yourself, then open the step-by-step solution.</p>
+        <p class="exams">Questions from <b>CAT 1994–2021</b>, <b>NIELIT 2016–2019</b> and <b>GATE</b>, as collected in the GATE Overflow aptitude book.</p>
         <div class="hero-stats">
           <div><b>${APT.sections.length}</b><span>sections</span></div>
           <div><b>${APT.topics.length}</b><span>topics</span></div>
