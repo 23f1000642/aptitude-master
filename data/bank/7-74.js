@@ -123,7 +123,10 @@ APT.addBank("7.74", [
   "source": "CAT 1996 Q 115",
   "text": "In triangle ABC, angle B is a right angle. If AC is 6 cm, and D is the mid-point of side AC, the length of BD is:\n A. 4 cm   B. 6 cm   C. 3 cm   D. 3.5 cm",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "53210.png"
+  ]
  },
  {
   "id": "7.74.19",
@@ -144,7 +147,10 @@ APT.addBank("7.74", [
   "source": "CAT 1996 Q 118",
   "text": "A, S, M and Dare functions of x and y, and they are defined as follows:\n A(x, y) + x + y\n S(x, y) = x − y\n M(x, y) = xy\n D(x, y) = x/y,\n where y ≠ 0.\n The figure shows a rectangle ABCD with a semi-circle and circle inscribed inside it as shown. What is the ratio of the area of\n the circle to that the semi-circle?\n A. (√2 − 1) 2   B. 2(√2 − 1) 2\n C. (√2 − 1) 2 /2   D. None of these.",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53254.png"
+  ]
  },
  {
   "id": "7.74.22",
@@ -186,7 +192,10 @@ APT.addBank("7.74", [
   "source": "CAT 1996 Q 134",
   "text": "The figures shows a circle of diameter AB and radius 6.5 cm. If chord CA is 5 cm long, find the area of triangle ABC.\n A. 60 sq.cm.   B. 30 sq.cm   C. 40 sq.cm.   D. 52 sq.cm.",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "53285.png"
+  ]
  },
  {
   "id": "7.74.28",
@@ -200,7 +209,10 @@ APT.addBank("7.74", [
   "source": "CAT 1996 Q 136",
   "text": "If ABCD is a square and BCE is an equilateral triangle, what is the measure of the angle DEC?\n A. 15 ∘   B. 30 ∘\n C. 0 ∘   D. 45 ∘",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "53287.png"
+  ]
  },
  {
   "id": "7.74.30",
@@ -389,7 +401,10 @@ APT.addBank("7.74", [
   "source": "CAT 1997 Q 126",
   "text": "AB is the diameter of the given circle, while points C and D lie on the circumference as shown. If AB is 15 cm, AC is 12 cm\n and BD is 9 cm, find the area of the quadrilateral ACBD.\n A. 54π   B. 216π​​\n C. 162π​​   D. None of these",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "53509.png"
+  ]
  },
  {
   "id": "7.74.57",
@@ -431,7 +446,10 @@ APT.addBank("7.74", [
   "source": "CAT 1997 Q 132",
   "text": "The adjoining figure shows a set of concentric squares.\n If the diagonal of the innermost square is 2 units, and if the distance between the corresponding corners of any two successive\n squares is 1 unit, find the difference between the areas of the eighth and the seventh square, counting from the innermost\n square.\n A. 10 2   B. 30   C. 35 2   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53550.png"
+  ]
  },
  {
   "id": "7.74.63",
@@ -480,14 +498,20 @@ APT.addBank("7.74", [
   "source": "CAT 1997 Q 142",
   "text": "In the adjoining figure, points A, B, C and D lie on the circle. AD = 24 and BC = 12. What is the ratio of the area of the triangle\n CBE to that of the triangle ADE?\n A. 1: 4   B. 1: 2   C. 1: 3   D. Insufficient data",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53630.png"
+  ]
  },
  {
   "id": "7.74.70",
   "source": "CAT 1997 Q 143",
   "text": "In the given figure, EADF is a rectangle and ABC is a triangle whose vertices lie on the sides of EADF.\n AE = 22, BE = 6, CF = l6 and BF = 2. Find the length of the line joining the midpoints of the sides AB and BC.\n A. 4√2   B. 5   C. 3.5   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53632.png"
+  ]
  },
  {
   "id": "7.74.71",
@@ -585,35 +609,50 @@ APT.addBank("7.74", [
   "source": "CAT 1998 Q 163",
   "text": "Ghosh Babu has a manufacturing unit. The following graph gives the cost for a various number of units. Profit Revenue -\n Variable Cost - Fixed Cost. The fixed cost remains constant up to 34 units after which additional investment is to be done in\n fixed assets. In any case, production can not exceed 50 units.\n What is the minimum number of units that need to be produced to make sure that there was no loss?\n A. 5   B. 10   C. 20   D. indeterminable.",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53748.png"
+  ]
  },
  {
   "id": "7.74.85",
   "source": "CAT 1998 Q 164",
   "text": "Ghosh Babu has a manufacturing unit. The following graph gives the cost for a various number of units. Profit Revenue -\n Variable Cost - Fixed Cost. The fixed cost remains constant up to 34 units after which additional investment is to be done in\n fixed assets. In any case, production can not exceed 50 units.\n How many units should be manufactured such that profit was at least Rs. 50?\n A. 20   B. 34   C. 45   D. 25",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53748.png"
+  ]
  },
  {
   "id": "7.74.86",
   "source": "CAT 1998 Q 165",
   "text": "Ghosh Babu has a manufacturing unit. The following graph gives the cost for a various number of units. Profit Revenue -\n Variable Cost - Fixed Cost. The fixed cost remains constant up to 34 units after which additional investment is to be done in\n fixed assets. In any case, production can not exceed 50 units.\n If at the most 40 units can be manufactured then what is the number of units that can be manufactured to maximise profit?\n A. 40   B. 34   C. 35   D. 25",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53748.png"
+  ]
  },
  {
   "id": "7.74.87",
   "source": "CAT 1998 Q 166",
   "text": "Ghosh Babu has a manufacturing unit. The following graph gives the cost for a various number of units. Profit Revenue -\n Variable Cost - Fixed Cost. The fixed cost remains constant up to 34 units after which additional investment is to be done in\n fixed assets. In any case, production can not exceed 50 units.\n If the production cannot exceed 45 units then what is the number of units than can maximise profit?\n A. 40   B. 34   C. 45   D. 35",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53773.png"
+  ]
  },
  {
   "id": "7.74.88",
   "source": "CAT 1998 Q 167",
   "text": "Ghosh Babu has a manufacturing unit. The following graph gives the cost for a various number of units. Profit Revenue -\n Variable Cost - Fixed Cost. The fixed cost remains constant up to 34 units after which additional investment is to be done in\n fixed assets. In any case, production can not exceed 50 units.\n If the fixed cost of production goes up by Rs. 40 then what is the minimum number of units that need to be manufactured to\n make sure that there is no loss?\n A. 10   B. 17   C. 15   D. 20",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53773.png"
+  ]
  },
  {
   "id": "7.74.89",
@@ -662,7 +701,10 @@ APT.addBank("7.74", [
   "source": "CAT 1998 Q 57",
   "text": "Three circles, each of radius 20 and centres at P, Q, R. Further, AB = 5, CD = 10 and EF = 12. What is the perimeter of the\n triangle PQR?\n A. 60 cm   B. 81 cm   C. 93 cm   D. 87 cm",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "53806.png"
+  ]
  },
  {
   "id": "7.74.96",
@@ -718,14 +760,20 @@ APT.addBank("7.74", [
   "source": "CAT 1998 Q 66",
   "text": "A cow is tethered at A by a rope. Neither the rope nor the cow is allowed to enter the triangle ABC.\n m∠A = 30 ∘\n 1(AB) = 1(AC) = 10m.\n 1(BC) = 6m\n What is the area that can be grazed by the cow if the length of the rope is 8 m?\n A. 1331/6π sq.m   B. 121π sq.m\n C. 132π sq.m   D. 176/3 p sq.m",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "53879.png"
+  ]
  },
  {
   "id": "7.74.104",
   "source": "CAT 1998 Q 67",
   "text": "A cow is tethered at A by a rope. Neither the rope nor the cow is allowed to enter the triangle ABC.\n m∠A = 30 ∘\n 1(AB) = 1(AC) = 10m.\n 1(BC) = 6m\n What is the area that can be grazed by the cow if the length of the rope is 12 m?\n A. 1331/6 p sq.m   B. 121 p sq.m   C. 132 p sq.m   D. 176/3 p sq.m",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "53879.png"
+  ]
  },
  {
   "id": "7.74.105",
@@ -739,7 +787,10 @@ APT.addBank("7.74", [
   "source": "CAT 1998 Q 72",
   "text": "Four identical circular coins are placed inside the square ABCD as in the following diagram:\n If for each coin, (area/circumference) = (circumference/ area) then the area not occupied by the corns in ABCD is\n A. 8(4 − π)   B. 16(8 − π)   C. 16(4 − π)   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "53920.png"
+  ]
  },
  {
   "id": "7.74.107",
@@ -914,7 +965,10 @@ APT.addBank("7.74", [
   "source": "CAT 1999 Q 68",
   "text": "The figure below shows two concentric circles with centre O. PQRS is a square inscribed in the outer circle. It also\n circumscribes the inner circle, touching it at points B, C, D and A. What is the ratio of the perimeter of the outer circle to that of\n polygon ABCD?\n   π   3π   π\n   D. π\n A.   B.   C. 2",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "54106.png"
+  ]
  },
  {
   "id": "7.74.132",
@@ -1068,7 +1122,10 @@ APT.addBank("7.74", [
   "source": "",
   "text": "What was the percentage increase in the price of oil between 1998 and 2006?\n What was the percentage increase in the price of oil between 1998 and 2006?\n 1. 4.83%\n 2. 48.3%\n 3. 51.3%\n 4. 4.13%\n 5. 5.13%\n If the total oil supply had grown at the same rate as the former USSR oil supply between 2000 and 2006 how much would this\n have exceeded the demand in 2006?\n 1. 14.3\n 2. 19.3\n 3. 24.3\n 4. 29.3\n 5. 34.3\n In which year was the largest combined change in supply from the previous year for OPEC, the former USSR and other Non-\n OECD countries?\n 1. 2000\n 2. 2003\n 3. 2004\n 4. 2005\n 5. 2006",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "54257.jpg"
+  ]
  },
  {
   "id": "7.74.154",

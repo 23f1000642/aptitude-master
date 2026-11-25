@@ -39,7 +39,10 @@ APT.addBank("7.42", [
   "source": "CAT 2000 Q 102",
   "text": "In the figure above, AB = BC = CD = DE = EF = FG = GA . Then ∡DAE is approximately\n A. 15 ∘   B. 20 ∘   C. 30 ∘   D. 25 ∘",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46807.jpg"
+  ]
  },
  {
   "id": "7.42.7",
@@ -81,7 +84,10 @@ APT.addBank("7.42", [
   "source": "CAT 2001 Q 23",
   "text": "Two sides of a plot measure 32 metres and 24 metres and the angle between them is a perfect right angle. The other two sides\n measure 25 metres each and the other three are not right angles.\n What is the area of the plot?\n A. 768   B. 534   C. 696.5   D. 684",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "46856.jpg"
+  ]
  },
  {
   "id": "7.42.13",
@@ -95,14 +101,20 @@ APT.addBank("7.42", [
   "source": "CAT 2001 Q 34",
   "text": "In △DEF shown below, points A, B, and C are taken on DE, DF and EF respectively such that EC = AC and CF = BC. If\n ∡D = 40 ∘ , then what is ∡ACB in degrees?\n A. 140   B. 70   C. 100   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46858.jpg"
+  ]
  },
  {
   "id": "7.42.15",
   "source": "CAT 2001 Q 40",
   "text": "Based on the figure below, what is the value of x, if y = 10?\n A. 0   B. 11   C. 12   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46903.jpg"
+  ]
  },
  {
   "id": "7.42.16",
@@ -123,14 +135,20 @@ APT.addBank("7.42", [
   "source": "CAT 2001 Q 8",
   "text": "In the above diagram, ABCD is a rectangle with AE = EF = FB . What is the ratio of the area of the triangle CEF and that of\n the rectangle?\n   D. None of these\n A.   B.   C. 9",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46905.jpg"
+  ]
  },
  {
   "id": "7.42.19",
   "source": "CAT 2002 Q 58",
   "text": "In the following figure, the area of the isosceles right triangle ABE is 7 sq.cm. If EC = 3BE, then the area of rectangle ABCD\n id (insq.cm.)\n A. 64   B. 82   C. 26   D. 56",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46907.jpg"
+  ]
  },
  {
   "id": "7.42.20",
@@ -151,7 +169,10 @@ APT.addBank("7.42", [
   "source": "CAT 2002 Q 71",
   "text": "In the figure given below, find the distance PQ.\n A. 7 m   B. 4.5 m   C. 10.5 m   D. 6 m",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46945.jpg"
+  ]
  },
  {
   "id": "7.42.23",
@@ -172,14 +193,20 @@ APT.addBank("7.42", [
   "source": "CAT 2002 Q 88",
   "text": "Answer the question based on the diagram\n ABC = 90 ∘ = Angle DCH = Angle DOE = Angle EHK = Angle FKL = Angle GLM = Angle LMN,\n AB = BC = 2CH = 2CD = EH = FK = 2HK = 4KL = 2LM = MN\n The magnitude of Angle FGO =\n A. 30 ∘   B. 45 ∘   C. 60 ∘   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46947.jpg"
+  ]
  },
  {
   "id": "7.42.26",
   "source": "CAT 2002 Q 89",
   "text": "Answer the question based on the diagram\n ABC = 90 ∘ = Angle DCH = Angle DOE = Angle EHK = Angle FKL = Angle GLM = Angle LMN,\n AB = BC = 2CH = 2CD = EH = FK = 2HK = 4KL = 2LM = MN\n The ratio of the areas of the two quadrangles ABCD and DEFG is\n A. ​1 : 2   B. 2: 1   C. 12: 7   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46947.jpg"
+  ]
  },
  {
   "id": "7.42.27",
@@ -214,14 +241,20 @@ APT.addBank("7.42", [
   "source": "CAT 2003 Q 1-132",
   "text": "Three horses are grazing within a semi-circular field. In the diagram given below, AB is the diameter of the semi-circular field\n with center at O. Horses are tied up at P, R and S such that PO and RO are the radii of semi-circles with centres at P and R\n respectively, and S is the centre of the circle touching the two semicircles with diameter AO and OB. The horses tied at P and R\n can graze within the respective semi-circles and the horse tied at S can graze within the circles centered at S. The percentage of\n the area of the semi-circle with diameter AB that cannot be grazed by the horses is nearest to\n A. 20   B. 28   C. 36   D. 40",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47027.jpg"
+  ]
  },
  {
   "id": "7.42.32",
   "source": "CAT 2003 Q 1-133",
   "text": "In the figure below, ABCDEF is a rectangular hexagon and ∡AOF = 90 ∘ is parallel to ED. What is the ratio of the area of the\n triangle AOF to that of the hexagon ABCDEF?\n   1   1   1   1\n   12   6   24   18\n A.   B.   C.   D.",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47029.jpg"
+  ]
  },
  {
   "id": "7.42.33",
@@ -235,21 +268,30 @@ APT.addBank("7.42", [
   "source": "CAT 2003 Q 1-137",
   "text": "In the diagram given below, ∡ABD = ∡CDB = ∡PQD = 90 ∘ . If AB : CD = 3: 1, the ratio of CD : PQ is\n A. 1: 0.69   B. 1: 0.75   C. 1: 0.72   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47071.jpg"
+  ]
  },
  {
   "id": "7.42.35",
   "source": "CAT 2003 Q 1-141",
   "text": "In the figure given below, AB is the chord of a circle with centre O. AB is extended to C such that BC = OB. The straight line\n CO is produced to meet the circle at D. If ∡ACD = y ∘ and ∡AOD = x ∘ such that x = ky, then the value of k is\n A. 3   B. 2   C. 1   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47073.jpg"
+  ]
  },
  {
   "id": "7.42.36",
   "source": "CAT 2003 Q 1-142",
   "text": "In the figure below, the rectangle at the corner measures 10 cm × 20 cm. The corner A also the rectangle is also a point on the\n circumference of the circle. What is the radius of the circle in cm?\n A. 10 cm   B. 40 cm   C. 50 cm   D. None of these",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47075.jpg"
+  ]
  },
  {
   "id": "7.42.37",
@@ -270,28 +312,40 @@ APT.addBank("7.42", [
   "source": "CAT 2003 Q 2-66",
   "text": "Answer the question on the basis on the basis of the information given below.\n Consider three circular parks of equal size with centres at A 1, A 2, and A 3 respectively. The parks touch each other at the\n edge as shown in the figure (not drawn to scale). There are three paths formed by the triangles A 1, A 2, A 3, B 1, B 2, B 3, and\n C 1, C 2, C 3, as shown. Three sprinters A, B, and C begin running from points A 1, B 1 and C 1 respectively. Each sprinter\n traverses her respective triangular path clockwise and returns to her starting point.\n Let the radius of each circular park be r, and the distances to be traversed by the sprinters A, B and C be a, b and c,\n respectively. Which of the following is true?\n A. b − a = c − b = 3√3r   B. b − a = c − b = √3r\n   a+c   D. c = 2b − a = (2 + √3r\n C. b =   = 2(1 + √3)r",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47114.jpg"
+  ]
  },
  {
   "id": "7.42.40",
   "source": "CAT 2003 Q 2-67",
   "text": "Answer the question on the basis on the basis of the information given below.\n Consider three circular parks of equal size with centres at A 1, A 2, and A 3 respectively. The parks touch each other at the\n edge as shown in the figure (not drawn to scale). There are three paths formed by the triangles A 1, A 2, A 3, B 1, B 2, B 3, and\n C 1, C 2, C 3, as shown. Three sprinters A, B, and C begin running from points A 1, B 1 and C 1 respectively. Each sprinter\n traverses her respective triangular path clockwise and returns to her starting point.\n Sprinter A traverses distances A 1A 2, A 2A 3, and A 3A 1 at average speeds of 20, 30 and 15, respectively. B traverses her entire\n path at a uniform speed of (10√3 + 20). C traverses distances C 1C 2, C 2C 3, and C 3C 1 at average speeds of 3 (√3 + 1),\n   (√3 + 1), and 120 respectively. All speeds are in the same unit. Where would B and C be respectively when A finishes her\n sprint?\n A. B 1, C 1   B. B 3, C 3\n C. B 1, C 3   D. B 1, Somewhere between C 3 and C 11",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47114.jpg"
+  ]
  },
  {
   "id": "7.42.41",
   "source": "CAT 2003 Q 2-68",
   "text": "Answer the question on the basis on the basis of the information given below.\n Consider three circular parks of equal size with centres at A 1, A 2, and A 3 respectively. The parks touch each other at the\n edge as shown in the figure (not drawn to scale). There are three paths formed by the triangles A 1, A 2, A 3, B 1, B 2, B 3, and\n C 1, C 2, C 3, as shown. Three sprinters A, B, and C begin running from points A 1, B 1 and C 1 respectively. Each sprinter\n traverses her respective triangular path clockwise and returns to her starting point.\n Sprinters A, B and C traverse their respective paths at uniform speeds u, v and w respectively. It is known that u 2. v 2. w 2 is\n equal to Area A: Area B: Area C, where Area A, Area B and Area C are the areas of triangles A 1 A 2 A 3, B 1B 2B 3, and C 1 C 2 C 3\n , respectively. Where would A and C be when B reaches point B 3?\n A. A 2, C 3   B. A 3, C 3\n C. A 3, C 2   D. Somewhere   between A 2   and A 3,\n   Somewhere between C 3 and C 1",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47114.jpg"
+  ]
  },
  {
   "id": "7.42.42",
   "source": "CAT 2003 Q 2-71",
   "text": "Let ABCDEF be a regular hexagon. What is the ratio of the area of the triangle ACE to that of the hexagon ABCDEF?\n   1   1   2   5\n A. 3   B. 2   C. 3   D. 6",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "47139.jpg"
+  ]
  },
  {
   "id": "7.42.43",
@@ -305,14 +359,20 @@ APT.addBank("7.42", [
   "source": "CAT 2003 Q 2-85",
   "text": "In the figure (not drawn to scale) given below, P is a point on AB such that AP : PB = 4: 3. PQ is parallel to AC and QD is\n parallel to CP. In △ARC, ∡ARC = 90 ∘ , and in △PQS, ∡PSQ = 90 ∘ . The length of QS is 6 cms. What is ratio AP : PD?\n A. 10: 3   B. 2: 1   C. 7: 3   D. 8: 3",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47141.jpg"
+  ]
  },
  {
   "id": "7.42.45",
   "source": "CAT 2003 Q 2-87",
   "text": "In the figure (not drawn to scale) given below, if AD = CD = BC , and ∡BCE = 96 ∘ , how much is ∡DBC?\n A. 32 ∘   B. 84 ∘\n C. 64 ∘   D. Cannot be determined",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47176.jpg"
+  ]
  },
  {
   "id": "7.42.46",
@@ -326,14 +386,20 @@ APT.addBank("7.42", [
   "source": "CAT 2003 Q 2-92",
   "text": "In the figure below (not drawn to scale), rectangle ABCD is inscribed in the circle with centre at O. The length of side AB is\n greater than that of side BC. The ratio of the area of the circle to the area of the rectangle ABCD is π: 3. The line segment DE\n intersects AB at E such that ∡ODC = ∡ADE. What is the ratio AE : AD ?\n A. 1: √3   B. 1: √2   C. 1: 2√3   D. 1: 2",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47178.jpg"
+  ]
  },
  {
   "id": "7.42.48",
   "source": "CAT 2003 Q 2-95",
   "text": "In the figure given below (not drawn to scale), A, B and C are three points on a circle with centre O. The chord BA is\n extended to a point T such that CT becomes a tangent to the circle at point C. If ∡ATC = 30 ∘ and ∡ACT = 50 ∘ , then the\n angle ∡BOA is\n A. 100 ∘   B. 150 ∘\n C. 80 ∘   D. Cannot be determined",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47180.jpg"
+  ]
  },
  {
   "id": "7.42.49",
@@ -354,35 +420,50 @@ APT.addBank("7.42", [
   "source": "CAT 2004 Q 56",
   "text": "Answer the question on the basis of the information given below:\n In the adjoining figure, I and II are circles with centres P and Q respectively. The two circles touch each other and have a\n common tangent that touches them at points R and S respectively. This common tangent meets the line P and Q at O. The\n diameters of I and II are in the ration 4: 3. It is also known that the length of PO is 28 cm.\n What is the ration of the length of PQ to that of QO?\n A. 1: 4   B. 1: 3   C. 3: 8   D. 3: 4",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47215.jpg"
+  ]
  },
  {
   "id": "7.42.52",
   "source": "CAT 2004 Q 57",
   "text": "Answer the question on the basis of the information given below:\n In the adjoining figure, I and II are circles with centres P and Q respectively. The two circles touch each other and have a\n common tangent that touches them at points R and S respectively. This common tangent meets the line P and Q at O. The\n diameters of I and II are in the ration 4: 3. It is also known that the length of PO is 28 cm.\n What is the radius of the circle II?\n A. 2 cm   B. 3 cm   C. 4 cm   D. 5 cm",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47215.jpg"
+  ]
  },
  {
   "id": "7.42.53",
   "source": "CAT 2004 Q 58",
   "text": "Answer the question on the basis of the information given below:\n In the adjoining figure, I and II are circles with centres P and Q respectively. The two circles touch each other and have a\n common tangent that touches them at points R and S respectively. This common tangent meets the line P and Q at O. The\n diameters of I and II are in the ratio 4: 3. It is also known that the length of PO is 28 cm.\n The length of SO is\n A. 8√3 cm   B. 10√3 cm   C. 12√3 cm   D. 14√3 cm",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47215.jpg"
+  ]
  },
  {
   "id": "7.42.54",
   "source": "CAT 2004 Q 59",
   "text": "In the adjoining figure, chord ED is parallel to the diameter AC of the circle. If ∠CBE = 65 ∘ then what is the value of\n ∠DEC?\n A. 35 ∘   B. 55 ∘   C. 45 ∘   D. 25 ∘",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47251.jpg"
+  ]
  },
  {
   "id": "7.42.55",
   "source": "CAT 2004 Q 60",
   "text": "On a semicircle with diameter AD; chord BC is parallel to the diameter. Further, each of the chords AB and CD has length 2,\n while has length 8. What is the length of BC?\n A. 7.5   B. 7   C. 7.75   D. None of the above",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "47253.jpg"
+  ]
  },
  {
   "id": "7.42.56",
@@ -396,7 +477,10 @@ APT.addBank("7.42", [
   "source": "CAT 2004 Q 73",
   "text": "A circle with radius 2 is placed against a right angle. Another small circle is also placed as shown in the adjoining figure. What\n is the radius of the smaller circle?\n A. 3 − 2√2   B. 4 − 2√2   C. 7 − 4√2   D. 6 − 4√2",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47255.jpg"
+  ]
  },
  {
   "id": "7.42.58",
@@ -431,14 +515,20 @@ APT.addBank("7.42", [
   "source": "CAT 2005 Q 22",
   "text": "In the following figure, the diameter of the circle is 3 cm. AB and MN are two diameters such that MN is perpendicular to AB.\n In addition, CG is perpendicular to AB such that AE : EB = 1: 2, and DF is perpendicular to MN such that NL : LM = 1: 2.\n The length of DH in cm is\n A. 2√2 − 1   B. ((2√2 − 1))/2\n C. ((3√2 − 1))/2   D. ((2√2 − 1))/3",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47291.jpg"
+  ]
  },
  {
   "id": "7.42.63",
   "source": "CAT 2005 Q 23",
   "text": "Consider the triangle ABC shown in the following figure where BC = 12 cm, DB =9 cm, CD=6 cm, and ∠BCD = ∠BAC.\n What is the ratio of the perimeter of the triangle ADC to that of the triangle BDC?\n A. 7/9   B. 8/9   C. 6/9   D. 5/9",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47336.jpg"
+  ]
  },
  {
   "id": "7.42.64",
@@ -459,14 +549,20 @@ APT.addBank("7.42", [
   "source": "CAT 2006 Q 63",
   "text": "Below question is on the basis of information given below:\n A punching machine is used to punch a circular hole of diameter 2 units from a square sheet of aluminium of width 2 units, as\n shown below. The hole is punched such that circular hole touches one corner P of the square sheet and the diameter of the hole\n originating at P is in line with a diagonal of the square.\n The proportion of the sheet area that remains after punching is\n A. (π + 2)/8   B. (6 − π)/8   C. (4 − π)/4   D. (π– 2)/4   E. (14 − 3π)/6",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47338.jpg"
+  ]
  },
  {
   "id": "7.42.67",
   "source": "CAT 2006 Q 64",
   "text": "Below question is on the basis of information given below:\n A punching machine is used to punch a circular hole of diameter 2 units from a square sheet of aluminium of width 2 units, as\n shown below. The hole is punched such that circular hole touches one corner P of the square sheet and the diameter of the hole\n originating at P is in line with a diagonal of the square.\n Find the area of the part of the circle (round punch)falling outside the square sheet\n A. π/4   B. (π– 1)/2\n C. (π– 1)/4   D. (π– 2)/2\n E. (π– 2)/4",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47338.jpg"
+  ]
  },
  {
   "id": "7.42.68",
@@ -522,7 +618,10 @@ APT.addBank("7.42", [
   "source": "CAT 2009 Q 18",
   "text": "M is the center of the circle. l(QS) = 10√2, l(PR) = l(RS) and PR‖QS. Find the area of the shaded region. (use π = 3)\n a. 100 sq. units   b. 114 sq. units\n c. 50 sq. units   d. 200 sq. units",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "47422.png"
+  ]
  },
  {
   "id": "7.42.76",
@@ -564,14 +663,20 @@ APT.addBank("7.42", [
   "source": "CAT 2011 Q 10",
   "text": "In the figure alongside, △ABC is equilateral with area S. M is the mid-point of BC and P is a point on AM extended such that\n MP = BM. If the semi-circle on AP intersects CB extended at Q and the area of a square with MQ as a side is T, which of the\n following is true?\n A. T = √2 S   B. T = S   C. T = √3 S   D. T = 2S",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47466.jpg"
+  ]
  },
  {
   "id": "7.42.82",
   "source": "CAT 2011 Q 14",
   "text": "In the figure alongside, O is the centre of the circle and AC is the diameter. The line FEG is tangent to the circle at E. If\n ∠GEC = 52 ∘ , find the value of ∠e + ∠c.\n A. 154 ∘   B. 156 ∘   C. 166 ∘   D. 180 ∘",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47510.jpg"
+  ]
  },
  {
   "id": "7.42.83",
@@ -613,7 +718,10 @@ APT.addBank("7.42", [
   "source": "CAT 2012 Q 7",
   "text": "In the figure below, ∠MON = ∠MPO = ∠NQO = 90 ∘ and OQ is the bisector of ∠MON and QN = 10, OR = 40/7. Find\n OP.\n A. 4.8   B. 4.5   C. 4   D. 5",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47555.jpg"
+  ]
  },
  {
   "id": "7.42.89",
@@ -648,7 +756,10 @@ APT.addBank("7.42", [
   "source": "CAT 2014 Q 1",
   "text": "If ABCD is a square and BCE is an equilateral triangle, what is the measure of angle ∠DEC?\n a. 15 ∘   b. 30 ∘   c. 20 ∘   d. 45 ∘",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "47601.png"
+  ]
  },
  {
   "id": "7.42.94",
@@ -662,7 +773,10 @@ APT.addBank("7.42", [
   "source": "CAT 2014 Q 27",
   "text": "The line AB is 6 metres in length and is tangent to the inner one of the two concentric circles at point C. It is known that the\n radii of the two circles are integers. The radius of the outer circle is\n a. 5 metres   b. 4 metres\n c. 6 metres   d. 3 metres",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "47603.jpg"
+  ]
  },
  {
   "id": "7.42.96",
@@ -690,7 +804,10 @@ APT.addBank("7.42", [
   "source": "CAT 2015 Q 72",
   "text": "PQRS is a square. SR is a tangent (at point S) to the circle with centre O and TR = OS. Then the ratio of area of the circle to\n the area of the square is\n A. π/3   B. 11/7   C. 3/π   D. 7/11",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "47648.jpg"
+  ]
  },
  {
   "id": "7.42.100",
@@ -704,7 +821,10 @@ APT.addBank("7.42", [
   "source": "CAT 2015 Q 76",
   "text": "The figure shows the rectangle ABCD with a semicircle and a circle inscribed inside in it as shown. What is the ratio of the\n area of the circle to that of the semicircle?\n A. (√ 2 − 1 ) 2 : 1   (\n   B. 2 √2 − 1   )2 : 1\n   D. None of these\n C. (√2 − 1 ) : 2",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47650.jpg"
+  ]
  },
  {
   "id": "7.42.102",
@@ -718,7 +838,10 @@ APT.addBank("7.42", [
   "source": "CAT 2015 Q 83",
   "text": "In the figure above, AB = BC = CD = DE = EF = FG = GA . Then ∠DAE is approximately\n A. 15 ∘   B. 20 ∘   C. 30 ∘   D. 25 ∘",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "47696.jpg"
+  ]
  },
  {
   "id": "7.42.104",
@@ -732,7 +855,10 @@ APT.addBank("7.42", [
   "source": "CAT 2016 Q 69",
   "text": "If ABCD is a square and BCE is an equilateral triangle, what is the measure of ∠DEC?\n A. 15 ∘   B. 30 ∘   C. 20 ∘   D. 45 ∘",
   "key": "A",
-  "figure": false
+  "figure": false,
+  "images": [
+   "47698.jpg"
+  ]
  },
  {
   "id": "7.42.106",
@@ -746,14 +872,20 @@ APT.addBank("7.42", [
   "source": "CAT 2016 Q 76",
   "text": "The figure shows a circle of diameter AB and radius 6.5 cm.\n If chord CA is 5 cm long, find the area of △ABC __________",
   "key": "30",
-  "figure": true
+  "figure": false,
+  "images": [
+   "47700.jpg"
+  ]
  },
  {
   "id": "7.42.108",
   "source": "CAT 2016 Q 79",
   "text": "In △ABC, ∠B is a right angle, AC = 6 cm, and D is the mid-point of AC. The length of BD is ___________",
   "key": "5",
-  "figure": false
+  "figure": false,
+  "images": [
+   "47746.jpg"
+  ]
  },
  {
   "id": "7.42.109",

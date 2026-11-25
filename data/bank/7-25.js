@@ -4,7 +4,10 @@ APT.addBank("7.25", [
   "source": "",
   "text": "This is a popular question from Cubes chapter of Quantitative Aptitude Mathematics\n  A Cube of side 4 cm is cut into 64 equal parts which are numbered from 1 to 64 in such a manner.The cube is single\n  Diagonal cut.\n  Now find the sum of the elements of the cubes which are cut by the single diagonal cut.",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "45577.jpg"
+  ]
  },
  {
   "id": "7.25.2",

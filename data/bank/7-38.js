@@ -53,21 +53,30 @@ APT.addBank("7.38", [
   "source": "CAT 2000 Q 82",
   "text": "Answer the following question based on the information given below.\n Given below is a graph made up of straight-line segments shown as thick lines. Choose the answer as\n a. if f(x) = 3f(– x);   b. if f(x) = – f(– x);   c. if f(x) = f(– x); and   d. if 3f(x) = 6f(– x), for x ≥ 0.\n A. 1   B. 2   C. 3   D. 4",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46302.jpg"
+  ]
  },
  {
   "id": "7.38.9",
   "source": "CAT 2000 Q 83",
   "text": "Answer the following question based on the information given below.\n Given below is a graph made up of straight-line segments shown as thick lines. Choose the answer as\n a. if f(x) = 3f(– x);   b. if f(x) = – f(– x);   c. if f(x) = f(– x); and   d. if 3f(x) = 6f(– x), for x ≥ 0.\n A. 1   B. 2   C. 3   D. 4",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46304.jpg"
+  ]
  },
  {
   "id": "7.38.10",
   "source": "CAT 2000 Q 84",
   "text": "Answer the following question based on the information given below.\n Given below is a graph made up of straight-line segments shown as thick lines. Choose the answer as\n a. if f(x) = 3f(– x);   b. if f(x) = – f(– x);   c. if f(x) = f(– x); and   d. if 3f(x) = 6f(– x), for x ≥ 0.\n A. 1   B. 2   C. 3   D. 4",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "46306.jpg"
+  ]
  },
  {
   "id": "7.38.11",
@@ -151,7 +160,10 @@ APT.addBank("7.38", [
   "source": "CAT 2011 Q 17",
   "text": "The graphs given alongside represent two functions f(x) and g(x) respectively. Which of the following is true?\n A. g(x) = [f(x)]   B. g(x) = f( − x)   C. g(x) = − f(x)   D. None of these",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "46418.jpg"
+  ]
  },
  {
   "id": "7.38.23",

@@ -144,7 +144,10 @@ APT.addBank("7.66", [
   "source": "CAT 2004 Q 68",
   "text": "In the adjoining figure, the lines represent one-way roads allowing travel only northwards or only westwards. Along how many\n distinct routes can a car reach point B from point A?\n A. 15   B. 56   C. 120   D. 336",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "51761.jpg"
+  ]
  },
  {
   "id": "7.66.22",

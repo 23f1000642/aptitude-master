@@ -11,7 +11,10 @@ APT.addBank("7.75", [
   "source": "",
   "text": "Aptitude , Chapter :Ratio Proportion",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "54364.jpg"
+  ]
  },
  {
   "id": "7.75.3",

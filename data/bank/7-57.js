@@ -25,28 +25,42 @@ APT.addBank("7.57", [
   "source": "CAT 2003 Q 2-63",
   "text": "Consider a cylinder of height h cms and radius r = π cms as shown in the figure (not drawn to scale). A string of a certain\n length, when wound on its cylindrical surface, starting at point A and ending at point B, gives a maximum of n turns (in other\n words, the string‟s length is the minimum length required to wind n turns.)\n What is the vertical spacing in cms between two consecutive turns?\n A. n   B.\n   √n\n   h   D. Cannot be determined with given\n C.   n2   information",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "49547.jpg"
+  ]
  },
  {
   "id": "7.57.5",
   "source": "CAT 2003 Q 2-64",
   "text": "Consider a cylinder of height h cms and radius r = π cms as shown in the figure (not drawn to scale). A string of a certain\n length, when wound on its cylindrical surface, starting at point A and ending at point B, gives a maximum of n turns (in other\n words, the string‟s length is the minimum length required to wind n turns.)\n The same string, when wound on the exterior four walls of a cube of side n cms, starting at point C and ending at point D, can\n give exactly one turn (see figure, not drawn to scale). The length of the string, in cms, is\n A. √2n   B. √12n   C. n   D. √13n",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "49547.jpg",
+   "49549.jpg"
+  ]
  },
  {
   "id": "7.57.6",
   "source": "CAT 2003 Q 2-65",
   "text": "Consider a cylinder of height h cms and radius r = π cms as shown in the figure (not drawn to scale). A string of a certain\n length, when wound on its cylindrical surface, starting at point A and ending at point B, gives a maximum of n turns (in other\n words, the string‟s length is the minimum length required to wind n turns.)\n The same string, when wound on the exterior four walls of a cube of side n cms, starting at point C and ending at point D, can\n give exactly one turn (see figure, not drawn to scale).\n How is h related to n?\n A. h = √2n   B. h = √17n   C. h = n   D. h = √13n",
   "key": "C",
-  "figure": true
+  "figure": false,
+  "images": [
+   "49547.jpg",
+   "49549.jpg"
+  ]
  },
  {
   "id": "7.57.7",
   "source": "CAT 2004 Q 72",
   "text": "If the lengths of diagonals DF, AG and CE of the cube shown in the adjoining figure are equal to the three sides of a triangle,\n then the radius of the circle circumscribing that triangle will be\n A. equal to the sides of the cube   B. √3 times the sides of the cube\n   1   D. impossible to find from the given\n   √3 times the sides of the cube   information\n C.",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "49570.jpg"
+  ]
  },
  {
   "id": "7.57.8",

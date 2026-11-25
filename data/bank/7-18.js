@@ -4,7 +4,10 @@ APT.addBank("7.18", [
   "source": "CAT 1995 Q 57",
   "text": "PQRS is a square. SR is a tangent (at point S) to the circle with centre 0 and TR = OS. The ratio of the area of the circle to the\n  area of the square is:\n  A. π/3   B. 11/7   C. 3/π   D. 7/11",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "45303.png"
+  ]
  },
  {
   "id": "7.18.2",

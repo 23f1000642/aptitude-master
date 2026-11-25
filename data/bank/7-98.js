@@ -39,6 +39,9 @@ APT.addBank("7.98", [
   "source": "",
   "text": "NIELIT 2019 Feb Scientist D - Section D: 23\n  A train enters into a tunnel AB at A and exits at B. A jackal is sitting at O in another by passing tunnel AOB, which is\n  connected to AB at A and B, where OA is perpendicular to OB. A cat is sitting at P inside the tunnel AB making the shortest\n  possible distance between O and P, such that AO = 30 km and PB = 32 km. When a train before entering into the tunnel AB\n  makes a whistle somewhere before A, the jackal and cat run towards A they meet with accident at the entrance A. The ratio of\n  speeds of jackal and cat is :\n   2   4   5   3\n  A.   B.   C.   D. 2",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "57658.jpg"
+  ]
  }
 ]);

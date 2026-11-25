@@ -11,7 +11,10 @@ APT.addBank("7.99", [
   "source": "CAT 1995 Q 54",
   "text": "ABCD is a square of area 4, which is divided into four non-overlapping triangles as shown in the figure. The sum of the\n  perimeters of the triangles is:\n  A. 8(1 + √2)   B. 8(2 + √2)   C. 4(2 + √2)   D. 4(1 + √2)",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "57660.png"
+  ]
  },
  {
   "id": "7.99.3",
@@ -32,7 +35,10 @@ APT.addBank("7.99", [
   "source": "CAT 1995 Q 81",
   "text": "Choose the correct option:\n AB is perpendicular to BC and BD is perpendicular to AC. CE bisects the angle C; ∠A = 30 ∘ Then, what is ∠CED?\n A. 30 ∘   B. 60 ∘   C. 45 ∘   D. 65 ∘",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "57703.png"
+  ]
  },
  {
   "id": "7.99.6",
@@ -46,7 +52,10 @@ APT.addBank("7.99", [
   "source": "",
   "text": "In the given figure, ∠BAC = 120° and AD is the bisector of ∠BAC.\n   ( AD ) ( AB )   AE\n   BD   EC\n In the given figure, ∠BAC = 120º and AD is the bisector of ∠BAC. If   =   (AE + EC) and ∠EDC = ∠ECD,\n what is the ratio of ∠B and ∠C?\n 1. 1 : 1\n 2. 1 : 2\n  3. 2 : 3\n  4. 5 : 6",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "57706.png"
+  ]
  },
  {
   "id": "7.99.8",
@@ -60,6 +69,9 @@ APT.addBank("7.99", [
   "source": "",
   "text": "NIELIT 2017 July Scientist B - Section A: 44\n  Find the number of triangles in the given figure\n  A. 8   B. 10   C. 12   D. 14",
   "key": "C",
-  "figure": true
+  "figure": false,
+  "images": [
+   "57756.png"
+  ]
  }
 ]);

@@ -39,35 +39,55 @@ APT.addBank("7.64", [
   "source": "CAT 1996 Q 171",
   "text": "The first table gives the percentage of students in the class of M.B.A who sought employment in the areas of Finance,\n Marketing and Software. The second table given the average starting salaries of the students per month, in these areas.\n The number of students who got jobs in finance is less than the number of students getting marketing jobs, in the five years, by\n A. 826   B. 650   C. 725   D. 548",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "51012.jpg",
+   "51014.png"
+  ]
  },
  {
   "id": "7.64.7",
   "source": "CAT 1996 Q 172",
   "text": "The first table gives the percentage of students in the class of M.B.A who sought employment in the areas of Finance,\n Marketing and Software. The second table given the average starting salaries of the students per month, in these areas.\n In 1994, students seeking jobs in finance earned Rs. _____ more than those opting for software (in lakhs)\n A. 43   B. 33.8   C. 28.4   D. 38.8",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "51012.jpg",
+   "51014.png"
+  ]
  },
  {
   "id": "7.64.8",
   "source": "CAT 1996 Q 173",
   "text": "The first table gives the percentage of students in the class of M.B.A who sought employment in the areas of Finance,\n Marketing and Software. The second table given the average starting salaries of the students per month, in these areas.\n What is the percent increase in the average salary of Finance from 1992 to 1996?\n A. 60   B. 32   C. 96   D. 80",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "51012.jpg",
+   "51014.png"
+  ]
  },
  {
   "id": "7.64.9",
   "source": "CAT 1996 Q 174",
   "text": "The first table gives the percentage of students in the class of M.B.A who sought employment in the areas of Finance,\n Marketing and Software. The second table given the average starting salaries of the students per month, in these areas.\n What is the average monthly salary offered to a management graduate in the year 1993?\n A. 6433   B. 6330\n C. 6333   D. Cannot be determined",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "51012.jpg",
+   "51014.png"
+  ]
  },
  {
   "id": "7.64.10",
   "source": "CAT 1996 Q 175",
   "text": "The first table gives the percentage of students in the class of M.B.A who sought employment in the areas of Finance,\n Marketing and Software. The second table given the average starting salaries of the students per month, in these areas.\n The average annual rate at which the initial salary offered in Software, increases\n A. 21%   B. 33%   C. 16.3%   D. 65%",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "51012.jpg",
+   "51014.png"
+  ]
  },
  {
   "id": "7.64.11",

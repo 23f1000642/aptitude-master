@@ -235,7 +235,10 @@ APT.addBank("7.0", [
   "source": "",
   "text": "Probability\n Can someone explain answer for this question(26)?\n In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red\n nor green ?\n   2   3   7   9\n A. 3   B. 4   C. 19   D. 21",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "43052.jpg"
+  ]
  },
  {
   "id": "7.0.35",
@@ -284,7 +287,10 @@ APT.addBank("7.0", [
   "source": "",
   "text": "GATE 2014-EC 9\n A firm producing air purifiers sold 200 units in 2012. The following pie chart presents the share of raw material, labour,\n energy, plant & machinery, and transportation costs in the total manufacturing cost of the firm in 2012. The expenditure on\n labour in 2012 is Rs. 4,50,000. In 2013, the raw material expenses increased by 30% and all other expenses increased by 20%.\n What is the percentage increase in total cost for the company in 2013?",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "43087.jpg"
+  ]
  },
  {
   "id": "7.0.42",
@@ -326,7 +332,10 @@ APT.addBank("7.0", [
   "source": "",
   "text": "Set theory\n Among 150 faculty members in an institute, 55 are connected with each other through Facebook ® and 85 are connected\n through WhatsApp ®. 30 faculty members do not have Facebook ® or WhatsApp ® accounts. The number of faculty members\n connected only through Facebook ® accounts is\n A. 35   B. 45   C. 65   D. 90",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "43125.jpg"
+  ]
  },
  {
   "id": "7.0.48",
@@ -340,7 +349,10 @@ APT.addBank("7.0", [
   "source": "",
   "text": "IBPS\n  A school has 378 girls students and 675 boy students. The school is divided into strictly boys or strictly girls sections and all\n sections in the school have the same number of students. Find the number of sections in the school.\n A. 39   B. 14   C. 25   D. 27",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "43127.jpg"
+  ]
  },
  {
   "id": "7.0.50",

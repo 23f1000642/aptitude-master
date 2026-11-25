@@ -564,7 +564,10 @@ APT.addBank("7.88", [
   "source": "",
   "text": "NIELIT 2019 Feb Scientist C - Section D: 13\n Two persons start walking on a road that diverge at an angle of 120 ∘ . If they walk at the rate of 3km/h and 2km/h respectively.\n Find the distance between them after 4hrs.\n A. 4√19 km   B. 5 km   C. 7 km   D. 8√19 km",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "56553.jpg"
+  ]
  },
  {
   "id": "7.88.82",

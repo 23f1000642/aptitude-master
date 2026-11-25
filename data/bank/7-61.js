@@ -18,6 +18,9 @@ APT.addBank("7.61", [
   "source": "",
   "text": "NIELIT 2016 DEC Scientist B - Section A: 19\n  Find the missing number in the following question.\n  A. 32   B. 42   C. 62   D. 82",
   "key": "B",
-  "figure": false
+  "figure": false,
+  "images": [
+   "49844.jpg"
+  ]
  }
 ]);

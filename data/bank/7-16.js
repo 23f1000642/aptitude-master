@@ -18,7 +18,10 @@ APT.addBank("7.16", [
   "source": "CAT 2012 Q 21",
   "text": "In the figure given, OABC is a parallelogram. The area of the parallelogram is 21 sq units and the point C lies on the line x = 3\n  . Find the coordinates of B.\n  A. (3, 10)   B. (10, 3)   C. (10, 10)   D. (8, 3)",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "45170.jpg"
+  ]
  },
  {
   "id": "7.16.4",

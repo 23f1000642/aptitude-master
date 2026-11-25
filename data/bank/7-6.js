@@ -4,7 +4,10 @@ APT.addBank("7.6", [
   "source": "",
   "text": "A shed has a side wall of the dimensions shown. Calculate the area of the wall in square feet.\n  A shed has a side wall of the dimensions shown. Calculate the area of the wall in square feet.\n  A. 24   B. 27   C. 28   D. 30   E. 36",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "44355.png"
+  ]
  },
  {
   "id": "7.6.2",
