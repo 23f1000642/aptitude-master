@@ -1,0 +1,113 @@
+APT.addTopic({
+  id: 'profit-loss',
+  title: 'Profit, Loss & Discount',
+  tagline: 'Toy car shop: cost price, sticker price and selling price.',
+  pdfTopics: ['7.71', '7.31', '7.24'],
+  concepts: {
+    story: [
+      'You buy a toy car for Rs 100: that is the <b>Cost Price (CP)</b>. You stick a label on it saying Rs 150: the <b>Marked Price (MP)</b>. A friend bargains and pays Rs 120: the <b>Selling Price (SP)</b>.',
+      'The Rs 30 you gave up from the label is the <b>discount</b>. The Rs 20 you earned over your cost is the <b>profit</b>.',
+    ],
+    memory: 'Profit and loss % are counted on CP. Discount % is counted on MP.',
+    formulas: [
+      'Profit % = (SP − CP)/CP × 100 · Loss % = (CP − SP)/CP × 100',
+      'SP = CP × (1 + profit%/100) · SP = MP × (1 − discount%/100)',
+      '<b>Bridge formula</b>: MP × (100 − d) = CP × (100 + p)',
+      'Two items sold at the <b>same SP</b>, one at x% profit and one at x% loss → always a loss of x²/100 %',
+      'False weights: profit % = (true − false)/false × 100',
+      'Two discounts a% and b% = one discount of a + b − ab/100',
+    ],
+    tricks: [
+      '<b>Take CP = 100</b> when nothing is given.',
+      '<b>Fractions</b>: 11.11% = 1/9 and 14.28% = 1/7. Turn awkward percents into fractions.',
+      '<b>Max discount for no loss</b> after a markup of m% = m/(100 + m) × 100.',
+      '<b>Revenue change</b> = price and quantity multipliers chained: 1.3 × 0.8 = 1.04 means +4%.',
+    ],
+    patterns: [
+      ['Marked price + discount + profit', 'Bridge formula'],
+      ['Two items, same SP, +x% and −x%', 'Loss = x²/100 %'],
+      ['Fake scale / false weights', 'Compare what he gives with what he charges for'],
+      ['Price up, sales down', 'Chain the multipliers'],
+    ],
+  },
+  questions: [
+    {
+      pdf: '7.71.2', level: 'easy',
+      q: 'I sold two watches for Rs 300 each, one at a 10% loss and the other at a 10% profit. What is the overall result?',
+      options: ['+10%', '−1%', '+1%', '0'], answer: 1,
+      steps: [
+        'Same SP with +x% and −x% always gives a loss of x²/100 %.',
+        'x = 10, so the loss = 100/100 = 1%.',
+        'Check: CPs are 300/1.1 = 272.73 and 300/0.9 = 333.33, total 606.06. SP total is 600, a loss of about 1%.',
+      ],
+      trick: 'x²/100 rule.',
+    },
+    {
+      pdf: '7.71.1', level: 'easy',
+      q: 'A shopkeeper sells two computers for Rs 24000 each, gaining 20% on one and losing 20% on the other. What is the overall gain or loss?',
+      options: ['No profit, no loss', '4% gain', '4% loss', '2% loss'], answer: 2,
+      steps: ['Same SP, ±20%: loss = 20²/100 = 4%.'],
+      trick: 'x²/100 rule.',
+    },
+    {
+      pdf: '7.71.14', level: 'medium',
+      q: 'Instead of a metre scale, a cloth merchant uses a 120 cm scale while buying, but an 80 cm scale while selling. What is his overall profit percentage?',
+      options: ['50%', '25%', '40%', '15%'], answer: 0,
+      steps: [
+        'When buying, he pays for 100 cm but takes 120 cm. Cost per cm = 100/120.',
+        'When selling, he charges for 100 cm but gives 80 cm. Price per cm = 100/80.',
+        'Price ÷ cost = (100/80) ÷ (100/120) = 120/80 = 1.5.',
+        'So the profit is 50%.',
+      ],
+    },
+    {
+      pdf: '7.71.8', level: 'medium',
+      q: 'The same merchant (120 cm scale buying, 80 cm scale selling) also gives a 20% discount for cash. What is his overall profit?',
+      options: ['20%', '25%', '40%', '15%'], answer: 0,
+      steps: ['Without the discount the multiplier is 1.5.', 'With a 20% discount: 1.5 × 0.8 = 1.2, so the profit is 20%.'],
+    },
+    {
+      pdf: '7.71.9', level: 'medium',
+      q: 'After a discount of 11.11%, a trader still makes a gain of 14.28%. By what percent above cost price does he mark his goods?',
+      options: ['28.56%', '35%', '22.22%', 'None of these'], answer: 0,
+      steps: [
+        '11.11% = 1/9, so SP = MP × 8/9.',
+        '14.28% = 1/7, so SP = CP × 8/7.',
+        'MP × 8/9 = CP × 8/7, so MP = CP × 9/7 = 1.2857 × CP.',
+        'The markup is about 28.57%, which matches option A.',
+      ],
+      trick: 'Turn percents into fractions.',
+    },
+    {
+      pdf: '7.31.1', level: 'easy',
+      q: 'A trader marks his goods so that after a 15% discount he still earns a 20% profit. Find the marked price of an article that costs him ₹850.',
+      options: ['₹1200', '₹1300', '₹1250', '₹1350'], answer: 0,
+      steps: ['SP = 850 × 1.2 = 1020.', 'MP × 0.85 = 1020, so MP = 1200.'],
+      trick: 'Bridge formula.',
+    },
+    {
+      pdf: '7.31.2', level: 'easy',
+      q: 'Tarun bought a TV at a 20% discount on the labelled price. With a 25% discount he would have saved ₹500 more. What price did he pay?',
+      options: ['₹8000', '₹10000', '₹12000', '₹16000'], answer: 0,
+      steps: ['The extra 5% of the label price = 500, so the label = 10000.', 'He paid 80% of it = 8000.'],
+    },
+    {
+      pdf: '7.31.4', level: 'easy',
+      q: 'A merchant marks his goods 75% above cost. What is the maximum discount he can give and still have no loss?',
+      options: ['75%', '46.67%', '300%', '42.85%'], answer: 3,
+      steps: ['Take CP = 100, so MP = 175.', 'He can drop 75 out of 175: 75/175 × 100 = 42.85%.'],
+      trick: 'm/(100 + m).',
+    },
+    {
+      pdf: '7.71.6', level: 'hard',
+      q: 'A diamond\'s price varies as the square of its weight. It broke into four pieces with weights in the ratio 1 : 2 : 3 : 4, and the pieces sold for Rs 70,000 less than the whole. Find the original price.',
+      options: ['Rs 1.4 lakh', 'Rs 2.0 lakh', 'Rs 1.0 lakh', 'Rs 2.1 lakh'], answer: 2,
+      steps: [
+        'Whole weight = 1 + 2 + 3 + 4 = 10 units, so the price is proportional to 10² = 100.',
+        'Pieces: 1² + 2² + 3² + 4² = 30.',
+        'The loss is 100 − 30 = 70 parts = Rs 70,000, so 1 part = 1000.',
+        'Original price = 100 parts = Rs 1,00,000 = 1 lakh.',
+      ],
+    },
+  ],
+});
