@@ -25,7 +25,7 @@ APT.topics.forEach((t) => {
     if (q.options) {
       if (!(q.answer >= 0 && q.answer < q.options.length)) fail(`${where}: answer index out of range`);
       const k = q.pdf && keyOf[q.pdf];
-      if (k && /^[A-E]$/.test(k) && L[q.answer] !== k) fail(`${where}: PDF key is ${k}, app says ${L[q.answer]}`);
+      if (k && /^[A-E]$/.test(k) && L[q.answer] !== k && !q.keyNote) fail(`${where}: PDF key is ${k}, app says ${L[q.answer]}`);
     } else if (!q.answerText) fail(`${where}: needs answerText`);
   });
 });
