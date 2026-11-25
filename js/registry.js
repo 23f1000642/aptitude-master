@@ -6,6 +6,7 @@ window.APT = {
     { id: 'reasoning', title: 'Logical Reasoning', short: 'Reasoning' },
     { id: 'english', title: 'English Language', short: 'English' },
     { id: 'general', title: 'Computer & General Awareness', short: 'GA' },
+    { id: 'gate', title: 'GATE General Aptitude (PYQ)', short: 'GATE' },
   ],
   topics: [],
   bankIndex: [],
