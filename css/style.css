@@ -222,6 +222,7 @@ pre.diagram { background: var(--bg); padding: 14px; border-radius: 10px; overflo
 .q-text { font-size: 1.02rem; margin-bottom: 12px; }
 .q-text.pre { white-space: pre-wrap; font-size: 0.95rem; }
 .options { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 8px; }
+.options.long { grid-template-columns: 1fr; }
 .option {
   display: flex; align-items: center; gap: 10px; text-align: left;
   padding: 10px 12px; font: inherit; font-size: 0.95rem;

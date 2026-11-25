@@ -157,7 +157,8 @@
     const star = Store.isBookmarked(q.qid);
     let answerArea;
     if (q.options) {
-      answerArea = `<div class="options">${q.options.map((o, i) => {
+      const longOpts = q.options.some((o) => o.replace(/<[^>]+>/g, '').length > 38);
+      answerArea = `<div class="options${longOpts ? ' long' : ''}">${q.options.map((o, i) => {
         let cls = '';
         if (att) {
           if (i === q.answer) cls = ' correct';
