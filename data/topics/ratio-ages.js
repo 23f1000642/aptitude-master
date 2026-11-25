@@ -1,0 +1,106 @@
+APT.addTopic({
+  id: 'ratio-ages',
+  title: 'Ratio, Proportion & Ages',
+  tagline: 'Lemonade recipes, and the age gap that never changes.',
+  pdfTopics: ['7.75', '7.3', '7.76'],
+  concepts: {
+    story: [
+      'Mom makes lemonade with 1 cup of lemon juice for every 3 cups of water. That is a <b>ratio of 1 : 3</b>. For a big jug with 2 cups of juice she needs 6 cups of water: same taste, bigger jug. That is a <b>proportion</b>.',
+      'A ratio is a recipe. Each "part" is a box, and the job is to find what goes in one box.',
+      '<b>Ages:</b> you and your dad both get one year older every birthday, so <b>the age gap never changes</b>. That one fact solves most age questions.',
+    ],
+    memory: 'Find the value of ONE part. Everything else follows.',
+    formulas: [
+      'a : b = 2 : 3 → write a = 2k, b = 3k (k = one part)',
+      'Split X in the ratio a : b → first share = X × a/(a + b)',
+      'Joining ratios: a : b = 2 : 3 and b : c = 4 : 5 → make b equal → 8 : 12 : 15',
+      'Lengths ×k → areas ×k², volumes ×k³',
+      'Ages: "n years ago" → subtract n from <b>every</b> person. "After n years" → add n to every person',
+    ],
+    tricks: [
+      '<b>One part</b>: if the ratio gap is 7 parts and the real gap is 28, one part = 4.',
+      '<b>The age difference is constant.</b> In 12 : 5 the gap is 7 parts, now and forever.',
+      '<b>Plug in the options</b> for age questions. It\'s often faster than algebra.',
+      '<b>The sum of n people\'s ages</b> goes up by n every year.',
+    ],
+    patterns: [
+      ['A ratio and one real value', 'Find one part'],
+      ['Coins of different values', 'Count × value for each type, then write two equations'],
+      ['Size doubled, squared or cubed', 'Area ×k², volume ×k³'],
+      ['"x years ago the sum was…"', 'Shift every person\'s age by x'],
+      ['"After 10 years father = 3 × son"', 'Add 10 to both, then use the ratio'],
+    ],
+  },
+  questions: [
+    {
+      pdf: '7.75.1', level: 'easy',
+      q: 'A cube has a volume of 8 cubic metres. If each side is doubled, what is its new volume?',
+      options: ['16', '24', '32', '48', '64'], answer: 4,
+      steps: ['Doubling every side multiplies the volume by 2³ = 8.', '8 × 8 = 64 cubic metres.'],
+    },
+    {
+      pdf: '7.75.3', level: 'medium',
+      q: 'A man buys spirit at Rs 60 per litre, adds water, and sells the mix at Rs 75 per litre. His profit is 37.5%. What is the ratio of spirit to water?',
+      options: ['9 : 1', '10 : 1', '11 : 1', 'None of these'], answer: 1,
+      steps: [
+        'Cost of 1 litre of mix = 75 ÷ 1.375 = 600/11 ≈ 54.55.',
+        'Water is free, so the spirit in 1 litre = (600/11) ÷ 60 = 10/11 litre.',
+        'Water = 1/11 litre, so spirit : water = 10 : 1.',
+      ],
+    },
+    {
+      pdf: '7.75.9', level: 'hard',
+      q: 'A change machine has Re 1, Rs 2 and Rs 5 coins: 300 coins worth Rs 960. If the numbers of Re 1 and Rs 2 coins were swapped, the value would drop by Rs 40. How many Rs 5 coins are there?',
+      options: ['100', '140', '60', '150'], answer: 1,
+      steps: [
+        'Let x = Re 1 coins, y = Rs 2 coins, z = Rs 5 coins.',
+        'Swapping lowers the value by 40: (x + 2y) − (2x + y) = 40, so y − x = 40.',
+        'Subtract the count equation from the value equation: (x + 2y + 5z) − (x + y + z) = 960 − 300, so y + 4z = 660.',
+        'With x = y − 40, the count equation gives 2y − 40 + z = 300, so z = 340 − 2y.',
+        'y + 4(340 − 2y) = 660 → 1360 − 7y = 660 → y = 100, z = 140.',
+      ],
+    },
+    {
+      pdf: '7.3.5', level: 'easy',
+      q: 'The ratio of a father\'s age to his son\'s is 12 : 5, and the difference of their ages is 28 years. What will the ratio be after 8 years?',
+      options: ['2 : 2', '3 : 1', '2 : 1', '3 : 2'], answer: 2,
+      steps: ['The gap is 12 − 5 = 7 parts = 28 years, so one part = 4.', 'Ages now: 48 and 20.', 'After 8 years: 56 : 28 = 2 : 1.'],
+      trick: 'One-part trick.',
+    },
+    {
+      pdf: '7.3.8', level: 'easy',
+      q: 'The present ages of three people are in the ratio 4 : 7 : 9. Eight years ago their ages added up to 56. Find their present ages.',
+      options: ['8, 20, 28', '16, 28, 36', '20, 35, 45', 'None of these'], answer: 1,
+      steps: ['Each of the 3 people is 8 years older now: sum = 56 + 24 = 80.', '4 + 7 + 9 = 20 parts = 80, so one part = 4.', 'Ages: 16, 28, 36.'],
+    },
+    {
+      pdf: '7.3.4', level: 'medium',
+      q: 'Dick is thrice as old as Tom, and Harry is twice as old as Dick. Dick\'s age is 1 year less than the average age of all three. What is Harry\'s age?',
+      options: null, answerText: '18', accept: ['18', '18years'],
+      steps: ['Tom = t, Dick = 3t, Harry = 6t. Average = 10t/3.', '3t = 10t/3 − 1 → 9t = 10t − 3 → t = 3.', 'Harry = 6 × 3 = 18.'],
+    },
+    {
+      pdf: '7.3.3', level: 'medium',
+      q: 'Arun\'s age is 40% of Barun\'s. In a few years Arun will be half Barun\'s age. By what percent will Barun\'s age have increased in that time?',
+      options: ['15', 'None of these', '25', '30'], answer: 1,
+      steps: ['Take Barun = 100, Arun = 40. After x years: 40 + x = (100 + x)/2.', '80 + 2x = 100 + x → x = 20.', 'Barun goes from 100 to 120: a 20% rise. 20 isn\'t listed, so "None of these".'],
+    },
+    {
+      pdf: '7.3.7', level: 'easy',
+      q: 'Rani will be twice Raja\'s age in 3 years, when Raja will be 40. How old is Rani now?',
+      options: ['20', '80', '77', '37'], answer: 2,
+      steps: ['In 3 years Raja = 40, so Rani = 80.', 'Now Rani = 80 − 3 = 77.'],
+    },
+    {
+      pdf: '7.75.6', level: 'medium',
+      q: 'A student\'s marks in five papers (same maximum each) are in the ratio 6 : 7 : 8 : 9 : 10. He scored 60% in total. In how many papers did he get more than 50%?',
+      options: ['2', '3', '4', '5'], answer: 2,
+      steps: [
+        'Let the maximum be 100 per paper. Total scored = 60% of 500 = 300.',
+        'Parts: 6 + 7 + 8 + 9 + 10 = 40, so one part = 7.5.',
+        'Marks: 45, 52.5, 60, 67.5, 75. The lowest is 45, which is below 50.',
+        'So 4 papers are above 50%.',
+      ],
+    },
+  ],
+});
