@@ -256,7 +256,8 @@
     return new Promise((resolve, reject) => {
       if (APT.bank[id]) return resolve(APT.bank[id]);
       const s = document.createElement('script');
-      s.src = `data/bank/${id.replace('.', '-')}.js`;
+      const meta = APT.bankIndex.find((b) => b.id === id);
+      s.src = meta && meta.file ? meta.file : `data/bank/${id.replace('.', '-')}.js`;
       s.onload = () => resolve(APT.bank[id] || []);
       s.onerror = reject;
       document.body.appendChild(s);
