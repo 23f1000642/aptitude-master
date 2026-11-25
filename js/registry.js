@@ -4,6 +4,8 @@ window.APT = {
     { id: 'quant', title: 'Quantitative Aptitude', short: 'Quant' },
     { id: 'di', title: 'Data Interpretation', short: 'DI' },
     { id: 'reasoning', title: 'Logical Reasoning', short: 'Reasoning' },
+    { id: 'english', title: 'English Language', short: 'English' },
+    { id: 'general', title: 'Computer & General Awareness', short: 'GA' },
   ],
   topics: [],
   bankIndex: [],
