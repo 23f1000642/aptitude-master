@@ -71,11 +71,5 @@ APT.addTopic({
         'Order clockwise: A, G, B, D, F, H, C, E. F\'s right (anticlockwise) is seat 3 → D.',
       ],
     },
-    {
-      level: 'medium',
-      q: '(Extra practice) Five friends P, Q, R, S, T sit in a row facing North. R is in the middle. P is at the left end. T is to the immediate right of R. Q is not next to P. Who is second from the right end?',
-      options: ['Q', 'S', 'T', 'R'], answer: 2,
-      steps: ['Seats 1–5 from left to right: P = 1, R = 3, T = 4.', 'Q and S share seats 2 and 5. Q is not next to P, so Q = 5 and S = 2.', 'Row: P S R T Q. Second from the right = T.'],
-    },
   ],
 });

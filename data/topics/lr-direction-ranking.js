@@ -40,19 +40,6 @@ APT.addTopic({
   },
   questions: [
     {
-      level: 'easy',
-      q: '(Extra practice) Ravi walks 10 m North, turns right and walks 6 m, then turns right again and walks 18 m. How far is he from the start, and in which direction?',
-      options: ['10 m South-East', '10 m North-East', '14 m South', '8 m East'], answer: 0,
-      steps: ['North 10, then right (East) 6, then right again (South) 18.', 'North–South: 10 − 18 = 8 South. East–West: 6 East.', 'Distance = √(8² + 6²) = 10 m, towards the South-East.'],
-      trick: 'Add up N–S and E–W, then Pythagoras.',
-    },
-    {
-      level: 'easy',
-      q: '(Extra practice) One morning after sunrise, Meena stood facing a pole. The pole\'s shadow fell exactly to her right. Which direction was she facing?',
-      options: ['North', 'South', 'East', 'West'], answer: 1,
-      steps: ['In the morning the sun is in the East, so shadows fall to the West.', 'The shadow is on her right, so her right is West.', 'If your right hand points West, you are facing South.'],
-    },
-    {
       pdf: '2.32.14', level: 'medium',
       q: 'In a row of girls, Seeta is 7th from the left and Leena is 9th from the right. When they swap seats, Seeta becomes 11th from the left. How many girls are in the row?',
       options: ['16', '20', '22', 'None of these'], answer: 3,

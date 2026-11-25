@@ -85,11 +85,5 @@ APT.addTopic({
       ],
       trick: 'Rewrite the new row before counting.',
     },
-    {
-      level: 'easy',
-      q: '(Extra practice) If the day before yesterday was Thursday, what day will it be the day after tomorrow?',
-      options: ['Sunday', 'Monday', 'Tuesday', 'Saturday'], answer: 1,
-      steps: ['Day before yesterday = Thursday, so yesterday = Friday and today = Saturday.', 'Tomorrow = Sunday, so the day after tomorrow = Monday.'],
-    },
   ],
 });

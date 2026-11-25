@@ -81,15 +81,5 @@ APT.addTopic({
         'a = 15200/462 and b = 19200/462, so a : b = 152 : 192 = 19 : 24.',
       ],
     },
-    {
-      level: 'medium',
-      q: '(Extra practice, based on PDF 7.5.7) Container 1 holds A and B in the ratio 5 : 1 and container 2 in the ratio 1 : 3. If they are mixed 3 : 4, what fraction of the final mix is A?',
-      options: ['1/3', '1/2', '2/3', '3/5'], answer: 1,
-      steps: [
-        'A from container 1: 3 × 5/6 = 2.5. A from container 2: 4 × 1/4 = 1.',
-        'Total A = 3.5 out of 7 = 1/2.',
-        '(This is the reverse check of the previous question.)',
-      ],
-    },
   ],
 });

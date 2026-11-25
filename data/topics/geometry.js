@@ -95,11 +95,5 @@ APT.addTopic({
       steps: ['Cuboid volume = 8 × 11 × 2 = 176.', 'Rod: π × 4² × L = 176 → (22/7) × 16 × L = 176.', 'L = 176 × 7 / 352 = 3.5 inches.'],
       trick: 'Melting keeps the volume.',
     },
-    {
-      level: 'easy',
-      q: '(Extra practice, like PDF 7.20.3) A circle has radius 10 cm. What is the area of a sector with angle 210°?',
-      options: ['183.3 cm²', '366.6 cm²', '244.4 cm²', '188.4 cm²'], answer: 0,
-      steps: ['Sector area = πr² × θ/360 = 100π × 210/360.', '= 100π × 7/12 ≈ 183.3 cm².'],
-    },
   ],
 });
