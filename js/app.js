@@ -4,8 +4,9 @@
   const app = document.getElementById('app');
   const sidebar = document.getElementById('sidebar');
   const topicById = {};
-  APT.topics.forEach((t, i) => {
-    t.index = i + 1;
+  const sectionTopics = (sec) => APT.topics.filter((t) => t.section === sec);
+  APT.sections.forEach((sec) => sectionTopics(sec.id).forEach((t, i) => { t.index = i + 1; }));
+  APT.topics.forEach((t) => {
     t.questions.forEach((q, j) => { q.qid = `${t.id}#${j + 1}`; q.no = j + 1; });
     topicById[t.id] = t;
   });
@@ -30,17 +31,18 @@
   function qids(t) { return t.questions.map((q) => q.qid); }
 
   function renderSidebar(active) {
-    const topics = APT.topics.map((t) => {
-      const s = Store.topicStats(qids(t));
-      const doneMark = s.total && s.done === s.total ? ' done' : '';
-      return `<a class="nav-item${active === t.id ? ' active' : ''}${doneMark}" href="#/topic/${t.id}">
-        <span class="nav-num">${t.index}</span><span class="nav-title">${esc(t.title)}</span>
-        <span class="nav-count">${s.done}/${s.total}</span></a>`;
-    }).join('');
+    const topics = APT.sections.map((sec) => `<div class="nav-head">${esc(sec.title)}</div>` +
+      sectionTopics(sec.id).map((t) => {
+        const s = Store.topicStats(qids(t));
+        const doneMark = s.total && s.done === s.total ? ' done' : '';
+        return `<a class="nav-item${active === t.id ? ' active' : ''}${doneMark}" href="#/topic/${t.id}">
+          <span class="nav-num">${t.index}</span><span class="nav-title">${esc(t.title)}</span>
+          <span class="nav-count">${s.done}/${s.total}</span></a>`;
+      }).join('')).join('');
     const bankCount = APT.bankIndex.reduce((n, b) => n + b.count, 0);
     sidebar.innerHTML = `
       <a class="nav-item home${active === 'home' ? ' active' : ''}" href="#/">Home</a>
-      <div class="nav-head">Learn by topic</div>${topics}
+      ${topics}
       <div class="nav-head">Practice more</div>
       <a class="nav-item${active === 'bank' ? ' active' : ''}" href="#/bank">PDF question bank <span class="nav-count">${bankCount}</span></a>
       <a class="nav-item${active === 'bookmarks' ? ' active' : ''}" href="#/bookmarks">Bookmarked <span class="nav-count">${Store.bookmarks().length}</span></a>`;
@@ -55,7 +57,7 @@
     const totalQ = APT.topics.reduce((n, t) => n + t.questions.length, 0);
     const all = APT.topics.flatMap(qids);
     const s = Store.topicStats(all);
-    const cards = APT.topics.map((t) => {
+    const card = (t) => {
       const st = Store.topicStats(qids(t));
       return `<a class="topic-card" href="#/topic/${t.id}">
         <div class="topic-num">${t.index}</div>
@@ -63,12 +65,22 @@
         <p>${esc(t.tagline)}</p>
         ${progressBar(st)}
       </a>`;
+    };
+    const sectionsHtml = APT.sections.map((sec) => {
+      const list = sectionTopics(sec.id);
+      if (!list.length) return '';
+      const st = Store.topicStats(list.flatMap(qids));
+      return `<section class="section-block" id="sec-${sec.id}">
+        <div class="section-head"><h2 class="section-title">${esc(sec.title)}</h2>
+        <span class="muted">${list.length} topics · ${st.total} questions · ${st.done} attempted</span></div>
+        <div class="topic-grid">${list.map(card).join('')}</div></section>`;
     }).join('');
     app.innerHTML = `
       <section class="hero">
-        <h1>Quantitative Aptitude, made easy</h1>
+        <h1>Aptitude, made easy</h1>
         <p>Learn each idea like a story, try the question yourself, then open the step-by-step solution.</p>
         <div class="hero-stats">
+          <div><b>${APT.sections.length}</b><span>sections</span></div>
           <div><b>${APT.topics.length}</b><span>topics</span></div>
           <div><b>${totalQ}</b><span>solved questions</span></div>
           <div><b>${APT.bankIndex.reduce((n, b) => n + b.count, 0)}</b><span>PDF practice questions</span></div>
@@ -81,8 +93,7 @@
         <div class="how-step"><b>3. Solution</b><span>Click "Show solution" for the steps.</span></div>
         <div class="how-step"><b>4. Revise</b><span>Come back after 3 days and 7 days.</span></div>
       </section>
-      <h2 class="section-title">Topics</h2>
-      <div class="topic-grid">${cards}</div>`;
+      ${sectionsHtml}`;
   }
 
   function topicPage(id, tab) {
@@ -91,11 +102,13 @@
     renderSidebar(id);
     tab = tab || 'concepts';
     const st = Store.topicStats(qids(t));
-    const prev = APT.topics[t.index - 2];
-    const next = APT.topics[t.index];
+    const sibs = sectionTopics(t.section);
+    const prev = sibs[t.index - 2];
+    const next = sibs[t.index];
+    const secTitle = (APT.sections.find((x) => x.id === t.section) || {}).title || '';
     app.innerHTML = `
       <div class="topic-head">
-        <div class="crumb"><a href="#/">Home</a> / Topic ${t.index}</div>
+        <div class="crumb"><a href="#/">Home</a> / ${esc(secTitle)} / Topic ${t.index}</div>
         <h1>${esc(t.title)}</h1>
         <p class="tagline">${esc(t.tagline)}</p>
         <div class="topic-progress">${progressBar(st)}</div>
@@ -174,6 +187,7 @@
         <ol class="steps">${q.steps.map((s) => `<li>${s}</li>`).join('')}</ol>
         <div class="final">Answer: <b>${q.options ? LETTERS[q.answer] + ') ' + q.options[q.answer] : q.answerText}</b></div>
         ${q.trick ? `<div class="trick-note"><b>Trick used:</b> ${q.trick}</div>` : ''}
+        ${q.keyNote ? `<div class="key-note"><b>Note:</b> ${q.keyNote}</div>` : ''}
       </div>
     </article>`;
   }
@@ -283,8 +297,13 @@
     renderSidebar('bank');
     app.innerHTML = `<div class="topic-head"><div class="crumb"><a href="#/">Home</a> / Question bank</div>
       <h1>PDF question bank</h1>
-      <p class="tagline">Every Quantitative Aptitude question from your PDF, grouped by the PDF's own sub-topics. ${APT.bankIndex.reduce((n, b) => n + b.count, 0)} questions in total.</p></div>
-      <div class="bank-list">${APT.bankIndex.map((b) => `<a class="bank-chip" href="#/bank/${b.id}">${esc(b.title)} <span>${b.count}</span></a>`).join('')}</div>`;
+      <p class="tagline">Every question from your PDF, grouped by the PDF's own sub-topics. ${APT.bankIndex.reduce((n, b) => n + b.count, 0)} questions in total.</p></div>
+      ${APT.sections.map((sec) => {
+        const list = APT.bankIndex.filter((b) => (b.section || 'quant') === sec.id);
+        if (!list.length) return '';
+        return `<h2 class="section-title">${esc(sec.title)} <span class="muted small">${list.reduce((n, b) => n + b.count, 0)} questions</span></h2>
+          <div class="bank-list">${list.map((b) => `<a class="bank-chip" href="#/bank/${b.id}">${esc(b.title)} <span>${b.count}</span></a>`).join('')}</div>`;
+      }).join('')}`;
   }
 
   async function bankPage(id) {
