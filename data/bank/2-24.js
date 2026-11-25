@@ -179,14 +179,20 @@ APT.addBank("2.24", [
   "source": "CAT 2018 Set-1 Q 61",
   "text": "A company administers a written test comprising of three sections of 20 marks each – Data Interpretation (DI), Written English\n (WE) and General Awareness (GA), for recruitment. A composite score for a candidate (out of 80) is calculated by doubling\n her marks in DI and adding it to the sum of her marks in the other two sections. Candidates who score less than 70% marks in\n two or more sections are disqualified. From among the rest, the four with the highest composite scores are recruited. If four or\n less candidates qualify, all who qualify are recruited.\n Ten candidates appeared for the written test. Their marks in the test are given in the table below. Some marks in the table are\n missing, but the following facts are known:\n 1. No two candidates had the same composite score.\n 2. Ajay was the unique highest scorer in WE.\n 3. Among the four recruited, Geeta had the lowest composite score.\n 4. Indu was recruited.\n 5. Danish, Harini, and Indu had scored the same marks the in GA.\n 6. Indu and Jatin both scored 100% in exactly one section and Jatin’s composite score was 10 more than Indu’s.\n If all the candidates except Ajay and Danish had different marks in DI, and Bala's composite score was less than Chetna's\n composite score, then what is the maximum marks that Bala could have scored in DI ________",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "15854.jpg"
+  ]
  },
  {
   "id": "2.24.27",
   "source": "CAT 2018 Set-1 Q 62",
   "text": "A company administers a written test comprising of three sections of 20 marks each – Data Interpretation (DI), Written English\n (WE) and General Awareness (GA), for recruitment. A composite score for a candidate (out of 80) is calculated by doubling\n her marks in DI and adding it to the sum of her marks in the other two sections. Candidates who score less than 70% marks in\n two or more sections are disqualified. From among the rest, the four with the highest composite scores are recruited. If four or\n less candidates qualify, all who qualify are recruited.\n Ten candidates appeared for the written test. Their marks in the test are given in the table below. Some marks in the table are\n missing, but the following facts are known:\n 1. No two candidates had the same composite score.\n 2. Ajay was the unique highest scorer in WE.\n 3. Among the four recruited, Geeta had the lowest composite score.\n 4. Indu was recruited.\n 5. Danish, Harini, and Indu had scored the same marks the in GA.\n 6. Indu and Jatin both scored 100% in exactly one section and Jatin’s composite score was 10 more than Indu’s.\n If all the candidates scored different marks in WE then what is the maximum marks that Harini could have scored in WE\n _______",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "15854.jpg"
+  ]
  },
  {
   "id": "2.24.28",
@@ -291,28 +297,40 @@ APT.addBank("2.24", [
   "source": "CAT 2019 Set-2 Q 59",
   "text": "Three pouches (each represented by a filled circle) are kept in each of the nine slots in a 3 × 3 grid, as shown in the figure.\n Every pouch has a certain number of one-rupee coins. The minimum and maximum amounts of money (in rupees) among the\n three pouches in each of the nine slots are given in the table. For example, we know that among the three pouches kept in the\n second column of the first row, the minimum amount in a pouch is Rs. 6 and the maximum amount is Rs. 8.\n There are nine pouches in any of the three columns, as well as in any of the three rows. It is known that the average amount of\n money (in rupees) kept in the nine pouches in any column or in any row is an integer. It is also known that the total amount of\n money kept in the three pouches in the first column of the third row is Rs. 4.\n What is the total amount of money (in rupees) in the three pouches kept in the first column of the second row ________",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "15991.jpg"
+  ]
  },
  {
   "id": "2.24.43",
   "source": "CAT 2019 Set-2 Q 60",
   "text": "Three pouches (each represented by a filled circle) are kept in each of the nine slots in a 3 × 3 grid, as shown in the figure.\n Every pouch has a certain number of one-rupee coins. The minimum and maximum amounts of money (in rupees) among the\n three pouches in each of the nine slots are given in the table. For example, we know that among the three pouches kept in the\n second column of the first row, the minimum amount in a pouch is Rs. 6 and the maximum amount is Rs. 8.\n There are nine pouches in any of the three columns, as well as in any of the three rows. It is known that the average amount of\n money (in rupees) kept in the nine pouches in any column or in any row is an integer. It is also known that the total amount of\n money kept in the three pouches in the first column of the third row is Rs. 4.\n How many pouches contain exactly one coin ______",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "16022.jpg"
+  ]
  },
  {
   "id": "2.24.44",
   "source": "CAT 2019 Set-2 Q 61",
   "text": "Three pouches (each represented by a filled circle) are kept in each of the nine slots in a 3 × 3 grid, as shown in the figure.\n Every pouch has a certain number of one-rupee coins. The minimum and maximum amounts of money (in rupees) among the\n three pouches in each of the nine slots are given in the table. For example, we know that among the three pouches kept in the\n second column of the first row, the minimum amount in a pouch is Rs. 6 and the maximum amount is Rs. 8.\n There are nine pouches in any of the three columns, as well as in any of the three rows. It is known that the average amount of\n money (in rupees) kept in the nine pouches in any column or in any row is an integer. It is also known that the total amount of\n money kept in the three pouches in the first column of the third row is Rs. 4.\n What is the number of slots for which the average amount (in rupees) of its three pouches is an integer ______",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "16022.jpg"
+  ]
  },
  {
   "id": "2.24.45",
   "source": "CAT 2019 Set-2 Q 62",
   "text": "Three pouches (each represented by a filled circle) are kept in each of the nine slots in a 3 × 3 grid, as shown in the figure.\n Every pouch has a certain number of one-rupee coins. The minimum and maximum amounts of money (in rupees) among the\n three pouches in each of the nine slots are given in the table. For example, we know that among the three pouches kept in the\n second column of the first row, the minimum amount in a pouch is Rs. 6 and the maximum amount is Rs. 8.\n There are nine pouches in any of the three columns, as well as in any of the three rows. It is known that the average amount of\n money (in rupees) kept in the nine pouches in any column or in any row is an integer. It is also known that the total\n amount of money kept in the three pouches in the first column of the third row is Rs. 4.\n The number of slots for which the total amount in its three pouches strictly exceeds Rs. 10 is_______",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "16022.jpg"
+  ]
  },
  {
   "id": "2.24.46",
@@ -389,14 +407,20 @@ APT.addBank("2.24", [
   "source": "CAT 2020 Set-2 Q 45",
   "text": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who\n polled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the second\n runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number of votes\n polled by the candidates) in any of the constituencies in this election.\n In an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission\n before he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to\n secure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\n The following table provides some incomplete information about votes polled in four constituencies: A, B, C and D, in this\n election.\n The following additional facts are known:\n 1. The first runner up polled 10, 000 more votes than the second runner up in constituency A.\n 2. None of the candidates who contested in constituency C lost their security deposit. The difference in votes polled by any\n   pair of candidates in this constituency was at least 10, 000.\n 3. The winning candidate in constituency D polled 5% of valid votes more than that of the first runner up. All the candidates\n   who lost their security deposits while contesting for this constituency, put together, polled 35% of the valid votes.\n What is the percentage of votes polled in total by all the candidates who lost their security deposits while contesting for\n constituency A?",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "16124.jpg"
+  ]
  },
  {
   "id": "2.24.57",
   "source": "CAT 2020 Set-2 Q 46",
   "text": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who\n polled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the second\n runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number of votes\n polled by the candidates) in any of the constituencies in this election.\n In an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission\n before he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to\n secure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\n The following table provides some incomplete information about votes polled in four constituencies: A, B, C and D, in this\n election.\n The following additional facts are known:\n 1. The first runner up polled 10, 000 more votes than the second runner up in constituency A.\n 2. None of the candidates who contested in constituency C lost their security deposit. The difference in votes polled by any\n   pair of candidates in this constituency was at least 10, 000.\n 3. The winning candidate in constituency D polled 5% of valid votes more than that of the first runner up. All the candidates\n   who lost their security deposits while contesting for this constituency, put together, polled 35% of the valid votes.\n How many candidates who contested in constituency B lost their security deposit ?",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "16155.jpg"
+  ]
  },
  {
   "id": "2.24.58",

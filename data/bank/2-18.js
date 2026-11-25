@@ -466,28 +466,40 @@ APT.addBank("2.18", [
   "source": "CAT 2003 Q 2-115",
   "text": "Answer the question on the basis of following information.\n The plan above shows an office block for six officers, A, B, C, D, E and F. Both B and C occupy offices to the right of corridor\n (as one enters the office block) and A occupies an office to the left of the corridor. E and F occupy offices on opposite sides of\n the corridor but their offices do not face each other. The offices of C and D face each other. E does not have a corner office. F's\n office is further down the corridor than A‟s, but on the same side.\n If E sits in his office and faces the corridor, whose office is to his left?\n A. A   B. B   C. C   D. D",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "10108.jpg"
+  ]
  },
  {
   "id": "2.18.68",
   "source": "CAT 2003 Q 2-116",
   "text": "Answer the question on the basis of following information.\n The plan above shows an office block for six officers, A, B, C, D, E and F. Both B and C occupy offices to the right of corridor\n (as one enters the office block) and A occupies an office to the left of the corridor. E and F occupy offices on opposite sides of\n the corridor but their offices do not face each other. The offices of C and D face each other. E does not have a corner office. F's\n office is further down the corridor than A‟s, but on the same side.\n Whose office faces A's office?\n A. B   B. C   C. D   D. E",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "10108.jpg"
+  ]
  },
  {
   "id": "2.18.69",
   "source": "CAT 2003 Q 2-117",
   "text": "Answer the question on the basis of following information.\n The plan above shows an office block for six officers, A, B, C, D, E and F. Both B and C occupy offices to the right of corridor\n (as one enters the office block) and A occupies an office to the left of the corridor. E and F occupy offices on opposite sides of\n the corridor but their offices do not face each other. The offices of C and D face each other. E does not have a corner office. F's\n office is further down the corridor than A‟s, but on the same side.\n Who is/are F's neighbour(s)?\n A. A only   B. A and D   C. C only   D. B and C",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "10108.jpg"
+  ]
  },
  {
   "id": "2.18.70",
   "source": "CAT 2003 Q 2-118",
   "text": "Answer the question on the basis of following information.\n The plan above shows an office block for six officers, A, B, C, D, E and F. Both B and C occupy offices to the right of corridor\n (as one enters the office block) and A occupies an office to the left of the corridor. E and F occupy offices on opposite sides of\n the corridor but their offices do not face each other. The offices of C and D face each other. E does not have a corner office. F's\n office is further down the corridor than A‟s, but on the same side.\n D was heard telling someone to go further down the corridor to the last office on the right. To whose room was he trying to\n direct that person?\n A. A   B. B   C. C   D. F",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "10108.jpg"
+  ]
  },
  {
   "id": "2.18.71",
@@ -592,28 +604,40 @@ APT.addBank("2.18", [
   "source": "CAT 2004 Q 27",
   "text": "Answer the questions based on the information given below:\n Coach John sat with the score cards of Indian players from the 3 games in a one day cricket tournament where the same set of\n players played for India and all the major batsman got out. John summarized the batting performance through 3 diagrams, one\n for each game. In each diagram, the three outer triangles communicate the number of runs scored by the three top scorers from\n India, where K, R, S, V, and Y represent Kaif, Rahul, Saurav, Virender and Yuvraj respectively. The middle diagram in each\n triangle denotes the percentage of total score that was scored by the top 3 Indian scorers in that game. No two players scored\n the same number of runs in the same game. John also calculated two batting indices for each player based on his scores in the\n tournament; the R-index of a batsman is the difference between his highest and lowest scores in the 3 games while the M-index\n is the middle number, if scores are arranged in a non-increasing order.\n Which of the players had the best M-index from the tournament?\n A. Rahul   B. Saurav   C. Virender   D. Yuvraj",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "10274.jpg"
+  ]
  },
  {
   "id": "2.18.86",
   "source": "CAT 2004 Q 28",
   "text": "Answer the questions based on the information given below:\n Coach John sat with the score cards of Indian players from the 3 games in a one day cricket tournament where the same set of\n players played for India and all the major batsman got out. John summarized the batting performance through 3 diagrams, one\n for each game. In each diagram, the three outer triangles communicate the number of runs scored by the three top scorers from\n India, where K, R, S, V, and Y represent Kaif, Rahul, Saurav, Virender and Yuvraj respectively. The middle diagram in each\n triangle denotes the percentage of total score that was scored by the top 3 Indian scorers in that game. No two players scored\n the same number of runs in the same game. John also calculated two batting indices for each player based on his scores in the\n tournament; the R-index of a batsman is the difference between his highest and lowest scores in the 3 games while the M-index\n is the middle number, if scores are arranged in a non-increasing order.\n Among the players mentioned, Who can have the lowest R-index from the tournament?\n A. Only Kaif, Rahul or Yuvraj   B. Only Kaif or Rahul\n C. Only Kaif or Yuvraj   D. Only Kaif",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "10274.jpg"
+  ]
  },
  {
   "id": "2.18.87",
   "source": "CAT 2004 Q 29",
   "text": "Answer the questions based on the information given below:\n Coach John sat with the score cards of Indian players from the 3games in a one day cricket tournament where the same set of\n players played for India and all the major batsman got out. John summarized the batting performance through3diagrams, one\n for each game. In each diagram, the three outer triangles communicate the number of runs scored by the three top scorers from\n India, where K, R, S, V, and Y represent Kaif, Rahul, Saurav, Virender and Yuvraj respectively. The middle diagram in each\n triangle denotes the percentage of total score that was scored by the top3Indian scorers in that game. No two players scored the\n same number of runs in the same game. John also calculated two batting indices for each player based on his scores in the\n tournament; the R-index of a batsman is the difference between his highest and lowest scores in the3games while the M-index\n is the middle number, if scores are arranged in a non-increasing order.\n For how many Indian players it is possible to calculate the exact M-index?\n A. 0   B. 1   C. 2   D. More than 2",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "10274.jpg"
+  ]
  },
  {
   "id": "2.18.88",
   "source": "CAT 2004 Q 30",
   "text": "Answer the questions based on the information given below:\n Coach John sat with the score cards of Indian players from the 3 games in a one day cricket tournament where the same set of\n players played for India and all the major batsman got out. John summarized the batting performance through 3 diagrams, one\n for each game. In each diagram, the three outer triangles communicate the number of runs scored by the three top scorers from\n India, where K, R, S, V, and Y represent Kaif, Rahul, Saurav, Virender and Yuvraj respectively. The middle diagram in each\n triangle denotes the percentage of total score that was scored by the top 3 Indian scorers in that game. No two players scored\n the same number of runs in the same game. John also calculated two batting indices for each player based on his scores in the\n tournament; the R-index of a batsman is the difference between his highest and lowest scores in the 3 games while the M-index\n is the middle number, if scores are arranged in a non-increasing order.\n How many players among those listed definitely scored less than Yuvraj in the tournament?\n A. 0   B. 1   C. 2   D. More than 2",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "10274.jpg"
+  ]
  },
  {
   "id": "2.18.89",
@@ -984,14 +1008,20 @@ APT.addBank("2.18", [
   "source": "CAT 2008 Q 03",
   "text": "Direction for the question given below\n The figure below shows the plan of a town. The streets are at right angles to each other. A rectangular park (P) is situated\n inside the town with a diagonal road running through it. There is also a prohibited region (D) in the town\n Neelam resides her bicycle from her house at A to her office at B, taking the shortest path, then the number of possible shortest\n paths that she can choose is\n A. 60   B. 75   C. 45   D. 90   E. 72",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "10779.jpg"
+  ]
  },
  {
   "id": "2.18.142",
   "source": "CAT 2008 Q 04",
   "text": "Direction for the question given below\n The figure below shows the plan of a town. The streets are at right angles to each other. A rectangular park (P) is situated\n inside the town with a diagonal road running through it. There is also a prohibited region (D) in the town\n Neelam resides her bicycle from her house at A to her club at C, via B, taking the shortest path, then the number of possible\n shortest paths that she can choose is\n A. 1170   B. 630   C. 792   D. 1200   E. 936",
   "key": "B",
-  "figure": true
+  "figure": false,
+  "images": [
+   "10779.jpg"
+  ]
  },
  {
   "id": "2.18.143",
@@ -1166,21 +1196,30 @@ APT.addBank("2.18", [
   "source": "CAT 2011 Q 28",
   "text": "When Munna Bhai joined the university of South Ghatkopar for his M.S., Mr. Irani, his professor, asked him to prove his\n calibre in a test conducted for the entire class. The class comprised of exactly 10 students. The test contain exactly 10 multiple\n choice type questions. However, Munna as is always the case, managed to get the correct answer-key for all the 10 questions\n well before the exam. But in the exam, he wrongly marked exactly one question, on purpose, to avoid raising any suspicion.\n All the other nine students o the class also formed their respective answer-keys in the following manner. They first obtain the\n answer-key from one or two of the students, who are called his/her jigris, who already have their answer keys. If a student has\n two jigris, then he/she first compares the answer from both the jigris. If the key to any question from both the jigris is identical,\n it is copied, otherwise it is left blank. If a student has only one jigri, then he/she copies the jigri’s keys into his/her copy.\n However, in the exam, each student intentionally replaced exactly one of the answers, other than a blank, with a wrong answer.\n It is known that no students replaced the answers to the same question. When Mr. Irani finally assessed all the answer-keys, he\n formulated the following table, which gives the answer-keys that each of the ten students marked for the 10 questions-\n I through X.\n Munna is the jigri of\n A. Sastry and Ritesh   B. Niran and Praveen   C. Lucky and Rahul   D. Jassi an Lucky",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "10995.jpg"
+  ]
  },
  {
   "id": "2.18.168",
   "source": "CAT 2011 Q 29",
   "text": "When Munna Bhai joined the university of South Ghatkopar for his M.S., Mr. Irani, his professor, asked him to prove his\n calibre in a test conducted for the entire class. The class comprised of exactly 10 students. The test contain exactly 10 multiple\n choice type questions. However, Munna as is always the case, managed to get the correct answer-key for all the 10 questions\n well before the exam. But in the exam, he wrongly marked exactly one question, on purpose, to avoid raising any suspicion.\n All the other nine students o the class also formed their respective answer-keys in the following manner. They first obtain the\n answer-key from one or two of the students, who are called his/her jigris, who already have their answer keys. If a student has\n two jigris, then he/she first compares the answer from both the jigris. If the key to any question from both the jigris is identical,\n it is copied, otherwise it is left blank. If a student has only one jigri, then he/she copies the jigri’s keys into his/her copy.\n However, in the exam, each student intentionally replaced exactly one of the answers, other than a blank, with a wrong answer.\n It is known that no students replaced the answers to the same question. When Mr. Irani finally assessed all the answer-keys, he\n formulated the following table, which gives the answer-keys that each of the ten students marked for the 10 questions- I\n through X.\n Who among the following is not the jigri of any of the ten students?\n A. Jassi   B. Praveen   C. Lucky   D. Rahul",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "11032.jpg"
+  ]
  },
  {
   "id": "2.18.169",
   "source": "CAT 2011 Q 30",
   "text": "When Munna Bhai joined the university of South Ghatkopar for his M.S., Mr. Irani, his professor, asked him to prove his\n calibre in a test conducted for the entire class. The class comprised of exactly 10 students. The test contain exactly 10 multiple\n choice type questions. However, Munna as is always the case, managed to get the correct answer-key for all the 10 questions\n well before the exam. But in the exam, he wrongly marked exactly one question, on purpose, to avoid raising any suspicion.\n All the other nine students o the class also formed their respective answer-keys in the following manner. They first obtain the\n answer-key from one or two of the students, who are called his/her jigris, who already have their answer keys. If a student has\n two jigris, then he/she first compares the answer from both the jigris. If the key to any question from both the jigris is identical,\n it is copied, otherwise it is left blank. If a student has only one jigri, then he/she copies the jigri’s keys into his/her copy.\n However, in the exam, each student intentionally replaced exactly one of the answers, other than a blank, with a wrong answer.\n It is known that no students replaced the answers to the same question. When Mr. Irani finally assessed all the answer-keys, he\n formulated the following table, which gives the answer-keys that each of the ten students marked for the 10 questions- I\n through X.\n Who are the jigris of Chinky?\n A. Niran and Rahul   B. Rahul and Sastry\n C. Sastry and Lucky   D. Cannot be determined",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "11032.jpg"
+  ]
  },
  {
   "id": "2.18.170",
@@ -1803,28 +1842,40 @@ APT.addBank("2.18", [
   "source": "CAT 2016 Q 59",
   "text": "The year is 2089. Beijing, London, New York, and Paris are in contention to host the 2096 Olympics. The eventual winner is\n determined through several rounds of voting by members of the IOC with each member representing a different city. All the\n four cities in contention are also represented in IOC. In any round of voting, the city receiving the lowest number of votes in\n that round gets eliminated. The survivor after the last round of voting gets to host the event. A member is allowed to east votes\n for at most two different cities in all rounds of voting combined. (Hence, a member becomes ineligible to cast a vote in a given\n round if both the cities (s)he voted for in earlier rounds are out of contention in that round of voting). A member is also\n ineligible to cast a vote in a round if the city (s)he represents is in contention in that round of voting. As long as the member is\n eligible, (s)he must vote and vote for only one candidate city in any round of voting. The following incomplete table shows the\n information on cities that received the maximum and minimum votes in different rounds, the number of votes cast in their\n favour, and the total votes that were cast in those rounds.\n It is also known that: All those who voted for London and Paris in round 1, continued to vote for the same cities in subsequent\n rounds as long as these cities were in contention. 75% of those who voted for Beijing in round 1, voted for Beijing in round 2\n as well. Those who voted for New York in round 1, voted either for Beijing or Paris in round 2. The difference in votes cast\n for the two contending cities in the last round was 1.50% of those who voted for Beijing in round 1, voted for Paris in round 3.\n What percentage of members from among those who voted for New York in round 1, voted for Beijing in round 2?\n A. 33.33   B. 50   C. 66.67   D. 75",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "11833.jpg"
+  ]
  },
  {
   "id": "2.18.259",
   "source": "CAT 2016 Q 60",
   "text": "The year is 2089. Beijing, London, New York, and Paris are in contention to host the 2096 Olympics. The eventual winner is\n determined through several rounds of voting by members of the IOC with each member representing a different city. All the\n four cities in contention are also represented in IOC. In any round of voting, the city receiving the lowest number of votes in\n that round gets eliminated. The survivor after the last round of voting gets to host the event. A member is allowed to east votes\n for at most two different cities in all rounds of voting combined. (Hence, a member becomes ineligible to cast a vote in a given\n round if both the cities (s)he voted for in earlier rounds are out of contention in that round of voting). A member is also\n ineligible to cast a vote in a round if the city (s)he represents is in contention in that round of voting. As long as the member is\n eligible, (s)he must vote and vote for only one candidate city in any round of voting. The following incomplete table shows the\n information on cities that received the maximum and minimum votes in different rounds, the number of votes cast in their\n favour, and the total votes that were cast in those rounds.\n It is also known that: All those who voted for London and Paris in round 1, continued to vote for the same cities in subsequent\n rounds as long as these cities were in contention. 75% of those who voted for Beijing in round 1, voted for Beijing in round 2\n as well. Those who voted for New York in round 1, voted either for Beijing or Paris in round 2. The difference in votes cast\n for the two contending cities in the last round was 1. 50% of those who voted for Beijing in round 1, voted for Paris in round\n 3.\n What is the number of votes cast for Paris in round 1?\n A. 16   B. 18   C. 22   D. 24",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "11833.jpg"
+  ]
  },
  {
   "id": "2.18.260",
   "source": "CAT 2016 Q 61",
   "text": "The year is 2089. Beijing, London, New York, and Paris are in contention to host the 2096 Olympics. The eventual winner is\n determined through several rounds of voting by members of the IOC with each member representing a different city. All the\n four cities in contention are also represented in IOC. In any round of voting, the city receiving the lowest number of votes in\n that round gets eliminated. The survivor after the last round of voting gets to host the event. A member is allowed to east votes\n for at most two different cities in all rounds of voting combined. (Hence, a member becomes ineligible to cast a vote in a given\n round if both the cities (s)he voted for in earlier rounds are out of contention in that round of voting). A member is also\n ineligible to cast a vote in a round if the city (s)he represents is in contention in that round of voting. As long as the member is\n eligible, (s)he must vote and vote for only one candidate city in any round of voting. The following incomplete table shows the\n information on cities that received the maximum and minimum votes in different rounds, the number of votes cast in their\n favour, and the total votes that were cast in those rounds.\n It is also known that: All those who voted for London and Paris in round 1, continued to vote for the same cities in subsequent\n rounds as long as these cities were in contention. 75% of those who voted for Beijing in round 1, voted for Beijing in round 2\n as well. Those who voted for New York in round 1, voted either for Beijing or Paris in round 2. The difference in votes cast\n for the two contending cities in the last round was 1. 50% of those who voted for Beijing in round 1, voted for Paris in round\n 3.\n What percentage of members from among those who voted for Beijing in round 2 and were eligible to vote in round 3, voted\n for London?\n A. 33.33   B. 38.10   C. 50   D. 66.67",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "11833.jpg"
+  ]
  },
  {
   "id": "2.18.261",
   "source": "CAT 2016 Q 62",
   "text": "The year is 2089. Beijing, London, New York, and Paris are in contention to host the 2096 Olympics. The eventual winner is\n determined through several rounds of voting by members of the IOC with each member representing a different city. All the\n four cities in contention are also represented in IOC. In any round of voting, the city receiving the lowest number of votes in\n that round gets eliminated. The survivor after the last round of voting gets to host the event. A member is allowed to east votes\n for at most two different cities in all rounds of voting combined. (Hence, a member becomes ineligible to cast a vote in a given\n round if both the cities (s) he voted for in earlier rounds are out of contention in that round of voting). A member is also\n ineligible to cast a vote in a round if the city (s)he represents is in contention in that round of voting. As long as the member is\n eligible, (s) he must vote and vote for only one candidate city in any round of voting. The following incomplete table shows the\n information on cities that received the maximum and minimum votes in different rounds, the number of votes cast in their\n favour, and the total votes that were cast in those rounds.\n It is also known that: All those who voted for London and Paris in round 1, continued to vote for the same cities in subsequent\n rounds as long as these cities were in contention. 75% of those who voted for Beijing in round 1, voted for Beijing in round 2\n as well. Those who voted for New York in round 1, voted either for Beijing or Paris in round 2. The difference in votes cast\n for the two contending cities in the last round was 1. 50% of those who voted for Beijing in round 1, voted for Paris in round\n 3.\n Which of the following statements must be true?\n a. IOC member from Newb.York\n   IOCmust\n   votedBeijing\n   for Paris\n   in round 2.\n   for London in round 3.\n A. Only a   B. Only b   C. Both a and b   D. Neither a nor b",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "11833.jpg"
+  ]
  },
  {
   "id": "2.18.262",
@@ -2230,14 +2281,20 @@ APT.addBank("2.18", [
   "source": "CAT 2018 Set-1 Q 59",
   "text": "A company administers a written test comprising of three sections of 20 marks each – Data Interpretation (DI), Written English\n (WE) and General Awareness (GA), for recruitment. A composite score for a candidate (out of 80) is calculated by doubling\n her marks in DI and adding it to the sum of her marks in the other two sections. Candidates who score less than 70% marks in\n two or more sections are disqualified. From among the rest, the four with the highest composite scores are recruited. If four or\n less candidates qualify, all who qualify are recruited.\n Ten candidates appeared for the written test. Their marks in the test are given in the table below. Some marks in the table are\n missing, but the following facts are known:\n 1. No two candidates had the same composite score.\n 2. Ajay was the unique highest scorer in WE.\n 3. Among the four recruited, Geeta had the lowest composite score.\n 4. Indu was recruited.\n 5. Danish, Harini, and Indu had scored the same marks the in GA.\n 6. Indu and Jatin both scored 100% in exactly one section and Jatin’s composite score was 10 more than Indu’s.\n Which of the following statements MUST be true?\n 1. Jatin's composite score was more than that of Danish.\n 2. Indu scored less than Chetna in DI.\n 3. Jatin scored more than Indu in GA.\n A. Only 2   B. Only 1   C. Both 1 and 2   D. Both 2 and 3",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12360.jpg"
+  ]
  },
  {
   "id": "2.18.320",
   "source": "CAT 2018 Set-1 Q 60",
   "text": "A company administers a written test comprising of three sections of 20 marks each – Data Interpretation (DI), Written English\n (WE) and General Awareness (GA), for recruitment. A composite score for a candidate (out of 80) is calculated by doubling\n her marks in DI and adding it to the sum of her marks in the other two sections. Candidates who score less than 70% marks in\n two or more sections are disqualified. From among the rest, the four with the highest composite scores are recruited. If four or\n less candidates qualify, all who qualify are recruited.\n Ten candidates appeared for the written test. Their marks in the test are given in the table below. Some marks in the table are\n missing, but the following facts are known:\n 1. No two candidates had the same composite score.\n 2. Ajay was the unique highest scorer in WE.\n 3. Among the four recruited, Geeta had the lowest composite score.\n 4. Indu was recruited.\n 5. Danish, Harini, and Indu had scored the same marks the in GA.\n 6. Indu and Jatin both scored 100% in exactly one section and Jatin’s composite score was 10 more than Indu’s.\n Which of the following statements MUST be FALSE?\n A. Chetna scored more than Bala in DI.\n B. Harini’s composite score was less than that of Falak.\n C. Bala’s composite score was less than that of Ester.\n D. Bala scored same as Jatin in DI.",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12360.jpg"
+  ]
  },
  {
   "id": "2.18.321",
@@ -2342,28 +2399,40 @@ APT.addBank("2.18", [
   "source": "CAT 2019 Set-1 Q 51",
   "text": "Six players- Tanzi, Umeza, Wangdu, Xyla, Yonita and Zeneca competed in an archery tournament. The tournament had three\n compulsory rounds, Rounds 1 to 3. In each round every player shot an arrow at a target. Hitting the centre of the target (called\n bull’s eye) fetched the highest score of 5. The only other possible scores that a player could achieve were 4, 3, 2 and 1. Every\n bull’s eye score in the first three rounds gave a player one additional chance to shoot in the bonus rounds, rounds 4 to 6. The\n possible scores in Rounds 4 to 6 were identical to the first three.\n A player’s total score in the tournament was the sum of his/her scores in all rounds played by\n The figure below shows the street map for a certain region with the street intersections marked from a through I. A person\n standing at an intersection can see along straight lines to other intersections that are in her line of sight and all other people\n standing at these intersections. For example, a person standing at intersection g can see all people standing at intersection\n b, c, e, f, h and k. In particular, the person standing at intersection g can see the person standing at intersection e irrespective\n of whether there is a person standing at intersection f.\n Six people U, V, W, X, Y and Z, are standing at different intersections. No two people are standing at the same intersection.\n The following additional facts are known.\n 1. X, U and Z are standing at the three corners of a triangle formed by three street segments.\n 2. X can see only U and Z.\n 3. Y can see only U and W.\n 4. U sees V standing in the next intersection behind Z.\n 5. W cannot see V or Z.\n 6. No one among the six is standing at intersection d.\n Who is standing at intersection a?\n A. No one   B. V   C. W   D. Y",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12517.jpg"
+  ]
  },
  {
   "id": "2.18.336",
   "source": "CAT 2019 Set-1 Q 52",
   "text": "Six players- Tanzi, Umeza, Wangdu, Xyla, Yonita and Zeneca competed in an archery tournament. The tournament had three\n compulsory rounds, Rounds 1 to 3. In each round every player shot an arrow at a target. Hitting the centre of the target (called\n bull’s eye) fetched the highest score of 5. The only other possible scores that a player could achieve were 4, 3, 2 and 1. Every\n bull’s eye score in the first three rounds gave a player one additional chance to shoot in the bonus rounds, rounds 4 to 6. The\n possible scores in Rounds 4 to 6 were identical to the first three.\n A player’s total score in the tournament was the sum of his/her scores in all rounds played by\n The figure below shows the street map for a certain region with the street intersections marked from a through I. A person\n standing at an intersection can see along straight lines to other intersections that are in her line of sight and all other people\n standing at these intersections. For example, a person standing at intersection g can see all people standing at intersection\n b, c, e, f, h and k. In particular, the person standing at intersection g can see the person standing at intersection e irrespective\n of whether there is a person standing at intersection f.\n Six people U, V, W, X, Y and Z, are standing at different intersections. No two people are standing at the same intersection.\n The following additional facts are known.\n 1. X, U and Z are standing at the three corners of a triangle formed by three street segments.\n 2. X can see only U and Z.\n 3. Y can see only U and W.\n 4. U sees V standing in the next intersection behind Z.\n 5. W cannot see V or Z.\n 6. No one among the six is standing at intersection d.\n Who can V see?\n A. U only   B. U, W and Z only   C. U and Z only   D. Z only",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12517.jpg"
+  ]
  },
  {
   "id": "2.18.337",
   "source": "CAT 2019 Set-1 Q 53",
   "text": "Six players- Tanzi, Umeza, Wangdu, Xyla, Yonita and Zeneca competed in an archery tournament. The tournament had three\n compulsory rounds, Rounds 1 to 3. In each round every player shot an arrow at a target. Hitting the centre of the target (called\n bull’s eye) fetched the highest score of 5. The only other possible scores that a player could achieve were 4, 3, 2 and 1. Every\n bull’s eye score in the first three rounds gave a player one additional chance to shoot in the bonus rounds, rounds 4 to 6. The\n possible scores in Rounds 4 to 6 were identical to the first three.\n A player’s total score in the tournament was the sum of his/her scores in all rounds played by\n The figure below shows the street map for a certain region with the street intersections marked from a through I. A person\n standing at an intersection can see along straight lines to other intersections that are in her line of sight and all other people\n standing at these intersections. For example, a person standing at intersection g can see all people standing at intersection\n b, c, e, f, h and k. In particular, the person standing at intersection g can see the person standing at intersection e irrespective\n of whether there is a person standing at intersection f.\n Six people U, V, W, X, Y and Z, are standing at different intersections. No two people are standing at the same intersection.\n The following additional facts are known.\n 1. X, U and Z are standing at the three corners of a triangle formed by three street segments.\n 2. X can see only U and Z.\n 3. Y can see only U and W.\n 4. U sees V standing in the next intersection behind Z.\n 5. W cannot see V or Z.\n 6. No one among the six is standing at intersection d.\n What is the minimum number of street segments that X must cross to reach Y?\n A. 2   B. 3   C. 1   D. 4",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12517.jpg"
+  ]
  },
  {
   "id": "2.18.338",
   "source": "CAT 2019 Set-1 Q 54",
   "text": "Six players- Tanzi, Umeza, Wangdu, Xyla, Yonita and Zeneca competed in an archery tournament. The tournament had three\n compulsory rounds, Rounds 1 to 3. In each round every player shot an arrow at a target. Hitting the centre of the target (called\n bull’s eye) fetched the highest score of 5. The only other possible scores that a player could achieve were 4, 3, 2 and 1. Every\n bull’s eye score in the first three rounds gave a player one additional chance to shoot in the bonus rounds, rounds 4 to 6. The\n possible scores in Rounds 4 to 6 were identical to the first three.\n A player’s total score in the tournament was the sum of his/her scores in all rounds played by\n The figure below shows the street map for a certain region with the street intersections marked from a through I. A person\n standing at an intersection can see along straight lines to other intersections that are in her line of sight and all other people\n standing at these intersections. For example, a person standing at intersection g can see all people standing at intersection\n b, c, e, f, h and k. In particular, the person standing at intersection g can see the person standing at intersection e irrespective\n of whether there is a person standing at intersection f.\n Six people U, V, W, X, Y and Z, are standing at different intersections. No two people are standing at the same intersection.\n The following additional facts are known.\n 1. X, U and Z are standing at the three corners of a triangle formed by three street segments.\n 2. X can see only U and Z.\n 3. Y can see only U and W.\n 4. U sees V standing in the next intersection behind Z.\n 5. W cannot see V or Z.\n 6. No one among the six is standing at intersection d.\n Should a new person stand at intersection d, who among the six would she see?\n A. U and Z only   B. V and X only   C. W and X only   D. U and W only",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12517.jpg"
+  ]
  },
  {
   "id": "2.18.339",
@@ -2440,28 +2509,40 @@ APT.addBank("2.18", [
   "source": "CAT 2019 Set-2 Q 39",
   "text": "In the table below the check marks indicate all languages spoken by five people: Paula, Quentin, Robert, Sally and Terence.\n For example, Paula speaks only Chinese and English.\n These five people form three teams, Team 1, Team 2 and Team 3. Each team has either 2 or 3 members. A team is said to\n speak a particular language if at least one of its members speak that language.\n The following facts are known.\n 1. Each team speaks exactly four languages and has the same number of members.\n 2. English and Chinese are spoken by all three teams, Basque and French by exactly two teams and the other languages by\n exactly one team.\n 3. None of the teams include both Quentin and Robert.\n 4. Paula and Sally are together in exactly two teams.\n 5. Robert is in Team 1 and Quentin is in Team 3.\n Who among the following four is not a member of Team 2?\n A. Quentin   B. Paula   C. Sally   D. Terence",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12640.jpg"
+  ]
  },
  {
   "id": "2.18.350",
   "source": "CAT 2019 Set-2 Q 40",
   "text": "In the table below the check marks indicate all languages spoken by five people: Paula, Quentin, Robert, Sally and Terence.\n For example, Paula speaks only Chinese and English.\n These five people form three teams, Team 1, Team 2 and Team 3. Each team has either 2 or 3 members. A team is said to\n speak a particular language if at least one of its members speak that language.\n The following facts are known.\n 1. Each team speaks exactly four languages and has the same number of members.\n 2. English and Chinese are spoken by all three teams, Basque and French by exactly two teams and the other languages by\n exactly one team.\n 3. None of the teams include both Quentin and Robert.\n 4. Paula and Sally are together in exactly two teams.\n 5. Robert is in Team 1 and Quentin is in Team 3.\n Who among the following four people is a part of exactly two teams?\n A. Sally   B. Robert   C. Paula   D. Quentin",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12640.jpg"
+  ]
  },
  {
   "id": "2.18.351",
   "source": "CAT 2019 Set-2 Q 41",
   "text": "In the table below the check marks indicate all languages spoken by five people: Paula, Quentin, Robert, Sally and Terence.\n For example, Paula speaks only Chinese and English.\n These five people form three teams, Team 1, Team 2 and Team 3. Each team has either 2 or 3 members. A team is said to\n speak a particular language if at least one of its members speak that language.\n The following facts are known.\n 1. Each team speaks exactly four languages and has the same number of members.\n 2. English and Chinese are spoken by all three teams, Basque and French by exactly two teams and the other languages by\n exactly one team.\n 3. None of the teams include both Quentin and Robert.\n 4. Paula and Sally are together in exactly two teams.\n 5. Robert is in Team 1 and Quentin is in Team 3.\n Who among the five people is a member of all teams?\n A. Sally   B. No one   C. Terence   D. Paula",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12640.jpg"
+  ]
  },
  {
   "id": "2.18.352",
   "source": "CAT 2019 Set-2 Q 42",
   "text": "In the table below the check marks indicate all languages spoken by five people: Paula, Quentin, Robert, Sally and Terence.\n For example, Paula speaks only Chinese and English.\n These five people form three teams, Team 1, Team 2 and Team 3. Each team has either 2 or 3 members. A team is said to\n speak a particular language if at least one of its members speak that language.\n The following facts are known.\n 1. Each team speaks exactly four languages and has the same number of\n members.\n 2. English and Chinese are spoken by all three teams, Basque and French by\n exactly two teams and the other languages by exactly one team.\n 3. None of the teams include both Quentin and Robert.\n 4. Paula and Sally are together in exactly two teams.\n 5. Robert is in Team 1 and Quentin is in Team 3.\n Apart from Chinese and English, which languages are spoken by Team 1?\n A. Arabic and Basque   B. Arabic and French   C. Basque and Dutch   D. Basque and French",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12640.jpg"
+  ]
  },
  {
   "id": "2.18.353",
@@ -2636,28 +2717,40 @@ APT.addBank("2.18", [
   "source": "CAT 2020 Set-2 Q 31",
   "text": "A chain of departmental stores has outlets in Delhi, Mumbai, Bengaluru and Kolkata. The sales are categorized by its three\n departments – ‘Apparel’, ‘Electronics’, and ‘HomeDecor’. An Accountant has been asked to prepare a summary of the 2018\n and 2019 sales amounts for an internal report. He has collated partial information and prepared the following table.\n The following additional information is known.\n  i. The sales amounts in the Apparel departments were the same for Delhi and Kolkata in 2018.\n ii. The sales amounts in the Apparel departments were the same for Mumbai and Bengaluru in 2018. This sales amount\n   matched the sales amount in the Apparel departments for Delhi in 2019.\n iii. The sales amounts in the HomeDecor departments were the same for Mumbai and Kolkata in 2018.\n iv. The sum of the sales amounts for four Electronics departments increased by the same amount as the sum of the sales\n   amounts of four Apparel departments from 2018 to 2019.\n  v. The total sales amounts of the four HomeDecor departments increased by Rs 70 Crores from 2018 to 2019.\n vi. The sales amounts in the HomeDecor departments Delhi and Bengaluru each increased by Rs 20 crores from 2018 to\n   2019.\n vii. The sales amounts in the Apparel departments of Delhi and Bengaluru each increased by the same amount in 2019 from\n   2018. The sales amounts in the Apparel departments of Mumbai and Kolkata also each increased by the same amount in\n   2019 from 2018.\nviii. The sales amounts in the Apparel departments of Delhi, Kolkata and Bengaluru in 2019 followed an Arithmetic\n   Progression.\n In HomeDecor departments of which cities were the sales amounts the highest in 2018 and 2019, respectively ?\n A. Delhi and Delhi   B. Mumbai and Mumbai C. Bengaluru and Delhi D. Mumbai and Delhi",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12891.jpg"
+  ]
  },
  {
   "id": "2.18.378",
   "source": "CAT 2020 Set-2 Q 32",
   "text": "A chain of departmental stores has outlets in Delhi, Mumbai, Bengaluru and Kolkata. The sales are categorized by its three\n departments – ‘Apparel’, ‘Electronics’, and ‘HomeDecor’. An Accountant has been asked to prepare a summary of the 2018\n and 2019 sales amounts for an internal report. He has collated partial information and prepared the following table.\n The following additional information is known.\n   i. The sales amounts in the Apparel departments were the same for Delhi and Kolkata in 2018.\n  ii. The sales amounts in the Apparel departments were the same for Mumbai and Bengaluru in 2018. This sales amount\n   matched the sales amount in the Apparel departments for Delhi in 2019.\n iii. The sales amounts in the HomeDecor departments were the same for Mumbai and Kolkata in 2018.\n iv. The sum of the sales amounts for four Electronics departments increased by the same amount as the sum of the sales\n   amounts of four Apparel departments from 2018 to 2019.\n  v. The total sales amounts of the four HomeDecor departments increased by Rs 70 Crores from 2018 to 2019.\n vi. The sales amounts in the HomeDecor departments Delhi and Bengaluru each increased by Rs 20 crores from 2018 to\n   2019.\n vii. The sales amounts in the Apparel departments of Delhi and Bengaluru each increased by the same amount in 2019 from\n   2018. The sales amounts in the Apparel departments of Mumbai and Kolkata also each increased by the same amount in\n   2019 from 2018.\nviii. The sales amounts in the Apparel departments of Delhi, Kolkata and Bengaluru in 2019 followed an Arithmetic\n   Progression.\n What was the increase in sales amount, in Crore Rupees, in the Apparel department of Mumbai from 2018 to 2019 ?\n A. 12   B. 5   C. 10   D. 8",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12914.jpg"
+  ]
  },
  {
   "id": "2.18.379",
   "source": "CAT 2020 Set-2 Q 33",
   "text": "A chain of department stores has outlets in Delhi, Mumbai, Bengaluru and Kolkata. The sales are categorized by its three\n departments – ‘Apparel’, ‘Electronics’, and ‘HomeDecor’. An Accountant has been asked to prepare a summary of the 2018\n and 2019 sales amounts for an internal report. He has collated partial information and prepared the following table.\n The following additional information is known.\n   i. The sales amounts in the Apparel departments were the same for Delhi and Kolkata in 2018.\n  ii. The sales amounts in the Apparel departments were the same for Mumbai and Bengaluru in 2018. This sales amount\n   matched the sales amount in the Apparel departments for Delhi in 2019.\n iii. The sales amounts in the HomeDecor departments were the same for Mumbai and Kolkata in 2018.\n iv. The sum of the sales amounts for four Electronics departments increased by the same amount as the sum of the sales\n   amounts of four Apparel departments from 2018 to 2019.\n  v. The total sales amounts of the four HomeDecor departments increased by Rs 70 crores from 2018 to 2019.\n vi. The sales amounts in the HomeDecor departments Delhi and Bengaluru each increased by Rs 20 Crores from 2018 to\n   2019.\n vii. The sales amounts in the Apparel departments of Delhi and Bengaluru each increased by the same amount in 2019 from\n   2018. The sales amounts in the Apparel departments of Mumbai and Kolkata also each increased by the same amount in\n   2019 from 2018.\nviii. The sales amounts in the Apparel departments of Delhi, Kolkata and Bengaluru in 2019 followed an Arithmetic\n   Progression.\n Among all the 12 departments (i.e., the 3 departments in each of the 4 cities), what was the maximum percentage increase in\n sales amount from 2018 to 2019?\n A. 75   B. 50   C. 28   D. 25",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12914.jpg"
+  ]
  },
  {
   "id": "2.18.380",
   "source": "CAT 2020 Set-2 Q 34",
   "text": "A chain of department stores has outlets in Delhi, Mumbai, Bengaluru and Kolkata. The sales are categorized by its three\n departments – ‘Apparel’, ‘Electronics’, and ‘HomeDecor’. An Accountant has been asked to prepare a summary of the 2018\n and 2019 sales amounts for an internal report. He has collated partial information and prepared the following table.\n The following additional information is known.\n   i. The sales amounts in the Apparel departments were the same for Delhi and Kolkata in 2018.\n  ii. The sales amounts in the Apparel departments were the same for Mumbai and Bengaluru in 2018. This sales amount\n   matched the sales amount in the Apparel departments for Delhi in 2019.\n iii. The sales amounts in the HomeDecor departments were the same for Mumbai and Kolkata in 2018.\n iv. The sum of the sales amounts for four Electronics departments increased by the same amount as the sum of the sales\n   amounts of four Apparel departments from 2018 to 2019.\n  v. The total sales amounts of the four HomeDecor departments increased by Rs 70 Crores from 2018 to 2019.\n vi. The sales amounts in the HomeDecor departments Delhi and Bengaluru each increased by Rs 20 Crores from 2018 to\n   2019.\n vii. The sales amounts in the Apparel departments of Delhi and Bengaluru each increased by the same amount in 2019 from\n   2018. The sales amounts in the Apparel departments of Mumbai and Kolkata also each increased by the same amount in\n   2019 from 2018.\nviii. The sales amounts in the Apparel departments of Delhi, Kolkata and Bengaluru in 2019 followed an Arithmetic\n   Progression.\n What was the total sales amount, in Crore Rupees, in 2019 for the chain of departmental stores ?\n A. 750   B. 150   C. 600   D. 900",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12935.jpg"
+  ]
  },
  {
   "id": "2.18.381",
@@ -2706,28 +2799,40 @@ APT.addBank("2.18", [
   "source": "CAT 2020 Set-2 Q 47",
   "text": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who\n polled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the second\n runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number of votes\n polled by the candidates) in any of the constituencies in this election.\n In an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission\n before he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to\n secure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\n The following table provides some incomplete information about votes polled in four constituencies: A, B, C and D, in this\n election.\n The following additional facts are known:\n 1. The first runner up polled 10, 000 more votes than the second runner up in constituency A.\n 2. None of the candidates who contested in constituency C lost their security deposit. The difference in votes polled by any\n   pair of candidates in this constituency was at least 10, 000.\n 3. The winning candidate in constituency D polled 5% of valid votes more than that of the first runner up. All the candidates\n   who lost their security deposits while contesting for this constituency, put together, polled 35% of the valid votes.\n What BEST can be concluded about the number of votes polled by the winning candidate in constituency C?\n A. 1, 40, 006   B. less than 2, 00, 010\n C. 1, 40, 010   D. between 1, 40, 005 and 1, 40, 010",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "12994.jpg"
+  ]
  },
  {
   "id": "2.18.388",
   "source": "CAT 2020 Set-2 Q 48",
   "text": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who\n polled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the second\n runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number of votes\n polled by the candidates) in any of the constituencies in this election.\n In an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission\n before he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to\n secure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\n The following table provides some incomplete information about votes polled in four constituencies: A, B, C and D, in this\n election.\n The following additional facts are known:\n 1. The first runner up polled 10, 000 more votes than the second runner up in constituency A.\n 2. None of the candidates who contested in constituency C lost their security deposit. The difference in votes polled by any\n   pair of candidates in this constituency was at least 10, 000.\n 3. The winning candidate in constituency D polled 5% of valid votes more than that of the first runner up. All the candidates\n   who lost their security deposits while contesting for this constituency, put together, polled 35% of the valid votes.\n What was the number of valid votes polled in constituency D?\n A. 1, 75, 000   B. 1, 50, 000   C. 1, 25, 000   D. 62, 500",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13017.jpg"
+  ]
  },
  {
   "id": "2.18.389",
   "source": "CAT 2020 Set-2 Q 49",
   "text": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who\n polled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the second\n runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number of votes\n polled by the candidates) in any of the constituencies in this election.\n In an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission\n before he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to\n secure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\n The following table provides some incomplete information about votes polled in four constituencies: A, B, C and D, in this\n election.\n The following additional facts are known:\n 1. The first runner up polled 10, 000 more votes than the second runner up in constituency A.\n 2. None of the candidates who contested in constituency C lost their security deposit. The difference in votes polled by any\n   pair of candidates in this constituency was at least 10, 000.\n 3. The winning candidate in constituency D polled 5% of valid votes more than that of the first runner up. All the candidates\n   who lost their security deposits while contesting for this constituency, put together, polled 35% of the valid votes.\n The winning margin of a constituency is defined as the difference of votes polled by the winner and that of the first runner up.\n Which of the following CANNOT be the list of constituencies, in increasing order of winning margin ?\n A. B, D, C, A   B. D, B, C, A   C. B, C, D, A   D. D, C, B, A",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13017.jpg"
+  ]
  },
  {
   "id": "2.18.390",
   "source": "CAT 2020 Set-2 Q 50",
   "text": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who\n polled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the second\n runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number of votes\n polled by the candidates) in any of the constituencies in this election.\n In an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission\n before he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to\n secure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\n The following table provides some incomplete information about votes polled in four constituencies: A, B, C and D, in this\n election.\n The following additional facts are known:\n 1. The first runner up polled 10, 000 more votes than the second runner up in constituency A.\n 2. None of the candidates who contested in constituency C lost their security deposit. The difference in votes polled by any\n   pair of candidates in this constituency was at least 10, 000.\n 3. The winning candidate in constituency D polled 5% of valid votes more than that of the first runner up. All the candidates\n   who lost their security deposits while contesting for this constituency, put together, polled 35% of the valid votes.\n For all the four constituencies taken together, what was the approximate number of votes polled by all the candidates who lost\n their security deposit expressed as a percentage of the total valid votes from these four constituencies?\n A. 23.91%   B. 23.54%   C. 32.00%   D. 38.25%",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13038.jpg"
+  ]
  },
  {
   "id": "2.18.391",
@@ -2818,42 +2923,60 @@ APT.addBank("2.18", [
   "source": "CAT 2020 Set-3 Q 45",
   "text": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra\n and Dipti by dividing the land into twelve plots along three rows (X, Y, Z) and four columns (1, 2, 3, 4) as shown in the\n figure below:\n The plots in rows X, Y, Z contained mango, teak, and pine trees respectively. Each plot had trees in non-zero multiples of 3 or\n 4 and none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the number\n mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is the first\n letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing 21\n trees). Some information in the figure got erased, but the following is known:\n 1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n 2. The largest number of trees in a plot was 32, but it was not with Abha.\n 3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n 4. Both Abha and Bina got a higher number of plots than Dipti.\n 5. Only Bina, Chitra and Dipti got corner plots.\n 6. Dipti got two adjoining plots in the same row.\n 7. Bina was the only one who got a plot in each row and each column.\n 8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n 9. The number of mango trees was doubled the number of teak trees.\n How many mango trees were there in total ?\n A. 84   B. 98   C. 49   D. 126",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13168.jpg"
+  ]
  },
  {
   "id": "2.18.404",
   "source": "CAT 2020 Set-3 Q 46",
   "text": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra\n and Dipti by dividing the land into twelve plots along three rows (X, Y, Z) and four columns (1, 2, 3, 4) as shown in the\n figure below:\n The plots in rows X, Y, Z contained mango, teak, and pine trees respectively. Each plot had trees in non-zero multiples of 3 or\n 4 and none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the number\n mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is the first\n letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing 21\n trees). Some information in the figure got erased, but the following is known:\n 1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n 2. The largest number of trees in a plot was 32, but it was not with Abha.\n 3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n 4. Both Abha and Bina got a higher number of plots than Dipti.\n 5. Only Bina, Chitra and Dipti got corner plots.\n 6. Dipti got two adjoining plots in the same row.\n 7. Bina was the only one who got a plot in each row and each column.\n 8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n 9. The number of mango trees was doubled the number of teak trees.\n Which of the following is the correct sequence of trees received by Abha, Bina, Chitra and Dipti in that order ?\n A. 50, 69, 30, 56   B. 54, 57, 34, 60\n C. 44, 87, 24, 50   D. 60, 39, 40, 66",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13170.jpg"
+  ]
  },
  {
   "id": "2.18.405",
   "source": "CAT 2020 Set-3 Q 47",
   "text": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra\n and Dipti by dividing the land into twelve plots along three rows (X, Y, Z) and four columns (1, 2, 3, 4) as shown in the\n figure below:\n The plots in rows X, Y, Z contained mango, teak, and pine trees respectively. Each plot had trees in non-zero multiples of 3 or\n 4 and none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the number\n mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is the first\n letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing 21\n trees). Some information in the figure got erased, but the following is known:\n 1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n 2. The largest number of trees in a plot was 32, but it was not with Abha.\n 3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n 4. Both Abha and Bina got a higher number of plots than Dipti.\n 5. Only Bina, Chitra and Dipti got corner plots.\n 6. Dipti got two adjoining plots in the same row.\n 7. Bina was the only one who got a plot in each row and each column.\n 8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n 9. The number of mango trees was doubled the number of teak trees.\n How many pine trees did Chitra receive ?\n A. 21   B. 30   C. 18   D. 15",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13193.jpg"
+  ]
  },
  {
   "id": "2.18.406",
   "source": "CAT 2020 Set-3 Q 48",
   "text": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra\n and Dipti by dividing the land into twelve plots along three rows (X, Y, Z) and four columns (1, 2, 3, 4) as shown in the\n figure below:\n The plots in rows X, Y, Z contained mango, teak, and pine trees respectively. Each plot had trees in non-zero multiples of 3 or\n 4 and none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the number\n mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is the first\n letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing 21\n trees). Some information in the figure got erased, but the following is known:\n 1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n 2. The largest number of trees in a plot was 32, but it was not with Abha.\n 3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n 4. Both Abha and Bina got a higher number of plots than Dipti.\n 5. Only Bina, Chitra and Dipti got corner plots.\n 6. Dipti got two adjoining plots in the same row.\n 7. Bina was the only one who got a plot in each row and each column.\n 8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n 9. The number of mango trees was doubled the number of teak trees.\n Who got the plot with the smallest number of trees and how many trees did that plot have ?\n A. Dipti, 6 trees   B. Bina, 4 trees\n C. Abha, 4 trees   D. Bina, 3 trees",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13193.jpg"
+  ]
  },
  {
   "id": "2.18.407",
   "source": "CAT 2020 Set-3 Q 49",
   "text": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra\n and Dipti by dividing the land into twelve plots along three rows (X, Y, Z) and four columns (1, 2, 3, 4) as shown in the\n figure below:\n The plots in rows X, Y, Z contained mango, teak, and pine trees respectively. Each plot had trees in non-zero multiples of 3 or\n 4 and none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the number\n mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is the first\n letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing 21\n trees). Some information in the figure got erased, but the following is known:\n 1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n 2. The largest number of trees in a plot was 32, but it was not with Abha.\n 3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n 4. Both Abha and Bina got a higher number of plots than Dipti.\n 5. Only Bina, Chitra and Dipti got corner plots.\n 6. Dipti got two adjoining plots in the same row.\n 7. Bina was the only one who got a plot in each row and each column.\n 8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n 9. The number of mango trees was doubled the number of teak trees.\n Which of the following statements is NOT true ?\n A. Dipti got 56 mango trees.   B. Bina got 32 pine trees.\n C. Chitra got 12 mango trees.   D. Abha got 41 teak trees.",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13209.jpg"
+  ]
  },
  {
   "id": "2.18.408",
   "source": "CAT 2020 Set-3 Q 50",
   "text": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra\n and Dipti by dividing the land into twelve plots along three rows (X, Y, Z) and four columns (1, 2, 3, 4) as shown in the\n figure below:\n The plots in rows X, Y, Z contained mango, teak, and pine trees respectively. Each plot had trees in non-zero multiples of 3 or\n 4 and none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the number\n mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is the first\n letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing 21\n trees). Some information in the figure got erased, but the following is known:\n 1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n 2. The largest number of trees in a plot was 32, but it was not with Abha.\n 3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n 4. Both Abha and Bina got a higher number of plots than Dipti.\n 5. Only Bina, Chitra and Dipti got corner plots.\n 6. Dipti got two adjoining plots in the same row.\n 7. Bina was the only one who got a plot in each row and each column.\n 8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n 9. The number of mango trees was doubled the number of teak trees.\n Which column had the highest number of trees ?\n A. 2   B. 3\n C. Cannot be determined   D. 4",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "13209.jpg"
+  ]
  },
  {
   "id": "2.18.409",

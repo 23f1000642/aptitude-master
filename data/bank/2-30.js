@@ -4,6 +4,9 @@ APT.addBank("2.30", [
   "source": "",
   "text": "GATE 2017 GENERAL APTITUDE LOGICAL REASONING BLOOD RELATIONSHIP EC ECE\n SET 2",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "16860.jpg"
+  ]
  }
 ]);

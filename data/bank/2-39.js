@@ -46,7 +46,10 @@ APT.addBank("2.39", [
   "source": "",
   "text": "How many conclusions are followed",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "18116.png"
+  ]
  },
  {
   "id": "2.39.8",

@@ -123,7 +123,10 @@ APT.addBank("2.38", [
   "source": "CAT 2009 Q 36",
   "text": "Each of the following problems consists of a question and the statements labelled (1) and (2). You must decide whether the\n data given for the statements are sufficient to answer the questions.\n If both ABDC and CDFE are parallelograms. what is q + r?\n 1. r = 70\n 2. p = 110\n A. Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient.\n B. Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient.\n C. BOTH statements TOGETHER are sufficient, but NEITHER statement alone is sufficient.\n D. EACH statement ALONE is sufficient.",
   "key": "D",
-  "figure": false
+  "figure": false,
+  "images": [
+   "17998.png"
+  ]
  },
  {
   "id": "2.38.19",

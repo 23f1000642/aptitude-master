@@ -109,7 +109,10 @@ APT.addBank("2.19", [
   "source": "CAT 1998 Q 174",
   "text": "Read the following directions carefully and answer the questions and mark as follows: Find the length of AB? Given that\n DY BC = ∠CAX = ∠Y OX = 90∘\n 1. Radius of the arc is given\n 2. OA = 5\n A. If any one of the statements alone is sufficient to answer the question.\n B. If both statements individually are sufficient to answer the question.\n C. If both statements together are required to answer the question.\n D. If both statements are not sufficient to answer the question.",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "14254.png"
+  ]
  },
  {
   "id": "2.19.17",
@@ -326,35 +329,50 @@ APT.addBank("2.19", [
   "source": "CAT 1999 Q 103",
   "text": "Answer the question based on the following information.\n A road network (shown in the figure below) connects cities A, B, C and D. All road segments are straight lines. D is the mid-\n point on the road connecting A and C. Roads AB and BC are at right angles to each other with BC shorter than AB. The\n segment AB is 100 km long.\n Ms X and Mr Y leave A at 8.00 a.m., take different routes to city C and reach at the same time. X takes the highway from A to\n B to C and travels at an average speed of 61.875 kmph. Y takes the direct route AC and travels at 45 kmph on segment AD.\n Y’s speed on segment DC is 55 kmph.\n What is the average speed of Y?\n A. 47.5 kmph   B. 49.5 kmph   C. 50 kmph   D. 52 kmph",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14502.jpg"
+  ]
  },
  {
   "id": "2.19.48",
   "source": "CAT 1999 Q 104",
   "text": "Answer the question based on the following information.\n A road network (shown in the figure below) connects cities A, B, C and D. All road segments are straight lines. D is the mid-\n point on the road connecting A and C. Roads AB and BC are at right angles to each other with BC shorter than AB. The\n segment AB is 100 km long.\n Ms X and Mr Y leave A at 8.00 a.m., take different routes to city C and reach at the same time. X takes the highway from A to\n B to C and travels at an average speed of 61.875 kmph. Y takes the direct route AC and travels at 45 kmph on segment AD.\n Y’s speed on segment DC is 55 kmph.\n The total distance travelled by Y during the journey is approximately\n A. 105 km   B. 150 km\n C. 130 km   D. Cannot be determined",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14502.jpg"
+  ]
  },
  {
   "id": "2.19.49",
   "source": "CAT 1999 Q 105",
   "text": "Answer the question based on the following information.\n A road network (shown in the figure below) connects cities A, B, C and D. All road segments are straight lines. D is the mid-\n point on the road connecting A and C. Roads AB and BC are at right angles to each other with BC shorter than AB. The\n segment AB is 100 km long.\n Ms X and Mr Y leave A at 8.00 a.m., take different routes to city C and reach at the same time. X takes the highway from A to\n B to C and travels at an average speed of 61.875 kmph. Y takes the direct route AC and travels at 45 kmph on segment AD.\n Y’s speed on segment DC is 55 kmph.\n What is the length of the road segment BD?\n A. 50 km   B. 52.5 km\n C. 55 km   D. Cannot be determined",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14502.jpg"
+  ]
  },
  {
   "id": "2.19.50",
   "source": "CAT 1999 Q 106",
   "text": "Answer the question based on the following information.\n Rajiv reaches city B from city A in 4 hours, driving at speed of 35 kmph for the first two hour and at 45 kmph for the next\n two hours. Aditi follows the same route, but drives at three different speeds: 30, 40 and 50 kmph, covering an equal distance\n in each speed segment. The two cars are similar with petrol consumption characteristics (km per litre) shown in the figure\n below.\n The quantity of petrol consumed by Aditi for the journey is\n A. 8.3 l   B. 8.6 l   C. 8.9 l   D. 9.2 l",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14549.jpg"
+  ]
  },
  {
   "id": "2.19.51",
   "source": "CAT 1999 Q 107",
   "text": "Answer the question based on the following information.\n Rajiv reaches city B from city A in 4 hours, driving at speed of 35 kmph for the first two hour and at 45 kmph for the next\n two hours. Aditi follows the same route, but drives at three different speeds: 30, 40 and 50 kmph, covering an equal distance\n in each speed segment. The two cars are similar with petrol consumption characteristics (km per litre) shown in the figure\n below.\n Zoheb would like to drive Aditi’s car over the same route from A to B and minimize the petrol consumption for the trip. What\n is the quantity of petrol required by him?\n A. 6.67 litre   B. 7 litre   C. 6.33 litre   D. 6.0 litre",
   "key": "A",
-  "figure": true
+  "figure": false,
+  "images": [
+   "14549.jpg"
+  ]
  },
  {
   "id": "2.19.52",
@@ -550,56 +568,84 @@ APT.addBank("2.19", [
   "source": "CAT 1999 Q 135",
   "text": "Answer the question based on the following information.\n The figure below represents sales and net profit in Rs. crore of IVP Ltd. for five years from 1994 − 95 to 1998 − 99. During\n this period the sales increased from Rs. 100 crore to Rs. 680 crore. Correspondingly, the net profit increased from\n Rs. 2.5 crore to Rs. 12 crore. Net profit is defined as the excess of sales over total costs.\n The highest percentage of growth in sales, relative to the previous year, occurred in\n A. 1995 − 96   B. 1996 − 97   C. 1997 − 98   D. 1998 − 99",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14781.jpg"
+  ]
  },
  {
   "id": "2.19.80",
   "source": "CAT 1999 Q 136",
   "text": "Answer the question based on the following information.\n The figure below represents sales and net profit in Rs. crore of IVP Ltd. for five years from 1994 − 95 to 1998 − 99. During\n this period the sales increased from Rs. 100 crore to Rs. 680 crore. Correspondingly, the net profit increased from\n Rs. 2.5 crore to Rs. 12 crore. Net profit is defined as the excess of sales over total costs.\n The highest percentage growth in net profit, relative to the previous year, was achieved in\n A. 1998 − 99   B. 1997 − 98   C. 1996 − 97   D. 1995 − 96",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14781.jpg"
+  ]
  },
  {
   "id": "2.19.81",
   "source": "CAT 1999 Q 137",
   "text": "Answer the question based on the following information.\n The figure below represents sales and net profit in Rs. crore of IVP Ltd. for five years from 1994 − 95 to 1998 − 99. During\n this period the sales increased from Rs. 100 crore to Rs. 680 crore. Correspondingly, the net profit increased from\n Rs. 2.5 crore to Rs. 12 crore. Net profit is defined as the excess of sales over total costs.\n Defining profitability as the ratio of net profit to sales, IVP Ltd., recorded the highest profitability in\n A. 1998 − 99   B. 1997 − 98   C. 1994 − 95   D. 1996 − 97",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14781.jpg"
+  ]
  },
  {
   "id": "2.19.82",
   "source": "CAT 1999 Q 138",
   "text": "Answer the question based on the following information.\n The figure below represents sales and net profit in Rs. crore of IVP Ltd. for five years from 1994 − 95 to 1998 − 99. During\n this period the sales increased from Rs. 100 crore to Rs. 680 crore. Correspondingly, the net profit increased from\n Rs. 2.5 crore to Rs. 12 crore. Net profit is defined as the excess of sales over total costs.\n With profitability as defined in question 137, it can be concluded that\n A. profitability is non-decreasing during the five years from 1994 − 95 to 1998 − 99.\n B. profitability is non-increasing during the five years from 1994 − 95 to 1998 − 99.\n C. profitability remained constant during the five years from 1994 − 95 to 1998 − 99.\n D. None of the above",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14781.jpg"
+  ]
  },
  {
   "id": "2.19.83",
   "source": "CAT 1999 Q 139",
   "text": "Answer the question based on the following information\n Consider the information provided in the figure below relating to India’s foreign trade in 1997 − 98 and the first eight months\n of 1998 − 99. Total trade with a region is defined as the sum of exports and imports from that region. Trade deficit is defined\n as the excess of imports over exports. Trade deficit may be negative.\n A. USA   B. Germany   C. Other EU   D. UK   E. Japan\n F. Other East European countries\n   G. OPEC   H. Asia   I. Other LDCs   J. Others\n K. Russia\n What is the region with which India had the highest total trade in 1997 − 98?\n A. USA   B. Other EU countries   C. OPEC   D. Others",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14806.jpg",
+   "14808.jpg"
+  ]
  },
  {
   "id": "2.19.84",
   "source": "CAT 1999 Q 140",
   "text": "Answer the question based on the following information\n Consider the information provided in the figure below relating to India’s foreign trade in 1997 − 98 and the first eight months\n of 1998 − 99. Total trade with a region is defined as the sum of exports and imports from that region. Trade deficit is defined\n as the excess of imports over exports. Trade deficit may be negative.\n A. USA   B. Germany   C. Other EU   D. UK   E. Japan\n F. Other East European countries\n   G. OPEC   H. Asia   I. Other LDCs   J. Others\n K. Russia\n In 1997 − 98 the amount of Indian exports, million US dollars, to the region with which India had the lowest total trade, is\n A. 750   B. 340   C. 220   D. 440",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14806.jpg",
+   "14808.jpg"
+  ]
  },
  {
   "id": "2.19.85",
   "source": "CAT 1999 Q 141",
   "text": "Answer the question based on the following information\n Consider the information provided in the figure below relating to India’s foreign trade in 1997 − 98 and the first eight months\n of 1998 − 99. Total trade with a region is defined as the sum of exports and imports from that region. Trade deficit is defined\n as the excess of imports over exports. Trade deficit may be negative.\n A. USA   B. Germany   C. Other EU   D. UK   E. Japan\n F. Other East European countries\n   G. OPEC   H. Asia   I. Other LDCs   J. Others\n K. Russia\n I n 1997 − 98, the trade deficit with respect to India, billion US dollars, for the region with the highest trade deficit with\n respect to India, is approximately equal to\n A. 6.0   B. 3.0   C. 4.5   D. 7.5",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14806.jpg",
+   "14808.jpg"
+  ]
  },
  {
   "id": "2.19.86",
   "source": "CAT 1999 Q 142",
   "text": "Answer the question based on the following information\n Consider the information provided in the figure below relating to India’s foreign trade in 1997 − 98 and the first eight months\n of 1998 − 99. Total trade with a region is defined as the sum of exports and imports from that region. Trade deficit is defined\n as the excess of imports over exports. Trade deficit may be negative.\n A. USA   B. Germany   C. Other EU   D. UK   E. Japan\n F. Other East European countries\n   G. OPEC   H. Asia   I. Other LDCs   J. Others\n K. Russia\n What is the region with the lowest trade deficit with India in 1997 − 98?\n A. USA   B. Asia   C. Others   D. Other EU countries",
   "key": null,
-  "figure": true
+  "figure": false,
+  "images": [
+   "14806.jpg",
+   "14808.jpg"
+  ]
  },
  {
   "id": "2.19.87",
@@ -620,28 +666,40 @@ APT.addBank("2.19", [
   "source": "CAT 1999 Q 145",
   "text": "Answer the question based on the following information.\n These questions are based on the price fluctuations of four commodities — arhar, pepper, sugar and gold during February-July\n 1999 as described in the figures below.\n Price change of a commodity is defined as the absolute difference in ending and beginning prices expressed as a percentage of\n the beginning. What is the commodity with the highest price change?\n A. Arhar   B. Pepper   C. Sugar   D. Gold",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "14855.jpg"
+  ]
  },
  {
   "id": "2.19.90",
   "source": "CAT 1999 Q 146",
   "text": "Answer the question based on the following information.\n These questions are based on the price fluctuations of four commodities — arhar, pepper, sugar and gold during February-July\n 1999 as described in the figures below.\n Price volatility (PV) of a commodity is defined as follows:\n PV = (Highest price during the period – Lowest price during the period)/Average price during the period. What is the\n commodity with the lowest price volatility?\n A. Arhar   B. Pepper   C. Sugar   D. Gold",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "14855.jpg"
+  ]
  },
  {
   "id": "2.19.91",
   "source": "CAT 1999 Q 147",
   "text": "Answer the question based on the following information.\n These questions are based on the price fluctuations of four commodities — arhar, pepper, sugar and gold during February-July\n 1999 as described in the figures below.\n Mr X, a fund manager with an investment company invested 25% of his funds in each of the four commodities at the\n beginning of the period. He sold the commodities at the end of the period. His investments in the commodities resulted in\n A. 17% profit   B. 5.5% loss\n C. No profit, no loss   D. 5.4% profit",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "14855.jpg"
+  ]
  },
  {
   "id": "2.19.92",
   "source": "CAT 1999 Q 148",
   "text": "Answer the question based on the following information.\n These questions are based on the price fluctuations of four commodities — arhar, pepper, sugar and gold during February-July\n 1999 as described in the figures below.\n The price volatility(PV) of the commodity with the highest PV during the February-July period is approximately equal to\n A. 3%   B. 40%   C. 20%   D. 12%",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "14855.jpg"
+  ]
  },
  {
   "id": "2.19.93",
@@ -858,28 +916,40 @@ APT.addBank("2.19", [
   "source": "CAT 1999 Q 89",
   "text": "Answer the question based on the following information.\n In each of the following questions, a pair of graphs F(x) and F1(x) is given. These are composed of straight-line segments,\n shown as solid lines, in the domain x ∈ (2, −2).\n Choose the answer as\n A. if F1(x) = –F(x)   B. if F1(x) = F(–x)\n C. if F1(x) = –F(–x)   D. if none of the above is true",
   "key": "D",
-  "figure": false
+  "figure": false,
+  "images": [
+   "15152.jpg"
+  ]
  },
  {
   "id": "2.19.124",
   "source": "CAT 1999 Q 90",
   "text": "Answer the question based on the following information.\n In each of the following questions, a pair of graphs F(x) and F1(x) is given. These are composed of straight-line segments,\n shown as solid lines, in the domain x ∈ (2, −2).\n Choose the answer as\n A. if F1(x) = –F(x)   B. if F1(x) = F(–x)\n C. if F1(x) = –F(–x)   D. if none of the above is true",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "15154.jpg"
+  ]
  },
  {
   "id": "2.19.125",
   "source": "CAT 1999 Q 91",
   "text": "Answer the question based on the following information.\n In each of the following questions, a pair of graphs F(x) and F1(x) is given. These are composed of straight-line segments,\n shown as solid lines, in the domain x ∈ (2, −2).\n Choose the answer as\n A. if F1(x) = –F(x)   B. if F1(x) = F(–x)\n C. if F1(x) = –F(–x)   D. if none of the above is true",
   "key": "B",
-  "figure": false
+  "figure": false,
+  "images": [
+   "15182.jpg"
+  ]
  },
  {
   "id": "2.19.126",
   "source": "CAT 1999 Q 92",
   "text": "Answer the question based on the following information.\n In each of the following questions, a pair of graphs F(x) and F1(x) is given. These are composed of straight-line segments,\n shown as solid lines, in the domain x ∈ (2, −2).\n Choose the answer as\n A. if F1(x) = –F(x)   B. if F1(x) = F(–x)\n C. if F1(x) = –F(–x)   D. if none of the above is true",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "15184.jpg"
+  ]
  },
  {
   "id": "2.19.127",
@@ -977,7 +1047,10 @@ APT.addBank("2.19", [
   "source": "",
   "text": "Number Logic\n Which number replaces the question (?) mark ?\n A. 9   B. 7   C. 8   D. 13",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "15292.jpg"
+  ]
  },
  {
   "id": "2.19.141",

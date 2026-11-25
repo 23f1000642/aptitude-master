@@ -109,7 +109,10 @@ APT.addBank("2.0", [
   "source": "",
   "text": "Statements: In a one day cricket match, the total run made by a team were 200. Out of these 160 runs were made by\n spinners.\n Conclusions:\n  I. 80% of the team consists of spinners.\n II. The opening batsmen were spinners.\n A. Only conclusin I follows   B. Only conclusin II follows\n C. Either I or II follows   D. Neither I nor II follows\n E. Both I and II follows",
   "key": null,
-  "figure": false
+  "figure": false,
+  "images": [
+   "8460.jpg"
+  ]
  },
  {
   "id": "2.0.17",
