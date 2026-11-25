@@ -1,6 +1,6 @@
 # Aptitude Master
 
-An interactive study app for **Quantitative Aptitude**. Every topic is taught like a story, then you attempt real exam questions and open a step-by-step solution only after you've tried.
+An interactive study app for **Quantitative Aptitude** and **Logical Reasoning**. Every topic is taught like a story, then you attempt real exam questions and open a step-by-step solution only after you've tried.
 
 **Live app:** https://23f1000642.github.io/aptitude-master/
 
@@ -8,9 +8,10 @@ An interactive study app for **Quantitative Aptitude**. Every topic is taught li
 
 | | |
 | --- | --- |
-| Topics | 14 (Number System to Geometry) |
-| Solved questions | 125, each with options, steps and the trick used |
-| PDF question bank | 1,759 questions from the GATE Overflow aptitude book, in 105 sub-topics, with the book's answer key where it has one (471) |
+| Sections | 2: Quantitative Aptitude, Logical Reasoning |
+| Topics | 23 (14 quant + 9 reasoning) |
+| Solved questions | 199, each with options, steps and the trick used |
+| PDF question bank | 2,860 questions from the GATE Overflow aptitude book, in 146 sub-topics, with the book's answer key where it has one (728) |
 
 ### Each topic has three tabs
 
@@ -47,7 +48,7 @@ js/registry.js          global registry the data files add themselves to
 js/store.js             progress, bookmarks and theme (localStorage)
 js/render.js            small rendering helpers
 js/app.js               router, pages, question cards
-data/topics/*.js        one file per topic: concepts + solved questions
+data/topics/*.js        one file per topic: concepts + solved questions (lr-* = reasoning)
 data/bank/*.js          PDF question bank, one file per sub-topic (loaded on demand)
 tools/build_bank.py     builds data/bank from the PDF's extracted text
 ```
@@ -74,13 +75,14 @@ For a question without options, use `options: null`, `answerText: '16000'` and o
 
 ```bash
 pdftotext -layout aptitude.pdf apt.txt
-python3 tools/build_bank.py apt.txt data/bank
+python3 tools/build_bank.py apt.txt data/bank 2 7   # chapters: 2 = reasoning, 7 = quant
+node tools/validate.js                               # checks every answer against the PDF key
 ```
 
 ## Roadmap
 
 - [x] Quantitative Aptitude
-- [ ] Logical Reasoning
+- [x] Logical Reasoning
 - [ ] Data Interpretation
 - [ ] English Language
 - [ ] Computer Knowledge & General Awareness
