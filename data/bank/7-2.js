@@ -37,7 +37,7 @@ APT.addBank("7.2", [
  {
   "id": "7.2.6",
   "source": "CAT 2017 Set-1 Q 96",
-  "text": "1\n  The shortest distance of the point\n   ( )\n   2\n   , 1 from the curve y =∣ x − 1 ∣ + ∣ x + 1∣ is\n   3\n A. 1   B. 0   C. √2\n   D.   √   2",
+  "text": "The shortest distance of the point\n   ( )\n   , 1 from the curve y =∣ x − 1 ∣ + ∣ x + 1∣ is\n A. 1   B. 0   C. √2\n   D.   √   2",
   "key": null,
   "figure": false
  },
@@ -93,7 +93,7 @@ APT.addBank("7.2", [
  {
   "id": "7.2.14",
   "source": "CAT 2021 Set-3 | Quantitative Aptitude Q 19",
-  "text": "If 3x + 2 | y | + y = 7 and x + | x | + 3y = 1, then x + 2y is\n   8   4\n   B. 1   D. 0\n   3\n  A.   C. – 3\n7.3   Ages (13)",
+  "text": "If 3x + 2 | y | + y = 7 and x + | x | + 3y = 1, then x + 2y is\n   B. 1   D. 0\n  A.   C. – 3",
   "key": "D",
   "figure": false
  }

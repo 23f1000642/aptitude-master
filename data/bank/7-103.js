@@ -58,7 +58,7 @@ APT.addBank("7.103", [
  {
   "id": "7.103.9",
   "source": "CAT 2021 Set-3 | Quantitative Aptitude Q 2",
-  "text": "Anil can paint a house in 12 days while Barun can paint it in 16 days. Anil, Barun, and Chandu undertake to paint the house\n  for ₹ 24000 and the three of them together complete the painting in 6 days. If Chandu is paid in proportion to the work done\n  by him, then the amount in INR received by him is\n7.104   Work Time (49)",
+  "text": "Anil can paint a house in 12 days while Barun can paint it in 16 days. Anil, Barun, and Chandu undertake to paint the house\n  for ₹ 24000 and the three of them together complete the painting in 6 days. If Chandu is paid in proportion to the work done\n  by him, then the amount in INR received by him is",
   "key": "3000",
   "figure": false
  }

@@ -128,7 +128,7 @@ APT.addBank("7.11", [
  {
   "id": "7.11.19",
   "source": "",
-  "text": "Which month showed the largest total decrease in PC sales over the previous month?\n  Which month showed the largest total decrease in PC sales over the previous month?\n  1. March\n  2. April\n  3. May\n  4. June\n  5. July\n  What percentage of manufacturer 2' s sales were made in April ( to the nearest percent)\n  1. 16\n  2. 22\n  3. 27\n  4. 33\n  5. 38\n  If the average profit made on each PC sold by manufacturer 3 over all 5 months was 78 pounds what was the total profit in\n  pounds on all sales in this period by that manufacturer?\n  1. 650,400\n  2. 820,700\n  3. 980,300\n  4. 1,095,600\n  5. 1,177,800\n7.12   Binomial Theorem (1)",
+  "text": "Which month showed the largest total decrease in PC sales over the previous month?\n  Which month showed the largest total decrease in PC sales over the previous month?\n  1. March\n  2. April\n  3. May\n  4. June\n  5. July\n  What percentage of manufacturer 2' s sales were made in April ( to the nearest percent)\n  1. 16\n  2. 22\n  3. 27\n  4. 33\n  5. 38\n  If the average profit made on each PC sold by manufacturer 3 over all 5 months was 78 pounds what was the total profit in\n  pounds on all sales in this period by that manufacturer?\n  1. 650,400\n  2. 820,700\n  3. 980,300\n  4. 1,095,600\n  5. 1,177,800",
   "key": null,
   "figure": false
  }

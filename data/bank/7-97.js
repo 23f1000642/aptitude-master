@@ -100,7 +100,7 @@ APT.addBank("7.97", [
  {
   "id": "7.97.15",
   "source": "CAT 2002 Q 82",
-  "text": "On a 20 km tunnel connecting two cities A and B there are three gutters. The distance between gutter 1 and 2 is half the\n distance between gutter and 2 and 3. The distance from city A to its nearest gutter, gutter 1 is equal to the distance of city B\n from gutter 3. On a particular day the hospital in city A receives information that an accident has happened at the third gutter.\n The victim can be saved only if an operation is started within 40 minutes. An ambulance started from city A at 30 km/hr and\n crossed the first gutter after 5 minutes. If the driver had doubled the speed after that, what is the maximum amount of time the\n doctor would get to attend the patient at the hospital? Assume 1 minutes is elapsed for taking the patient into and out of the\n ambulance.\n A. 4 minutes   B. 2.5 minutes\n C. 1.5 minutes   D. Patient died before reaching the\n   hospital",
+  "text": "On a 20 km tunnel connecting two cities A and B there are three gutters. The distance between gutter 1 and 2 is half the\n distance between gutter and 2 and 3. The distance from city A to its nearest gutter, gutter 1 is equal to the distance of city B\n from gutter 3. On a particular day the hospital in city A receives information that an accident has happened at the third gutter.\n The victim can be saved only if an operation is started within 40 minutes. An ambulance started from city A at 30 km/hr and\n crossed the first gutter after 5 minutes. If the driver had doubled the speed after that, what is the maximum amount of time the\n doctor would get to attend the patient at the hospital? Assume 1 minutes is elapsed for taking the patient into and out of the\n ambulance.\n A. 4 minutes   B. 2.5 minutes\n C. 1.5 minutes   D. Patient died before reaching the",
   "key": null,
   "figure": false
  },
@@ -149,21 +149,21 @@ APT.addBank("7.97", [
  {
   "id": "7.97.22",
   "source": "",
-  "text": "circular track\n  A B C participate in race around circular track.A and B run in same direction while C in opposite direction.if speed of A B C\n  are 10m/s 20m/s and 30 m/s respectively and length of track is 1000 m then after how much time they will meet for first time?",
+  "text": "A B C participate in race around circular track.A and B run in same direction while C in opposite direction.if speed of A B C\n  are 10m/s 20m/s and 30 m/s respectively and length of track is 1000 m then after how much time they will meet for first time?",
   "key": null,
   "figure": false
  },
  {
   "id": "7.97.23",
   "source": "",
-  "text": "madeeasy work book\n  A plane left half an hour than the scheduled time and in order to reach its destination 1500 km away in time, it had to increase\n  its speed by 33.33% over its usual speed. find its increased speed?\n   a. 250 kmph   b. 500 kmph\n   c. 750 kmph   d. none\n  the answer given is 750 kmph but i m getting 250 which is correct??",
+  "text": "A plane left half an hour than the scheduled time and in order to reach its destination 1500 km away in time, it had to increase\n  its speed by 33.33% over its usual speed. find its increased speed?\n   a. 250 kmph   b. 500 kmph\n   c. 750 kmph   d. none\n  the answer given is 750 kmph but i m getting 250 which is correct??",
   "key": null,
   "figure": false
  },
  {
   "id": "7.97.24",
   "source": "",
-  "text": "speeed distance time\n  If a person increases his speed by 1 km/hr he reaches his office in 3/4th of the time he normally takes and if he decreases his\n  speed by 1 km/hr, he reaches his office 2 hrs late. What distance dose the person travels to his office?\n  (a) 10 kms (b) 8 kms\n  (b) 12 kms (d) 9 kms\n7.98   Train (6)",
+  "text": "If a person increases his speed by 1 km/hr he reaches his office in 3/4th of the time he normally takes and if he decreases his\n  speed by 1 km/hr, he reaches his office 2 hrs late. What distance dose the person travels to his office?\n  (a) 10 kms (b) 8 kms\n  (b) 12 kms (d) 9 kms",
   "key": null,
   "figure": false
  }

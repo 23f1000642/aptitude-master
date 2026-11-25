@@ -44,7 +44,7 @@ APT.addBank("7.67", [
  {
   "id": "7.67.7",
   "source": "",
-  "text": "NIELIT 2016 DEC Scientist B - Section A: 6\n The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a magazine. Study the pie-\n chart and answer the question based on it.\n Various Expenditures (in percentage) Incurred in publishing a Magazine\n The price of the magazine is marked 20% above the C. P. If the marked price of the magazine is ₹ 180, then what is the cost of\n the paper used in a single copy of the magazine ?\n A. ₹36   B. ₹37.50   C. ₹42   D. ₹44.25\n nielit2016dec-scientistb   pie-chart   percentage",
+  "text": "NIELIT 2016 DEC Scientist B - Section A: 6\n The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a magazine. Study the pie-\n chart and answer the question based on it.\n Various Expenditures (in percentage) Incurred in publishing a Magazine\n The price of the magazine is marked 20% above the C. P. If the marked price of the magazine is ₹ 180, then what is the cost of\n the paper used in a single copy of the magazine ?\n A. ₹36   B. ₹37.50   C. ₹42   D. ₹44.25",
   "key": "B",
   "figure": true
  },
@@ -58,7 +58,7 @@ APT.addBank("7.67", [
  {
   "id": "7.67.9",
   "source": "",
-  "text": "NIELIT 2016 DEC Scientist B - Section A: 8\n The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a magazine. Study the pie-\n chart and answer the question based on it.\n Various Expenditures (in percentage) Incurred in publishing a Magazine\n Royalty on the magazine is less than the printing cost by :\n A. 5%   1   C. 20%   D. 25%\n   B. 33 5 %\n nielit2016dec-scientistb   pie-chart   percentage",
+  "text": "NIELIT 2016 DEC Scientist B - Section A: 8\n The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a magazine. Study the pie-\n chart and answer the question based on it.\n Various Expenditures (in percentage) Incurred in publishing a Magazine\n Royalty on the magazine is less than the printing cost by :\n A. 5%   1   C. 20%   D. 25%\n   B. 33 5 %",
   "key": "D",
   "figure": true
  },
@@ -72,7 +72,7 @@ APT.addBank("7.67", [
  {
   "id": "7.67.11",
   "source": "",
-  "text": "NIELIT 2016 MAR Scientist C - Section A: 9\n The total electricity generation in a country is 97 GW. The contribution of various energy sources is indicated in percentage\n terms in the pie chart given below:\n  What is the contribution of renewable energy sources in absolute terms in the electricity generation?\n  A. 09.1 GW   B. 26.19 GW   C. 67.9 GW   D. 97 GW\n7.68   Pipes Cistern (13)",
+  "text": "NIELIT 2016 MAR Scientist C - Section A: 9\n The total electricity generation in a country is 97 GW. The contribution of various energy sources is indicated in percentage\n terms in the pie chart given below:\n  What is the contribution of renewable energy sources in absolute terms in the electricity generation?\n  A. 09.1 GW   B. 26.19 GW   C. 67.9 GW   D. 97 GW",
   "key": null,
   "figure": true
  }

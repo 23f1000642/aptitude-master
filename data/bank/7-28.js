@@ -114,7 +114,7 @@ APT.addBank("7.28", [
  {
   "id": "7.28.17",
   "source": "CAT 1998 Q 173",
-  "text": "In the following chart, the price of logs shown is per cubic meter and that of plywood and saw timber is per ton. Given that 1\n  cubic meter of Plywood and Saw Timber = 800 kg (1 ton = 1000 kg)\n  If in 1994 prices increased by 5%, 1% and 10%, while the volume sales break-up was 40%, 30% for Plywood, Saw Timber\n  and Logs respectively, what was the average realisation?\n  A. 18.95   B. 16.45   C. 17.65   D. 10.25\n7.29   Dice (2)",
+  "text": "In the following chart, the price of logs shown is per cubic meter and that of plywood and saw timber is per ton. Given that 1\n  cubic meter of Plywood and Saw Timber = 800 kg (1 ton = 1000 kg)\n  If in 1994 prices increased by 5%, 1% and 10%, while the volume sales break-up was 40%, 30% for Plywood, Saw Timber\n  and Logs respectively, what was the average realisation?\n  A. 18.95   B. 16.45   C. 17.65   D. 10.25",
   "key": null,
   "figure": true
  }

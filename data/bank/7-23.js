@@ -23,7 +23,7 @@ APT.addBank("7.23", [
  {
   "id": "7.23.4",
   "source": "",
-  "text": "TIme Compound Interest question no. 18\n  Sourabh borrows rs 25,00,000 at 12% compound interest from a bank and invests in shares. The investment gives him a return\n  of 20% per annum and he repays rs 5,00,000 at the end of first year. How much does he make for himself after paying all the\n  outstanding amount at the end of the second year?\n  a 424000   b 356241.50\n  c 525000   d 484241.80\n7.24   Cost Price Selling Price (6)",
+  "text": "TIme Compound Interest question no. 18\n  Sourabh borrows rs 25,00,000 at 12% compound interest from a bank and invests in shares. The investment gives him a return\n  of 20% per annum and he repays rs 5,00,000 at the end of first year. How much does he make for himself after paying all the\n  outstanding amount at the end of the second year?\n  a 424000   b 356241.50\n  c 525000   d 484241.80",
   "key": null,
   "figure": false
  }

@@ -23,7 +23,7 @@ APT.addBank("7.50", [
  {
   "id": "7.50.4",
   "source": "CAT 2013 Q 22",
-  "text": "Outside a sweet shop, its name \"Madhu Sweet House\" is displayed using blinking lights. Each word flashes at a regular\n   1\n  interval and remains lit for 1 second. After remaining lit for 1 second, \"Madhu\" remains unlit for 3 2 seconds, \"Sweet\" remains\n   3   1\n   4\n  unlit for 5 seconds and \"House\" remains until 9 8 seconds. If all the words flash together at 8: 00 p.m. sharp, find the time\n  interval between the next time the first two words flash together and the next time the last two words flash together\n  A. 45 seconds   B. 22.5 seconds   C. 112 seconds   D. 6.75 seconds",
+  "text": "Outside a sweet shop, its name \"Madhu Sweet House\" is displayed using blinking lights. Each word flashes at a regular\n  interval and remains lit for 1 second. After remaining lit for 1 second, \"Madhu\" remains unlit for 3 2 seconds, \"Sweet\" remains\n  unlit for 5 seconds and \"House\" remains until 9 8 seconds. If all the words flash together at 8: 00 p.m. sharp, find the time\n  interval between the next time the first two words flash together and the next time the last two words flash together\n  A. 45 seconds   B. 22.5 seconds   C. 112 seconds   D. 6.75 seconds",
   "key": null,
   "figure": false
  },
@@ -86,8 +86,8 @@ APT.addBank("7.50", [
  {
   "id": "7.50.13",
   "source": "",
-  "text": "areas and squares\n  Find the minimum number of square tiles required to pave the floor of a room of 3m 25cm long and 2m 50cm broad?\n  1.   144\n  2.   130\n  3.   156\n  4.   168\n7.51   Line Graph (2)",
+  "text": "Find the minimum number of square tiles required to pave the floor of a room of 3m 25cm long and 2m 50cm broad?\n  1.   144\n  2.   130\n  3.   156\n  4.   168",
   "key": null,
-  "figure": true
+  "figure": false
  }
 ]);

@@ -37,7 +37,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.6",
   "source": "",
-  "text": "A!*B!*C!=D!, A,B,C are all odd natural numbers and D=10,what is A*B*C?\n A!*B!*C!=D!, A,B,C are all odd natural numbers and D=10,what is A*B*C?\n 189\n 105\n 315\n 27\n Please share approach too,",
+  "text": "A!*B!*C!=D!, A,B,C are all odd natural numbers and D=10,what is A*B*C?\n A!*B!*C!=D!, A,B,C are all odd natural numbers and D=10,what is A*B*C?\n Please share approach too,",
   "key": null,
   "figure": false
  },
@@ -51,7 +51,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.8",
   "source": "CAT 1994 Q 60",
-  "text": "If a + b + c = 0, where a ≠ b ≠ c, then what is the value of:\n   a2   b2   c2\n 2a 2 + bc   2   2\n   + 2b + ac + 2c + ab\n A. zero   B. 1   C. -1   D. abc",
+  "text": "If a + b + c = 0, where a ≠ b ≠ c, then what is the value of:\n 2a 2 + bc   2   2\n   + 2b + ac + 2c + ab\n A. zero   B. 1   C. -1   D. abc",
   "key": "B",
   "figure": false
  },
@@ -233,7 +233,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.34",
   "source": "CAT 1997 Q 101",
-  "text": "A race consists of three stretches A, B and C of 2kms length each. The mode of coverage, and maximum and minimum of\n speeds possible in each stretch are:\n Stretch Mode   Minimum Speed (Km/h) Maximum Speed (Km/h)\n A   Car   40   60\n B   Motorcycle 30   50\n C   Bicycle   10   20\n Speed in a given stretch remains constant. The previous record was ten minutes to complete the race.\n Anshuman travelled at the minimum speed by car and at maximum speed over the stretch B. What should be his minimum\n speed over stretch C to beat the previous record?\n A. 15 kmph   B. Not possible to beat the previous\n   record\n C. 20 kmph   D. None of these",
+  "text": "A race consists of three stretches A, B and C of 2kms length each. The mode of coverage, and maximum and minimum of\n speeds possible in each stretch are:\n Stretch Mode   Minimum Speed (Km/h) Maximum Speed (Km/h)\n A   Car   40   60\n B   Motorcycle 30   50\n C   Bicycle   10   20\n Speed in a given stretch remains constant. The previous record was ten minutes to complete the race.\n Anshuman travelled at the minimum speed by car and at maximum speed over the stretch B. What should be his minimum\n speed over stretch C to beat the previous record?\n A. 15 kmph   B. Not possible to beat the previous\n C. 20 kmph   D. None of these",
   "key": null,
   "figure": false
  },
@@ -296,7 +296,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.43",
   "source": "CAT 1997 Q 112",
-  "text": "A dry fruit seller purchased 3 kinds of nuts at the rate of Rs. 100/kg, Rs. 80/kg and Rs. 60/kg. He then mixed them,\n respectively, in the ratio 3: 4: 5 by weight and sold the same to a customer at 50% profit. The price at which he sold to the\n customer is\n A. Rs. 110   B. Rs. 90\n C. Rs. 70   D. None of these",
+  "text": "A dry fruit seller purchased 3 kinds of nuts at the rate of Rs. 100/kg, Rs. 80/kg and Rs. 60/kg. He then mixed them,\n respectively, in the ratio 3: 4: 5 by weight and sold the same to a customer at 50% profit. The price at which he sold to the\n A. Rs. 110   B. Rs. 90\n C. Rs. 70   D. None of these",
   "key": null,
   "figure": false
  },
@@ -352,7 +352,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.51",
   "source": "CAT 1997 Q 121",
-  "text": "Which of the following is true?\n   32   32\n A. 7 = (7 3) 2   B. 7 > (7 3) 2\n   32   D. None of these\n C. 7 < (7 3) 2",
+  "text": "Which of the following is true?\n A. 7 = (7 3) 2   B. 7 > (7 3) 2\n   32   D. None of these\n C. 7 < (7 3) 2",
   "key": null,
   "figure": false
  },
@@ -828,14 +828,14 @@ APT.addBank("7.74", [
  {
   "id": "7.74.119",
   "source": "CAT 1999 Q 56",
-  "text": "The number of positive integer valued pairs (x, y) satisfying 4x– 17y = 1 and x ≤ 1000 is\n A. 59   B. 57   C. 55   D. 58\n quantitative-aptitude   cat1999",
+  "text": "The number of positive integer valued pairs (x, y) satisfying 4x– 17y = 1 and x ≤ 1000 is\n A. 59   B. 57   C. 55   D. 58",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.120",
   "source": "CAT 1999 Q 57",
-  "text": "Let a, b, c be distinct digits. Consider a two-digit number ‘ab’ and a three-digit number ‘ccb’, both defined under the usual\n decimal number system, if (ab) 2 = ccb > 300 then the value of b is\n A. 1   B. 0   C. 5   D. 6\n quantitative-aptitude   cat1999",
+  "text": "Let a, b, c be distinct digits. Consider a two-digit number ‘ab’ and a three-digit number ‘ccb’, both defined under the usual\n decimal number system, if (ab) 2 = ccb > 300 then the value of b is\n A. 1   B. 0   C. 5   D. 6",
   "key": null,
   "figure": false
  },
@@ -877,21 +877,21 @@ APT.addBank("7.74", [
  {
   "id": "7.74.126",
   "source": "CAT 1999 Q 63",
-  "text": "Forty per cent of the employees of a certain company are men, and 75% of the men earn more than Rs. 25,000 per year. If 45%\n of the company’s employees earn more than Rs. 25,000 per year, what fraction of the women employed by the company earn\n less than or equal to Rs. 25,000 per year?\n   2   1   1   3\n   11   4   3\n A.   B.   C.   D. 4",
+  "text": "Forty per cent of the employees of a certain company are men, and 75% of the men earn more than Rs. 25,000 per year. If 45%\n of the company’s employees earn more than Rs. 25,000 per year, what fraction of the women employed by the company earn\n less than or equal to Rs. 25,000 per year?\n   2   1   1   3\n A.   B.   C.   D. 4",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.127",
   "source": "CAT 1999 Q 64",
-  "text": "q\n If | r − 6 | = 11 and | 2q − 12 | = 8, what is the minimum possible value of r ?\n   2   2   10\n   D. None of these\n   5   17\n A. −   B.   C. 17",
+  "text": "If | r − 6 | = 11 and | 2q − 12 | = 8, what is the minimum possible value of r ?\n   D. None of these\n A. −   B.   C. 17",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.128",
   "source": "CAT 1999 Q 65",
-  "text": "If n = 1 + x where x is the product of four consecutive positive integers, then which of the following is/are true?\n A. n is odd   B. n is prime   C. n is a perfect square\n   a. Ab.and\n   Ac.C\n   and\n   only\n   Ad.B\n   only\n   only\n   None of these",
+  "text": "If n = 1 + x where x is the product of four consecutive positive integers, then which of the following is/are true?\n A. n is odd   B. n is prime   C. n is a perfect square\n   a. Ab.and\n   Ac.C\n   Ad.B\n   None of these",
   "key": null,
   "figure": false
  },
@@ -905,14 +905,14 @@ APT.addBank("7.74", [
  {
   "id": "7.74.130",
   "source": "CAT 1999 Q 67",
-  "text": "For two positive integers a and b define the function h(a,b) as the greatest common factor (G.C.F) of a, b. Let A be a set of n\n positive integers. G(A), the G.C.F of the elements of set A is computed by repeatedly using the function h. The minimum\n number of times h is required to be used to compute G is\n   1\n   B. (n − 1)   C. n   D. None of these\n A. 2 n",
+  "text": "For two positive integers a and b define the function h(a,b) as the greatest common factor (G.C.F) of a, b. Let A be a set of n\n positive integers. G(A), the G.C.F of the elements of set A is computed by repeatedly using the function h. The minimum\n number of times h is required to be used to compute G is\n   B. (n − 1)   C. n   D. None of these\n A. 2 n",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.131",
   "source": "CAT 1999 Q 68",
-  "text": "The figure below shows two concentric circles with centre O. PQRS is a square inscribed in the outer circle. It also\n circumscribes the inner circle, touching it at points B, C, D and A. What is the ratio of the perimeter of the outer circle to that of\n polygon ABCD?\n   π   3π   π\n   D. π\n   4   2\n A.   B.   C. 2",
+  "text": "The figure below shows two concentric circles with centre O. PQRS is a square inscribed in the outer circle. It also\n circumscribes the inner circle, touching it at points B, C, D and A. What is the ratio of the perimeter of the outer circle to that of\n polygon ABCD?\n   π   3π   π\n   D. π\n A.   B.   C. 2",
   "key": null,
   "figure": true
  },
@@ -961,7 +961,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.138",
   "source": "",
-  "text": "CMI2010-A-02\n We need to choose a team of 11 from a pool of 15 players and also select a captain. The number of different ways this can be\n done is\n A.\n   ( ) 15\n   11\n   B. 11 .\n   ( )\n   15\n   11\n C. 15 . 14 . 13 . 12 . 11 .10 . 9 . 8 . 7 . 6 .   D. (15 . 14 . 13 . 12 . 11 .10 . 9 . 8 . 7 . 6 .\n   5   5) . 11",
+  "text": "CMI2010-A-02\n We need to choose a team of 11 from a pool of 15 players and also select a captain. The number of different ways this can be\n A.\n   ( ) 15\n   B. 11 .\n   ( )\n C. 15 . 14 . 13 . 12 . 11 .10 . 9 . 8 . 7 . 6 .   D. (15 . 14 . 13 . 12 . 11 .10 . 9 . 8 . 7 . 6 .\n   5   5) . 11",
   "key": null,
   "figure": false
  },
@@ -975,7 +975,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.140",
   "source": "",
-  "text": "CMI2010-A-07\n   n ( 5n + 1 ) ( 10n + 1 )\n   6\n For integer values of n, the expression\n A. Is always divisible by 5.   B. Is always divisible by 3.\n C. Is always an integer.   D. None of the above",
+  "text": "CMI2010-A-07\n   n ( 5n + 1 ) ( 10n + 1 )\n For integer values of n, the expression\n A. Is always divisible by 5.   B. Is always divisible by 3.\n C. Is always an integer.   D. None of the above",
   "key": null,
   "figure": false
  },
@@ -1038,7 +1038,7 @@ APT.addBank("7.74", [
  {
   "id": "7.74.149",
   "source": "",
-  "text": "The square of two digit number(ab) divided by half of itself resultant added by 18 then\ndivided by 2\n The square of two digit number(ab) divided by half of itself resultant added by 18 then divided by 2 then we get reverse of\n original number(ba). how many combination of ab exist\n A. 9   B. 8   C. 7   D. 6\n difficult   quantitative-aptitude",
+  "text": "The square of two digit number(ab) divided by half of itself resultant added by 18 then\n The square of two digit number(ab) divided by half of itself resultant added by 18 then divided by 2 then we get reverse of\n original number(ba). how many combination of ab exist\n A. 9   B. 8   C. 7   D. 6",
   "key": null,
   "figure": false
  },
@@ -1080,21 +1080,21 @@ APT.addBank("7.74", [
  {
   "id": "7.74.155",
   "source": "",
-  "text": "profit\n Two merchants sell, each an article for Rs.1000. If Merchant A computes his profit on cost price, while Merchant B computes\n his profit on selling price, they end up making profits of 25% respectively. By how much is the profit made by Merchant B\n greater than that of Merchant A?\n A) Rs.66.67\n B) Rs. 50\n C) Rs.125\n D) Rs.200",
+  "text": "Two merchants sell, each an article for Rs.1000. If Merchant A computes his profit on cost price, while Merchant B computes\n his profit on selling price, they end up making profits of 25% respectively. By how much is the profit made by Merchant B\n greater than that of Merchant A?\n A) Rs.66.67\n B) Rs. 50\n C) Rs.125\n D) Rs.200",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.156",
   "source": "",
-  "text": "profit and loss\n A sells B a diamond at a profit of 30%. B sells it to C at a loss of 20%. What profit did A earn if C paid Rs.1040 for the\n diamond?\n (a) Rs.410 (b) Rs.200\n (c) Rs.400 (d) Rs.140\n quantitative-aptitude   easy",
+  "text": "A sells B a diamond at a profit of 30%. B sells it to C at a loss of 20%. What profit did A earn if C paid Rs.1040 for the\n diamond?\n (a) Rs.410 (b) Rs.200\n (c) Rs.400 (d) Rs.140",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.157",
   "source": "",
-  "text": "profit and loss\n At what percentage above the C.P must an article be marked so as to gain 33% after allowing a customer a\n discount of 5%?\n A. 38%   B. 40%   C. 43%   D. 48%",
+  "text": "At what percentage above the C.P must an article be marked so as to gain 33% after allowing a customer a\n discount of 5%?\n A. 38%   B. 40%   C. 43%   D. 48%",
   "key": null,
   "figure": false
  },
@@ -1108,42 +1108,42 @@ APT.addBank("7.74", [
  {
   "id": "7.74.159",
   "source": "",
-  "text": "self doubt\n  How many four-digit numbers, with distinct digits are there such that the sum of the digits of each of these numbers is an odd\n  natural number?\n  A. 2160   B. 2090   C. 1880   D. 2376",
+  "text": "How many four-digit numbers, with distinct digits are there such that the sum of the digits of each of these numbers is an odd\n  natural number?\n  A. 2160   B. 2090   C. 1880   D. 2376",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.160",
   "source": "",
-  "text": "tcs apti\n  B moves by taking 3 steps forward and 1 step backward (each step in one second )\n  He walks up a stationary escalator in 118 sec.\n  However on moving escalator he takes 40 sec to reach top . Find speed of escalator. ( 2 Marks )\n  A. 1 step/sec   B. 2 step/sec   C. 3 step/sec   D. 4 step/sec",
+  "text": "B moves by taking 3 steps forward and 1 step backward (each step in one second )\n  He walks up a stationary escalator in 118 sec.\n  However on moving escalator he takes 40 sec to reach top . Find speed of escalator. ( 2 Marks )\n  A. 1 step/sec   B. 2 step/sec   C. 3 step/sec   D. 4 step/sec",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.161",
   "source": "",
-  "text": "tcs aptitude\n  College T has 1000 students. Of the 200 students majoring in one or more of the sciences,130 are majoring in Chemistry and\n  150 are majoring in Biology. If at least 30 of the students are not majoring in either Chemistry or Biology, then the number of\n  students majoring in both Chemistry and Biology could be any number from?\n  A. 110 to 130   B. 110 to 120   C. 120 to 130   D. 120 to 170",
+  "text": "College T has 1000 students. Of the 200 students majoring in one or more of the sciences,130 are majoring in Chemistry and\n  150 are majoring in Biology. If at least 30 of the students are not majoring in either Chemistry or Biology, then the number of\n  students majoring in both Chemistry and Biology could be any number from?\n  A. 110 to 130   B. 110 to 120   C. 120 to 130   D. 120 to 170",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.162",
   "source": "",
-  "text": "tcs aptitude\n  What is the remainder of (16937^30)/31 ? ( 1 Marks )\n  A. 1   B. 2   C. 3   D. 4",
+  "text": "What is the remainder of (16937^30)/31 ? ( 1 Marks )\n  A. 1   B. 2   C. 3   D. 4",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.163",
   "source": "",
-  "text": "tcs aptitude\n  If given equation is 137+276=435,how much is 731+672=.... find the result. ( 2 Marks )\n  A. 435   B. 537   C. 3261   D. 1623",
+  "text": "If given equation is 137+276=435,how much is 731+672=.... find the result. ( 2 Marks )\n  A. 435   B. 537   C. 3261   D. 1623",
   "key": null,
   "figure": false
  },
  {
   "id": "7.74.164",
   "source": "",
-  "text": "x, y and z are the positive integers such that x > y > z. Which of the following is closest to\n the product xyz?\n  x, y and z are the positive integers such that x > y > z. Which of the following is closest to the product xyz?\n  A. xy(z-1)   B. (x-1)yz   C. (x-y)xy   D. x(y+1)z   Please describe   the\n   solution in detail.\n7.75   Ratio Proportion (61)",
+  "text": "x, y and z are the positive integers such that x > y > z. Which of the following is closest to\n the product xyz?\n  x, y and z are the positive integers such that x > y > z. Which of the following is closest to the product xyz?\n  A. xy(z-1)   B. (x-1)yz   C. (x-y)xy   D. x(y+1)z   Please describe   the\n   solution in detail.",
   "key": null,
   "figure": false
  }

@@ -100,7 +100,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.15",
   "source": "CAT 2001 Q 33",
-  "text": "A set of consecutive positive integers beginning with 1 is written on the blackboard. A student came along and erased one\n   7\n   17\n number. The average of the remaining numbers is 35   . What was the number erased?\n A. 7   B. 8   C. 9   D. None of these",
+  "text": "A set of consecutive positive integers beginning with 1 is written on the blackboard. A student came along and erased one\n number. The average of the remaining numbers is 35   . What was the number erased?\n A. 7   B. 8   C. 9   D. None of these",
   "key": null,
   "figure": false
  },
@@ -121,14 +121,14 @@ APT.addBank("7.62", [
  {
   "id": "7.62.18",
   "source": "CAT 2002 Q 51",
-  "text": "On dividing a number by 3, 4, and 7, the remainders are 2, 1, and 4 respectively. If the same number is divided by 84 then the\n remainder is\n A. 80   B. 76   C. 53   D. None of these",
+  "text": "On dividing a number by 3, 4, and 7, the remainders are 2, 1, and 4 respectively. If the same number is divided by 84 then the\n A. 80   B. 76   C. 53   D. None of these",
   "key": null,
   "figure": false
  },
  {
   "id": "7.62.19",
   "source": "CAT 2002 Q 59",
-  "text": "Number S is equal to the square of the sum of the digits of a 2 digit number D. If the difference between S and D is 27, then D\n is\n A. 32   B. 54   C. 64   D. 52",
+  "text": "Number S is equal to the square of the sum of the digits of a 2 digit number D. If the difference between S and D is 27, then D\n A. 32   B. 54   C. 64   D. 52",
   "key": null,
   "figure": false
  },
@@ -198,7 +198,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.29",
   "source": "CAT 2003 Q 1-114",
-  "text": "A test has 50 questions. A student scores 1 mark for the correct answer, −1/3 for a wrong answer and −1/6 for not attempting\n the question. If the net score of the student is 32, the number of questions answered wrongly by that student cannot be less\n than\n A. 6   B. 12   C. 3   D. 9",
+  "text": "A test has 50 questions. A student scores 1 mark for the correct answer, −1/3 for a wrong answer and −1/6 for not attempting\n the question. If the net score of the student is 32, the number of questions answered wrongly by that student cannot be less\n A. 6   B. 12   C. 3   D. 9",
   "key": null,
   "figure": false
  },
@@ -233,7 +233,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.34",
   "source": "CAT 2003 Q 1-149",
-  "text": "The number of positive integers n in the range 12 ≤ n ≤ 40 such that the product (n − 1)(n − 2)…3 ⋅ 2 ⋅ 1 is not divisible by n\n is\n A. 5   B. 7   C. 13   D. 14",
+  "text": "The number of positive integers n in the range 12 ≤ n ≤ 40 such that the product (n − 1)(n − 2)…3 ⋅ 2 ⋅ 1 is not divisible by n\n A. 5   B. 7   C. 13   D. 14",
   "key": null,
   "figure": false
  },
@@ -436,7 +436,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.63",
   "source": "CAT 2007 Q 14",
-  "text": "Directions for the below question:\n Let a 1 = p and b 1 = q where p and q are positive quantities.\n Define:\n a npb n − 1 b n = qb n − 1 for even n > 1\n and a npa n − 1 b n = qa n − 1 for odd n > 1\n Which of the following best describes a n + b n for even n?\n   1   1   1\n   22   2\n A. q(pq) n − 1(p + q) n   B. q(pq) n − 1(p + q)\n   1   1\n   2   2\n C. qp n − 1(p + q)   D. q n(p + q)\n   1   1\n   2   2\n E. q n(p + q) n",
+  "text": "Directions for the below question:\n Let a 1 = p and b 1 = q where p and q are positive quantities.\n Define:\n a npb n − 1 b n = qb n − 1 for even n > 1\n and a npa n − 1 b n = qa n − 1 for odd n > 1\n Which of the following best describes a n + b n for even n?\n A. q(pq) n − 1(p + q) n   B. q(pq) n − 1(p + q)\n C. qp n − 1(p + q)   D. q n(p + q)\n E. q n(p + q) n",
   "key": null,
   "figure": false
  },
@@ -478,7 +478,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.69",
   "source": "CAT 2010 Q 2",
-  "text": "Let S be the set of rational numbers with the following properties:\n   1\n I. 2 ∈ S\n   1   x\n   x+1   x+1\n II. If x ∈ S then both   ∈ S and   ∈S\n Which of the following is true?\n A. S contains all rational numbers in the interval 0 < x < 1.\n B. S contains all rational numbers in the interval −1 < x < 1.\n C. S contains all rational numbers in the interval −1 < x < 0.\n D. S contains all rational numbers in the interval 1 < x < ∞.",
+  "text": "Let S be the set of rational numbers with the following properties:\n I. 2 ∈ S\n   x+1   x+1\n II. If x ∈ S then both   ∈ S and   ∈S\n Which of the following is true?\n A. S contains all rational numbers in the interval 0 < x < 1.\n B. S contains all rational numbers in the interval −1 < x < 1.\n C. S contains all rational numbers in the interval −1 < x < 0.\n D. S contains all rational numbers in the interval 1 < x < ∞.",
   "key": null,
   "figure": false
  },
@@ -751,14 +751,14 @@ APT.addBank("7.62", [
  {
   "id": "7.62.108",
   "source": "CAT 2018 Set-2 Q 80",
-  "text": "Let t 1, t 2, … be a real numbers such that t 1 + t 2 + … + t n = 2n 2 + 9n + 13, for every positive integers n ≥ 2.If t k = 103 , then k\n equals",
+  "text": "Let t 1, t 2, … be a real numbers such that t 1 + t 2 + … + t n = 2n 2 + 9n + 13, for every positive integers n ≥ 2.If t k = 103 , then k",
   "key": "24",
   "figure": false
  },
  {
   "id": "7.62.109",
   "source": "CAT 2018 Set-2 Q 85",
-  "text": "If A =   {6 – 35n– 1: n = 1, 2, 3… } and B = {35(n– 1): n = 1, 2, 3…} then which of the following is true?\n   2n\n A. Neither every member of A is in B nor every member of B is in A\n B. Every member of A is in B and at least one member of B is not in A\n C. Every member of B is in A\n D. At least one member of A is not in B",
+  "text": "If A =   {6 – 35n– 1: n = 1, 2, 3… } and B = {35(n– 1): n = 1, 2, 3…} then which of the following is true?\n A. Neither every member of A is in B nor every member of B is in A\n B. Every member of A is in B and at least one member of B is not in A\n C. Every member of B is in A\n D. At least one member of A is not in B",
   "key": null,
   "figure": false
  },
@@ -786,7 +786,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.113",
   "source": "CAT 2019 Set-1 Q 67",
-  "text": "4\n If m and n are integers such that (√2) 193 44 29 m8 n = 3 n16 m( √64) then m is\n A. − 20   B. − 12   C. − 24   D. − 16",
+  "text": "If m and n are integers such that (√2) 193 44 29 m8 n = 3 n16 m( √64) then m is\n A. − 20   B. − 12   C. − 24   D. − 16",
   "key": "B",
   "figure": false
  },
@@ -821,7 +821,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.118",
   "source": "CAT 2020 Set-2 Q 67",
-  "text": "I f x and y are non-negative integers such that x+9=z, y+1=z and x+y<z+5, then the maximum possible value of 2x+y\n equals",
+  "text": "I f x and y are non-negative integers such that x+9=z, y+1=z and x+y<z+5, then the maximum possible value of 2x+y",
   "key": "23",
   "figure": false
  },
@@ -870,7 +870,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.125",
   "source": "CAT 2021 Set-3 | Quantitative Aptitude Q 18",
-  "text": "7   7   7\n If n is a positive integer such that ( √10)( √10) 2…( √10) n > 999, then the smallest value of n is",
+  "text": "If n is a positive integer such that ( √10)( √10) 2…( √10) n > 999, then the smallest value of n is",
   "key": "6",
   "figure": false
  },
@@ -912,7 +912,7 @@ APT.addBank("7.62", [
  {
   "id": "7.62.131",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section D: 5\n  How many pair of natural numbers are there, the differences of whose squares is 45 ?\n  A. 1   B. 2   C. 3   D. 4\n7.63   Numerical Computation (1)",
+  "text": "NIELIT 2019 Feb Scientist D - Section D: 5\n  How many pair of natural numbers are there, the differences of whose squares is 45 ?\n  A. 1   B. 2   C. 3   D. 4",
   "key": "C",
   "figure": false
  }

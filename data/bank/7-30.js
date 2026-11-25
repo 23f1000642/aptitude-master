@@ -9,7 +9,7 @@ APT.addBank("7.30", [
  {
   "id": "7.30.2",
   "source": "",
-  "text": "Directions and Distance\n  Rahul facing North, walks 2.8 Km at 45° to his right. Then turns right and walks 8Km, then turns right and walks 8Km, then\n  turns right and walks 5Km. From there he walks 2.8Km at 45° to his right and stops. What is the distance between his starting\n  point and ending point?\n7.31   Discount (4)",
+  "text": "Directions and Distance\n  Rahul facing North, walks 2.8 Km at 45° to his right. Then turns right and walks 8Km, then turns right and walks 8Km, then\n  turns right and walks 5Km. From there he walks 2.8Km at 45° to his right and stops. What is the distance between his starting\n  point and ending point?",
   "key": null,
   "figure": false
  }

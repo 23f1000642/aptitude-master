@@ -30,14 +30,14 @@ APT.addBank("7.86", [
  {
   "id": "7.86.5",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 11\n   1\n  Due to a fall in the rate of interest from 13% p.a. to 12 2 % p.a., a money lender's yearly income diminishes by ₹ 104. His\n  capital is :\n  A. ₹ 21, 400   B. ₹ 20, 800   C. ₹ 22, 300   D. ₹ 24, 000",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 11\n  Due to a fall in the rate of interest from 13% p.a. to 12 2 % p.a., a money lender's yearly income diminishes by ₹ 104. His\n  capital is :\n  A. ₹ 21, 400   B. ₹ 20, 800   C. ₹ 22, 300   D. ₹ 24, 000",
   "key": "B",
   "figure": false
  },
  {
   "id": "7.86.6",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 4\n  The difference between simple interest and compound interest on a sum for 2 years at 8%, when the interest is compounded\n  annually is ₹ 16. If the interest were compounded half-yearly, the difference in 2 years would be nearly :\n  A. ₹ 16   B. ₹ 16.80   C. ₹ 21.85   D. ₹ 24.64\n7.87   Solids (1)",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 4\n  The difference between simple interest and compound interest on a sum for 2 years at 8%, when the interest is compounded\n  annually is ₹ 16. If the interest were compounded half-yearly, the difference in 2 years would be nearly :\n  A. ₹ 16   B. ₹ 16.80   C. ₹ 21.85   D. ₹ 24.64",
   "key": "D",
   "figure": false
  }

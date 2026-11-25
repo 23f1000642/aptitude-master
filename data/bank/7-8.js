@@ -23,7 +23,7 @@ APT.addBank("7.8", [
  {
   "id": "7.8.4",
   "source": "CAT 2021 Set-3 | Quantitative Aptitude Q 8",
-  "text": "The arithmetic mean of scores of 25 students in an examination is 50. Five of these students top the examination with the same\n  score. If the scores of the other students are distinct integers with the lowest being 30, then the maximum possible score of the\n  toppers is\n7.9   Arithmetic Progression (15)",
+  "text": "The arithmetic mean of scores of 25 students in an examination is 50. Five of these students top the examination with the same\n  score. If the scores of the other students are distinct integers with the lowest being 30, then the maximum possible score of the",
   "key": "92",
   "figure": false
  }

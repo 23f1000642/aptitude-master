@@ -296,14 +296,14 @@ APT.addBank("7.71", [
  {
   "id": "7.71.43",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 23\n Goods were bought for ₹ 600 and sold the same day for ₹ 650.25 at a credit of 9 months and still there was a gain of 2%. The\n rate percent is:\n   19   25   470\n   C. 8.1%\n   3   3   61\n A.   %   B.   %   D.   %",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 23\n Goods were bought for ₹ 600 and sold the same day for ₹ 650.25 at a credit of 9 months and still there was a gain of 2%. The\n rate percent is:\n   C. 8.1%\n A.   %   B.   %   D.   %",
   "key": null,
   "figure": false
  },
  {
   "id": "7.71.44",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 24\n A man sells an article at a gain of 15% Had he bought it at 10% less and sold it for ₹ 4 less, he would have gained 25%. The\n cost price of the article is :\n A. ₹ 140   B. ₹ 150   C. ₹ 160   D. ₹ 180\n nielit2019feb-scientistd   profit-loss   percentage",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 24\n A man sells an article at a gain of 15% Had he bought it at 10% less and sold it for ₹ 4 less, he would have gained 25%. The\n cost price of the article is :\n A. ₹ 140   B. ₹ 150   C. ₹ 160   D. ₹ 180",
   "key": null,
   "figure": false
  },
@@ -317,21 +317,21 @@ APT.addBank("7.71", [
  {
   "id": "7.71.46",
   "source": "",
-  "text": "discount\n  A trader buys goods at a 19% discount on the label price. If he wants to make a profit of 20% after allowing a discount of 10%,\n  by what % should his marked price be greater than the original label price?\n  A) +8%\n  B) -3.8%\n  C) +33.33%\n  D) None of these",
+  "text": "A trader buys goods at a 19% discount on the label price. If he wants to make a profit of 20% after allowing a discount of 10%,\n  by what % should his marked price be greater than the original label price?\n  A) +8%\n  B) -3.8%\n  C) +33.33%\n  D) None of these",
   "key": null,
   "figure": false
  },
  {
   "id": "7.71.47",
   "source": "",
-  "text": "self\n  The marked price of coat was 40% less than the suggested retail price. Eesha purchased the coat for half of the marked price at\n  the 15th anniversary sale. What percent less than the suggested retail price did Eesha pay?\n  a) 60%\n  b) 20%\n  c) 70%\n  d) 30%",
+  "text": "The marked price of coat was 40% less than the suggested retail price. Eesha purchased the coat for half of the marked price at\n  the 15th anniversary sale. What percent less than the suggested retail price did Eesha pay?\n  a) 60%\n  b) 20%\n  c) 70%\n  d) 30%",
   "key": null,
   "figure": false
  },
  {
   "id": "7.71.48",
   "source": "",
-  "text": "tcs aptitude\n  A dealer buys a product at Rs.1920. he sells at a discount of 20% still he gets the profit of 20%. what is the selling price? ( 1\n  Marks )\n  A. 534   B. 2300   C. 2304   D. 2403\n7.72   Progression (1)",
+  "text": "A dealer buys a product at Rs.1920. he sells at a discount of 20% still he gets the profit of 20%. what is the selling price? ( 1\n  Marks )\n  A. 534   B. 2300   C. 2304   D. 2403",
   "key": null,
   "figure": false
  }

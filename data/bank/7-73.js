@@ -2,7 +2,7 @@ APT.addBank("7.73", [
  {
   "id": "7.73.1",
   "source": "CAT 1994 Q 62",
-  "text": "If one root of x 2 + px + 12 = 0 is 4, while the equation x 2 + px + q = 0 has equal roots, then the value of q is:\n   1\n  A. 49/4   B. 4/49   C. 4\n   D. 4",
+  "text": "If one root of x 2 + px + 12 = 0 is 4, while the equation x 2 + px + q = 0 has equal roots, then the value of q is:\n  A. 49/4   B. 4/49   C. 4\n   D. 4",
   "key": null,
   "figure": false
  },
@@ -37,14 +37,14 @@ APT.addBank("7.73", [
  {
   "id": "7.73.6",
   "source": "CAT 2003 Q 1-122",
-  "text": "Choose 1 if the question can be answered by one of the statements alone but not by the other.\n Choose 2 if the question can be answered by using either statement alone.\n Choose 3 if the question can be answered by using both the statements together, but cannot be answered by using either\n statement alone.\n Choose 4 if the question cannot be answered even by using both the statements together.\n   1\n What are the unique values of b and c in the equation 4x 2 + bx + c = 0 if one of the roots of the equation is −   ()\n   2\n   ?\n   1\n A. The second root is 2\n B. the ratio of c and b is 1.",
+  "text": "Choose 1 if the question can be answered by one of the statements alone but not by the other.\n Choose 2 if the question can be answered by using either statement alone.\n Choose 3 if the question can be answered by using both the statements together, but cannot be answered by using either\n statement alone.\n Choose 4 if the question cannot be answered even by using both the statements together.\n What are the unique values of b and c in the equation 4x 2 + bx + c = 0 if one of the roots of the equation is −   ()\n   ?\n A. The second root is 2\n B. the ratio of c and b is 1.",
   "key": null,
   "figure": false
  },
  {
   "id": "7.73.7",
   "source": "CAT 2003 Q 1-124",
-  "text": "Choose 1 if the question can be answered by one of the statements alone but not by the other.\n Choose 2 if the question can be answered by using either statement alone.\n Choose 3 if the question can be answered by using both the statements together, but cannot be answered by using either\n statement alone.\n Choose 4 if the question cannot be answered even by using both the statements together.\n   1   1   1   1 1\n   (   )(   )\n   1\n   a2   a4   a6   a   a3 a5\n Is   +   +   +… >   +   +… ?\n A. −3 ≤ a ≤ 3\n B. One of the roots of the equation 4x 2 − 4x + 1 = 0 is a.",
+  "text": "Choose 1 if the question can be answered by one of the statements alone but not by the other.\n Choose 2 if the question can be answered by using either statement alone.\n Choose 3 if the question can be answered by using both the statements together, but cannot be answered by using either\n statement alone.\n Choose 4 if the question cannot be answered even by using both the statements together.\n   1   1   1   1 1\n   (   )(   )\n   a2   a4   a6   a   a3 a5\n Is   +   +   +… >   +   +… ?\n A. −3 ≤ a ≤ 3\n B. One of the roots of the equation 4x 2 − 4x + 1 = 0 is a.",
   "key": null,
   "figure": false
  },
@@ -114,7 +114,7 @@ APT.addBank("7.73", [
  {
   "id": "7.73.17",
   "source": "CAT 2012 Q 23",
-  "text": "If ax 2 + bx + c = 0 and 2a, b and 2c are in arithmetic progression, which of the following are the roots of the equation?\n A. a, c   B. − a, − c   a   c   c\n   2\n   C. − , − 2   a\n   D. − , − 1",
+  "text": "If ax 2 + bx + c = 0 and 2a, b and 2c are in arithmetic progression, which of the following are the roots of the equation?\n A. a, c   B. − a, − c   a   c   c\n   C. − , − 2   a\n   D. − , − 1",
   "key": null,
   "figure": false
  },
@@ -170,7 +170,7 @@ APT.addBank("7.73", [
  {
   "id": "7.73.25",
   "source": "CAT 2019 Set-2 Q 88",
-  "text": "Let A be a real number. Then the roots of the equation x 2 − 4x − log 2A = 0 are real and distinct if and only if\n   1   1   1   1\n   16   8   16\n A. A >   B. A >   C. A <   D. A < 8",
+  "text": "Let A be a real number. Then the roots of the equation x 2 − 4x − log 2A = 0 are real and distinct if and only if\n   1   1   1   1\n A. A >   B. A >   C. A <   D. A < 8",
   "key": "A",
   "figure": false
  },
@@ -205,7 +205,7 @@ APT.addBank("7.73", [
  {
   "id": "7.73.30",
   "source": "",
-  "text": "NIELIT 2016 MAR Scientist C - Section A: 12\n The expression (11.98 × 11.98 + 11.98 × x + 0.02 × 0.02) will be a perfect square for x equal to:\n A. 2.02   B. 0.17   C. 0.04   D. 1.4\n nielit2016mar-scientistc   algebra   quadratic-equations",
+  "text": "NIELIT 2016 MAR Scientist C - Section A: 12\n The expression (11.98 × 11.98 + 11.98 × x + 0.02 × 0.02) will be a perfect square for x equal to:\n A. 2.02   B. 0.17   C. 0.04   D. 1.4",
   "key": null,
   "figure": false
  },
@@ -233,7 +233,7 @@ APT.addBank("7.73", [
  {
   "id": "7.73.34",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section D: 19\n   √p 2 + q 2 + √p 2 − q 2\n  If x =\n   √p 2 + q 2 − √p 2 − q 2 then q 2x 2 − 2p 2x + q 2 equals to :\n  A. 3   B. − 1   C. − 2   D. 0\n7.74   Quantitative Aptitude (164)",
+  "text": "NIELIT 2019 Feb Scientist D - Section D: 19\n   √p 2 + q 2 + √p 2 − q 2\n  If x =\n   √p 2 + q 2 − √p 2 − q 2 then q 2x 2 − 2p 2x + q 2 equals to :\n  A. 3   B. − 1   C. − 2   D. 0",
   "key": "D",
   "figure": false
  }

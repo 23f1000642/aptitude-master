@@ -9,7 +9,7 @@ APT.addBank("7.0", [
  {
   "id": "7.0.2",
   "source": "",
-  "text": "clock\n   How much does a watch lose per day, if its hands coincide every 64 minutes?\n   8\n   11\n   A)32   min\n   5\n   11\n   B)36   min\n   C)90 min\n   D)96 min",
+  "text": "How much does a watch lose per day, if its hands coincide every 64 minutes?\n   A)32   min\n   B)36   min\n   C)90 min\n   D)96 min",
   "key": null,
   "figure": false
  },
@@ -30,7 +30,7 @@ APT.addBank("7.0", [
  {
   "id": "7.0.5",
   "source": "",
-  "text": "work and time\n   3 men and 4 women can complete a work in 10 days by working 12 hours a day. 13 men and 24 women can do the same work\n   by working same hours a day in 2 days. How much time would 12 men and 1 women working same hours a day will take to\n   complete the whole work?",
+  "text": "3 men and 4 women can complete a work in 10 days by working 12 hours a day. 13 men and 24 women can do the same work\n   by working same hours a day in 2 days. How much time would 12 men and 1 women working same hours a day will take to\n   complete the whole work?",
   "key": null,
   "figure": false
  },
@@ -51,14 +51,14 @@ APT.addBank("7.0", [
  {
   "id": "7.0.8",
   "source": "",
-  "text": "escalator\n   An escalator is moving downwards.P takes 30 steps to reach bottom from.top and Q takes 70 steps to reach top from\n   bottom.Speed of P and Q are equal.How many steps are there in escalator?\n 1)42\n 2)45\n 3)50\n 4)60",
+  "text": "An escalator is moving downwards.P takes 30 steps to reach bottom from.top and Q takes 70 steps to reach top from\n   bottom.Speed of P and Q are equal.How many steps are there in escalator?\n 1)42\n 2)45\n 3)50\n 4)60",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.9",
   "source": "",
-  "text": "clock\n number of minutes from 4 o clock to now is 5 times the number of minutes from now to 8 o clock.find present time.\n 1)6:20\n 2)6:40\n 3)7:20\n 4)7:30",
+  "text": "number of minutes from 4 o clock to now is 5 times the number of minutes from now to 8 o clock.find present time.\n 1)6:20\n 2)6:40\n 3)7:20\n 4)7:30",
   "key": null,
   "figure": false
  },
@@ -86,49 +86,49 @@ APT.addBank("7.0", [
  {
   "id": "7.0.13",
   "source": "",
-  "text": "escalator\n Ajay walked down a descending escalator. He took 60 steps and reached the bottom in 60 sec. On another occasion he took 80\n steps and reached the bottom in only 50 sec. Find the number of steps in escalator.\n (a) 160 (b) 180\n (c) 200 (d) 240",
+  "text": "Ajay walked down a descending escalator. He took 60 steps and reached the bottom in 60 sec. On another occasion he took 80\n steps and reached the bottom in only 50 sec. Find the number of steps in escalator.\n (a) 160 (b) 180\n (c) 200 (d) 240",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.14",
   "source": "",
-  "text": "percentage\n In an election between two candidates 10% of the votes polled were invalid. If the winning candidate got 52% of the total valid\n votes and wins by a majority of 160 votes, then how many valid votes other candidate got?\n (a) 1800 (b) 1600\n (c) 1920 (d) 2220",
+  "text": "In an election between two candidates 10% of the votes polled were invalid. If the winning candidate got 52% of the total valid\n votes and wins by a majority of 160 votes, then how many valid votes other candidate got?\n (a) 1800 (b) 1600\n (c) 1920 (d) 2220",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.15",
   "source": "",
-  "text": "profit and loss\n A bakery owner use to mark the cost of cake Rs.25 more than the cost of making. If the cost of making the cake is reduced by\n Rs.25, accordingly he offered a discount of 25% on the marked price of cake. If he still makes a profit of 25%, what is his\n initial cost price?\n (a) Rs.50 (b) Rs.75\n (c) Rs.100 (d) Rs.125",
+  "text": "A bakery owner use to mark the cost of cake Rs.25 more than the cost of making. If the cost of making the cake is reduced by\n Rs.25, accordingly he offered a discount of 25% on the marked price of cake. If he still makes a profit of 25%, what is his\n initial cost price?\n (a) Rs.50 (b) Rs.75\n (c) Rs.100 (d) Rs.125",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.16",
   "source": "",
-  "text": "number plate\n A number plate should have 4 digits if first digit is 7 second digit is even natural number and last two digits are in ascending\n order then fond total no of different number plate possible?\n 1)225\n 2)144\n 3)180\n 4)135",
+  "text": "A number plate should have 4 digits if first digit is 7 second digit is even natural number and last two digits are in ascending\n order then fond total no of different number plate possible?\n 1)225\n 2)144\n 3)180\n 4)135",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.17",
   "source": "",
-  "text": "p and c\n 1) in how many ways one can enter hexagonal room having door on each wall that he exits from some different door?\n 2)how many tricolor flag can be designed from the rainbow color?",
+  "text": "1) in how many ways one can enter hexagonal room having door on each wall that he exits from some different door?\n 2)how many tricolor flag can be designed from the rainbow color?",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.18",
   "source": "",
-  "text": "pipes and cistern\n Two taps t1 and t2 fill water at 12litres/min and 6 litres/min respectively.A leak pipe l can empty full tank in 10 min.If both\n taps and leak are opened tank can be filled in 15 min.\n How much is capacity of tank?\n 1)96 litre\n 2)108litres\n 3)120 litres\n 4)cant be determined",
+  "text": "Two taps t1 and t2 fill water at 12litres/min and 6 litres/min respectively.A leak pipe l can empty full tank in 10 min.If both\n taps and leak are opened tank can be filled in 15 min.\n How much is capacity of tank?\n 1)96 litre\n 2)108litres\n 3)120 litres\n 4)cant be determined",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.19",
   "source": "",
-  "text": "triangle\n The perimeter of a right angled triangle is 60 cm,its hypotenuse is 26 cm.what is the area of the triangle?",
+  "text": "The perimeter of a right angled triangle is 60 cm,its hypotenuse is 26 cm.what is the area of the triangle?",
   "key": null,
   "figure": false
  },
@@ -212,7 +212,7 @@ APT.addBank("7.0", [
  {
   "id": "7.0.31",
   "source": "",
-  "text": "work and wages\n A and B took a job to be completed in 20 days. They started working together and after 12 days, C joined them and the whole\n job finished in 15 days. How much time would C require to complete the job if only C was hired?",
+  "text": "A and B took a job to be completed in 20 days. They started working together and after 12 days, C joined them and the whole\n job finished in 15 days. How much time would C require to complete the job if only C was hired?",
   "key": null,
   "figure": false
  },
@@ -240,7 +240,7 @@ APT.addBank("7.0", [
  {
   "id": "7.0.35",
   "source": "",
-  "text": "altitude\n A son Invest Half of his money in 47 stock at 100 and the other half in 67 at 90:Had he Inverted his money in order to buy\n Casual Amount of each stock, he would get 210 less of his Income Find his total Investment6100205",
+  "text": "A son Invest Half of his money in 47 stock at 100 and the other half in 67 at 90:Had he Inverted his money in order to buy\n Casual Amount of each stock, he would get 210 less of his Income Find his total Investment6100205",
   "key": null,
   "figure": false
  },
@@ -254,28 +254,28 @@ APT.addBank("7.0", [
  {
   "id": "7.0.37",
   "source": "",
-  "text": "self doubts\n Two friends A and B were employed to do a work. Initial deadline was fixed at 24 days. Both started working together but\n after 20 days, A left the work and the whole work took 30 days to complete. In how much time can B alone can do the work?\n ( In this question what in initial unit to do work or total work)",
+  "text": "Two friends A and B were employed to do a work. Initial deadline was fixed at 24 days. Both started working together but\n after 20 days, A left the work and the whole work took 30 days to complete. In how much time can B alone can do the work?\n ( In this question what in initial unit to do work or total work)",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.38",
   "source": "",
-  "text": "progression\n The first seven terms of an AP are 7x+4,9y,7z-6,4x+10,3k,3x+6and k+12. The second , fifth and seventh terms of this\n progression form an infinite GP . The sum of the terms of this GP is :\n a. 106\n b. 126\n c. 162\n d. 180",
+  "text": "The first seven terms of an AP are 7x+4,9y,7z-6,4x+10,3k,3x+6and k+12. The second , fifth and seventh terms of this\n progression form an infinite GP . The sum of the terms of this GP is :\n a. 106\n b. 126\n c. 162\n d. 180",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.39",
   "source": "",
-  "text": "compound interest\n  1)A man borrowed Rs.25000 from a bank at 20% compound interest. At the end of every year he paid Rs.8000. At the end of\n third year, if he wants to clear his loan then how much should he pay?\n (a) Rs.12400 (b) Rs.16040\n (c) Rs.20800 (d) Rs.22080\n 2 ) Rajesh borrowed Rs.21000 at the rate of 10% p.a. compound interest. If the amount has to be repaid in two equal\n installments, find the value of each installment.\n (a) Rs.11000 (b) Rs.11500\n (c) Rs.12100 (d) Rs.12500",
+  "text": "1)A man borrowed Rs.25000 from a bank at 20% compound interest. At the end of every year he paid Rs.8000. At the end of\n third year, if he wants to clear his loan then how much should he pay?\n (a) Rs.12400 (b) Rs.16040\n (c) Rs.20800 (d) Rs.22080\n 2 ) Rajesh borrowed Rs.21000 at the rate of 10% p.a. compound interest. If the amount has to be repaid in two equal\n installments, find the value of each installment.\n (a) Rs.11000 (b) Rs.11500\n (c) Rs.12100 (d) Rs.12500",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.40",
   "source": "",
-  "text": "relative speed\n An artillery gun was fired twice at an interval of 24 sec. A jeep driver who is traveling towards the gun heard the sound after\n an interval of 22 sec. If the sound is traveling at the speed of 330 m/s, find the speed of jeep.\n (a) 11 m/s (b) 22 m/s\n (c)24 m/s (d) 30 m/s",
+  "text": "An artillery gun was fired twice at an interval of 24 sec. A jeep driver who is traveling towards the gun heard the sound after\n an interval of 22 sec. If the sound is traveling at the speed of 330 m/s, find the speed of jeep.\n (a) 11 m/s (b) 22 m/s\n (c)24 m/s (d) 30 m/s",
   "key": null,
   "figure": false
  },
@@ -310,7 +310,7 @@ APT.addBank("7.0", [
  {
   "id": "7.0.45",
   "source": "",
-  "text": "p(p−1)<0 what is value of p\n p(p − 1) < 0 what is value of p please solve step by step\n options are\n A. (– ∞, 0)   B. (0, 1)   C. (1, ∞)   D. (0, ∞)",
+  "text": "p(p−1)<0 what is value of p\n p(p − 1) < 0 what is value of p please solve step by step\n A. (– ∞, 0)   B. (0, 1)   C. (1, ∞)   D. (0, ∞)",
   "key": "B",
   "figure": false
  },
@@ -345,7 +345,7 @@ APT.addBank("7.0", [
  {
   "id": "7.0.50",
   "source": "",
-  "text": "Calculate Reservation Charge\n   The fair of half tickets between two railway station is 3/4 of Full ticket.\n   Cost of one reserved full ticket is 400.\n   cost of one reserved full and 2 half ticket is 1050\n   cost of reservation charge on full and half tickets are same\n   CALCULATE RESERVATION CHARGE\n Answer : 100\n How is this possible ?",
+  "text": "Calculate Reservation Charge\n   The fair of half tickets between two railway station is 3/4 of Full ticket.\n   Cost of one reserved full ticket is 400.\n   cost of reservation charge on full and half tickets are same\n   CALCULATE RESERVATION CHARGE\n Answer : 100\n How is this possible ?",
   "key": null,
   "figure": false
  },
@@ -359,14 +359,14 @@ APT.addBank("7.0", [
  {
   "id": "7.0.53",
   "source": "",
-  "text": "progression\n If the ratio of the sums of first p terms and q terms of an AP is p^2 : q^2 , then the ratio of its pth and qth terms is :\n a. (2p-1) : (2q-1)\n b. (2p+1) : (2q+1)\n c. p : q\n d. (p+1) : (q+1)",
+  "text": "If the ratio of the sums of first p terms and q terms of an AP is p^2 : q^2 , then the ratio of its pth and qth terms is :\n a. (2p-1) : (2q-1)\n b. (2p+1) : (2q+1)\n c. p : q\n d. (p+1) : (q+1)",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.54",
   "source": "",
-  "text": "Data Interpretation with pie chart? (SBI PO)\n I found this question in a quiz made for SBI PO. I found no short way of doing this question rather than only fast calculation. Is\n it all or we need to solve this question with some trick. Please suggest if any rather then only fast calculation.\n A total of 39 thousand students appeared in an entrance examination from six cities, in which the number of boys was\n 12000. The following pie-charts show the distribution of the total students and of the total boys from these cities who\n appeared in the exam.\n Q1. What is the total number of girls who appeared from City A?\n (a) 3210\n (b) 3440\n (c) 3650\n (d) 3870\n (e) 3900\n Q2. What is the difference between the total number of boys and the total number of girls who appeared in the exam\n from City E?\n (a) 1725\n (b) 1750\n (c) 1775\n (d) 1800\n (e) 1825\n Q3. The total number of girls who appeared from City C is approximately what per cent of the total number of students\n who appeared from City D?\n (a) 45%\n (b) 49%\n (c) 54%\n (d) 57%\n (e) 60%\n Q4. What is the difference between the total number of boys who appeared from City A and that from City B?\n (a) 320\n (b) 330\n (c) 340\n (d) 350\n (e) 360\n Q5. The number of girls who appeared from City F is approximately what per cent of the total number of girls who\n appeared from all six cities together?\n (a) 31.5%\n (b) 32.5%\n (c) 33.5%\n (d) 34.5%\n (e) 35.5%\n difficult",
+  "text": "Data Interpretation with pie chart? (SBI PO)\n I found this question in a quiz made for SBI PO. I found no short way of doing this question rather than only fast calculation. Is\n it all or we need to solve this question with some trick. Please suggest if any rather then only fast calculation.\n A total of 39 thousand students appeared in an entrance examination from six cities, in which the number of boys was\n 12000. The following pie-charts show the distribution of the total students and of the total boys from these cities who\n appeared in the exam.\n Q1. What is the total number of girls who appeared from City A?\n (a) 3210\n (b) 3440\n (c) 3650\n (d) 3870\n (e) 3900\n Q2. What is the difference between the total number of boys and the total number of girls who appeared in the exam\n from City E?\n (a) 1725\n (b) 1750\n (c) 1775\n (d) 1800\n (e) 1825\n Q3. The total number of girls who appeared from City C is approximately what per cent of the total number of students\n who appeared from City D?\n (a) 45%\n (b) 49%\n (c) 54%\n (d) 57%\n (e) 60%\n Q4. What is the difference between the total number of boys who appeared from City A and that from City B?\n (a) 320\n (b) 330\n (c) 340\n (d) 350\n (e) 360\n Q5. The number of girls who appeared from City F is approximately what per cent of the total number of girls who\n appeared from all six cities together?\n (a) 31.5%\n (b) 32.5%\n (c) 33.5%\n (d) 34.5%\n (e) 35.5%",
   "key": null,
   "figure": true
  },
@@ -380,28 +380,28 @@ APT.addBank("7.0", [
  {
   "id": "7.0.56",
   "source": "",
-  "text": "probability\n A bag contains 5 five-rupee coins, 8 two-rupee coins and 7 one-rupee coins. If four coins are drawn from the bag at random,\n then find the odds in favour of the draw yielding the maximum possible amount.\n a.1:968\n b.968:969\n c.1:969\n d.969:968",
+  "text": "A bag contains 5 five-rupee coins, 8 two-rupee coins and 7 one-rupee coins. If four coins are drawn from the bag at random,\n then find the odds in favour of the draw yielding the maximum possible amount.\n a.1:968\n b.968:969\n c.1:969\n d.969:968",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.57",
   "source": "",
-  "text": "How to solve this?\n   1   1\n   6\n If x + x = 4, then what is the value of x 6 + x ?\n A. 52   B. 256   C. 1026   D. 2702",
+  "text": "How to solve this?\n If x + x = 4, then what is the value of x 6 + x ?\n A. 52   B. 256   C. 1026   D. 2702",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.58",
   "source": "",
-  "text": "compound interest question\n a sum of rs. 1100 was taken as loan. this is to be repaid in 2 equal installments.if the rate of interest is 20% compounded\n annually then value of each installment is?",
+  "text": "a sum of rs. 1100 was taken as loan. this is to be repaid in 2 equal installments.if the rate of interest is 20% compounded\n annually then value of each installment is?",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.59",
   "source": "",
-  "text": "tcs question\n 2 workers ,one old and one young,live together and work at the same office.the old man takes 30 mins where as the young man\n takes only 20 mins to reach the office.when will the young man catch up the old man ,if the old man starts at 10.00am and the\n young man starts at 10.05am? ( 1 Marks )\n   A. 10:25 AM\n   B. 10:10 AM\n   C. 10:05 AM\n   D. 10:15 AM",
+  "text": "2 workers ,one old and one young,live together and work at the same office.the old man takes 30 mins where as the young man\n takes only 20 mins to reach the office.when will the young man catch up the old man ,if the old man starts at 10.00am and the\n young man starts at 10.05am? ( 1 Marks )\n   A. 10:25 AM\n   B. 10:10 AM\n   C. 10:05 AM\n   D. 10:15 AM",
   "key": null,
   "figure": false
  },
@@ -415,14 +415,14 @@ APT.addBank("7.0", [
  {
   "id": "7.0.61",
   "source": "",
-  "text": "probability\n A total of n balls are sequentially and randomly chosen, without replacement, from an urn containing r red and b blue balls (n\n … r + b). Given that k of the n balls are blue, what is the conditional probability that the rst ball chosen is blue?",
+  "text": "A total of n balls are sequentially and randomly chosen, without replacement, from an urn containing r red and b blue balls (n\n … r + b). Given that k of the n balls are blue, what is the conditional probability that the rst ball chosen is blue?",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.62",
   "source": "",
-  "text": "clock\n A watch which gains 5 seconds in 3 minutes was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is:\n   7\n  A.   5912 min. past 3   B.   4 p.m.\n   7   3\n  C.   58   min. past 3   D.   2   min. past 4\n   11   11",
+  "text": "A watch which gains 5 seconds in 3 minutes was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is:\n  A.   5912 min. past 3   B.   4 p.m.\n  C.   58   min. past 3   D.   2   min. past 4",
   "key": null,
   "figure": false
  },
@@ -443,29 +443,29 @@ APT.addBank("7.0", [
  {
   "id": "7.0.65",
   "source": "",
-  "text": "average\n A certain no of trucks were required to transport 60 tons of iron from company. However it was found that each truck could\n take 0.5 tons of cargo less and another 4 trucks were required. How many trucks were initially planned to use?\n 1)10\n 2)20\n  3)15\n  4)25",
+  "text": "A certain no of trucks were required to transport 60 tons of iron from company. However it was found that each truck could\n take 0.5 tons of cargo less and another 4 trucks were required. How many trucks were initially planned to use?\n 1)10\n 2)20\n  3)15\n  4)25",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.66",
   "source": "",
-  "text": "average\n  Amit appears for exam and score of 75 marks per paper.If he had obtained 15 more marks in maths paper and 10 marks in\n  science then his average marks would have been 80 out of 100.For how many paper Amit appears?",
+  "text": "Amit appears for exam and score of 75 marks per paper.If he had obtained 15 more marks in maths paper and 10 marks in\n  science then his average marks would have been 80 out of 100.For how many paper Amit appears?",
   "key": null,
   "figure": false
  },
  {
   "id": "7.0.67",
   "source": "",
-  "text": "venn diagram\n  A survey is conducted among 106 people. Among them 47 people have dogs, 58 people have cats and 38 people have parrots.\n  16 people have both a dog and cat, 15 people have both cat and parrot and 17 people have both a parrot and dog. Each of them\n  has at least one of the pets.\n  How many people have people have all the three pets?\n  (a) 10 (b) 8\n  (c) 9 (d) 7\n  How many people have only dog?\n  (a) 37 (b) 15\n  (c) 23 (d) 20\n  How many people have people have either a dog or a parrot but not a cat?\n  (a) 37 (b) 15\n  (c) 23 (d) 20",
+  "text": "A survey is conducted among 106 people. Among them 47 people have dogs, 58 people have cats and 38 people have parrots.\n  16 people have both a dog and cat, 15 people have both cat and parrot and 17 people have both a parrot and dog. Each of them\n  has at least one of the pets.\n  How many people have people have all the three pets?\n  (a) 10 (b) 8\n  (c) 9 (d) 7\n  How many people have only dog?\n  (a) 37 (b) 15\n  (c) 23 (d) 20\n  How many people have people have either a dog or a parrot but not a cat?\n  (a) 37 (b) 15\n  (c) 23 (d) 20",
   "key": null,
-  "figure": true
+  "figure": false
  },
  {
   "id": "7.0.68",
   "source": "",
-  "text": "venn diagram\n  A survey is conducted among 275 families. 100 families among them use air condition (A.C.) 70 families use only coolers, 60\n  families use only AC and 80 families use only fan. 10 families use all three and 10 families use none of these.\n  How many families use both a cooler and a fan?\n  (a) 20 (b) 25\n  (c) 40 (d) 30\n  How many people use either a cooler or an AC?\n  (a) 185 (b) 190\n  (c) 205 (d) cannot be determined\n7.1   2019 (1)",
+  "text": "A survey is conducted among 275 families. 100 families among them use air condition (A.C.) 70 families use only coolers, 60\n  families use only AC and 80 families use only fan. 10 families use all three and 10 families use none of these.\n  How many families use both a cooler and a fan?\n  (a) 20 (b) 25\n  (c) 40 (d) 30\n  How many people use either a cooler or an AC?\n  (a) 185 (b) 190\n  (c) 205 (d) cannot be determined\n7.1   2019 (1)",
   "key": null,
-  "figure": true
+  "figure": false
  }
 ]);

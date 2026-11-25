@@ -9,7 +9,7 @@ APT.addBank("7.40", [
  {
   "id": "7.40.2",
   "source": "CAT 2017 Set-1 Q 87",
-  "text": "Suppose, log 3x = log 12y = a, where x, y are positive numbers. If G is the geometric mean of x and y, and log 6G is equal to\n  A. √a   B. 2a   C. a/2   D. a\n7.41   Geometric Progression (3)",
+  "text": "Suppose, log 3x = log 12y = a, where x, y are positive numbers. If G is the geometric mean of x and y, and log 6G is equal to\n  A. √a   B. 2a   C. a/2   D. a",
   "key": "D",
   "figure": false
  }

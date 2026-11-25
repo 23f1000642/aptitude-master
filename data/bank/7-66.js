@@ -2,7 +2,7 @@ APT.addBank("7.66", [
  {
   "id": "7.66.1",
   "source": "CAT 2000 Q 63",
-  "text": "One red flag, three white flags and two blue flags are arranged in a line such that,\n A. no two adjacent flags are\n   B. ofthe\n   theflags   the two ends ofIn\n   sameatcolour.   thehow\n   line many\n   are of different ways can the flags be arranged?\n   different colours.\n A. 6   B. 4   C. 10   D. 2",
+  "text": "One red flag, three white flags and two blue flags are arranged in a line such that,\n A. no two adjacent flags are\n   B. ofthe\n   theflags   the two ends ofIn\n   sameatcolour.   thehow\n   are of different ways can the flags be arranged?\n   different colours.\n A. 6   B. 4   C. 10   D. 2",
   "key": null,
   "figure": false
  },
@@ -51,7 +51,7 @@ APT.addBank("7.66", [
  {
   "id": "7.66.8",
   "source": "CAT 2002 Q 100",
-  "text": "A boy is supposed to put a mango into a basket if ordered 1, an orange if ordered 2 and an apple if ordered 3. He took out 1\n mango and 1 orange if ordered 4. he was given the following sequence of orders\n 12332142314223314113234\n At the end of the sequence, what will be the number of fruits in the basket?\n A. 10   B. 11   C. 13   D. 17",
+  "text": "A boy is supposed to put a mango into a basket if ordered 1, an orange if ordered 2 and an apple if ordered 3. He took out 1\n mango and 1 orange if ordered 4. he was given the following sequence of orders\n At the end of the sequence, what will be the number of fruits in the basket?\n A. 10   B. 11   C. 13   D. 17",
   "key": null,
   "figure": false
  },
@@ -86,7 +86,7 @@ APT.addBank("7.66", [
  {
   "id": "7.66.13",
   "source": "CAT 2002 Q 99",
-  "text": "A boy is supposed to put a mango into a basket if ordered 1, an orange if ordered 2 and an apple if ordered 3. He took out 1\n mango and 1 orange if ordered 4. he was given the following sequence of orders\n 12332142314223314113234\n At the end of the sequence, what will be the number of oranges in the basket?\n A. 2   B. 3   C. 4   D. 6\n quantitative-aptitude   cat2002   permutation-combination",
+  "text": "A boy is supposed to put a mango into a basket if ordered 1, an orange if ordered 2 and an apple if ordered 3. He took out 1\n mango and 1 orange if ordered 4. he was given the following sequence of orders\n At the end of the sequence, what will be the number of oranges in the basket?\n A. 2   B. 3   C. 4   D. 6",
   "key": null,
   "figure": false
  },
@@ -114,14 +114,14 @@ APT.addBank("7.66", [
  {
   "id": "7.66.17",
   "source": "CAT 2003 Q 2-82",
-  "text": "Answer the questions on the basis of the information given below.\n a. A string of three Englishb.letters\n   The first\n   is formed\n   letter isasany\n   per vowel.\n   the\n   c. following\n   The second\n   rules\n   letter is m, nd.orIfp.the second letter is m,e.then\n   If the\n   thesecond\n   third letter\n   letterisisany\n   n, vowel\n   then the\n   which\n   third isl\n   How\n  f. If the second letter is p, then the many   strings\n   third letter   of letters\n   is the same ascan\n   the possibly\n   first letter.be formed using the above rules?\n A. 40   B. 45   C. 30   D. 35",
+  "text": "Answer the questions on the basis of the information given below.\n a. A string of three Englishb.letters\n   The first\n   per vowel.\n   c. following\n   The second\n   letter is m, nd.orIfp.the second letter is m,e.then\n   If the\n   n, vowel\n   How\n  f. If the second letter is p, then the many   strings\n   third letter   of letters\n   is the same ascan\n   first letter.be formed using the above rules?\n A. 40   B. 45   C. 30   D. 35",
   "key": null,
   "figure": true
  },
  {
   "id": "7.66.18",
   "source": "CAT 2003 Q 2-83",
-  "text": "Answer the questions on the basis of the information given below.\n a. A string of three Englishb.letters\n   The first\n   is formed\n   letter isasany\n   per vowel.\n   the\n   c. following\n   The second\n   rules\n   letter is m, nd.orIfp.the second letter is m,e.then\n   If the\n   thesecond\n   third letter\n   letterisisany\n   n, vowel\n   then the\n   which\n   third isl\n   How\n  f. If the second letter is p, then the many   strings\n   third letter   of same\n   is the lettersascan  possibly\n   the first letter.be formed using the above rules such that the third letter\n   of the string is e?\n A. 8   B. 9   C. 10   D. 11",
+  "text": "Answer the questions on the basis of the information given below.\n a. A string of three Englishb.letters\n   The first\n   per vowel.\n   c. following\n   The second\n   letter is m, nd.orIfp.the second letter is m,e.then\n   If the\n   n, vowel\n   How\n  f. If the second letter is p, then the many   strings\n   third letter   of same\n   is the lettersascan  possibly\n   the first letter.be formed using the above rules such that the third letter\n   of the string is e?\n A. 8   B. 9   C. 10   D. 11",
   "key": null,
   "figure": true
  },
@@ -296,7 +296,7 @@ APT.addBank("7.66", [
  {
   "id": "7.66.43",
   "source": "CAT 2021 Set-3 | Quantitative Aptitude Q 13",
-  "text": "A four-digit number is formed by using only the digits 1, 2 and 3 such that both 2 and 3 appear at least once. The number of all\n such four-digit numbers is",
+  "text": "A four-digit number is formed by using only the digits 1, 2 and 3 such that both 2 and 3 appear at least once. The number of all",
   "key": "50",
   "figure": false
  },
@@ -331,8 +331,8 @@ APT.addBank("7.66", [
  {
   "id": "7.66.48",
   "source": "",
-  "text": "NIELIT 2017 July Scientist B - Section A: 8\n In how many different ways can the letters of the word ‘CORPORATION’ be arranged so that the vowels always come\n together?\n  A. 810   B. 1440   C. 2880   D. 50400\n7.67   Pie Chart (11)",
+  "text": "NIELIT 2017 July Scientist B - Section A: 8\n In how many different ways can the letters of the word ‘CORPORATION’ be arranged so that the vowels always come\n together?\n  A. 810   B. 1440   C. 2880   D. 50400",
   "key": "D",
-  "figure": true
+  "figure": false
  }
 ]);

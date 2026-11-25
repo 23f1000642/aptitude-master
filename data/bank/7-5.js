@@ -16,14 +16,14 @@ APT.addBank("7.5", [
  {
   "id": "7.5.3",
   "source": "CAT 2011 Q 11",
-  "text": "One morning, Govind Lal the owner of the local petrol bunk, was adulterating the petrol with kerosene. He had two identical\n  tanks- the first was full of pure petrol while the second was empty. First he transferred an arbitrary amount of petrol from the\n  first tank into the second and then replaced the petrol removed from the first tank with kerosene. He then repeated this process\n  one more time but this time he ensured that by the end of the process the second tank was exactly full.\n Which of the following can be the concentration of petrol in the second tank?\n   2\n A. 50%   B. 60%   D. 80%\n   C. 66 3 %",
+  "text": "One morning, Govind Lal the owner of the local petrol bunk, was adulterating the petrol with kerosene. He had two identical\n  tanks- the first was full of pure petrol while the second was empty. First he transferred an arbitrary amount of petrol from the\n  first tank into the second and then replaced the petrol removed from the first tank with kerosene. He then repeated this process\n  one more time but this time he ensured that by the end of the process the second tank was exactly full.\n Which of the following can be the concentration of petrol in the second tank?\n A. 50%   B. 60%   D. 80%\n   C. 66 3 %",
   "key": null,
   "figure": false
  },
  {
   "id": "7.5.4",
   "source": "CAT 2011 Q 12",
-  "text": "One morning, Govind Lal the owner of the local petrol bunk, was adulterating the petrol with kerosene. He had two identical\n tanks- the first was full of pure petrol while the second was empty. First he transferred an arbitrary amount of petrol from the\n first tank into the second and then replaced the petrol removed from the first tank with kerosene. He then repeated this process\n one more time but this time he ensured that by the end of the process the second tank was exactly full.\n If the concentration of petrol in the second tank is 75% and the cost price of kerosene is half that of petrol, then what is Govind\n Lal’s net profit percentage on selling the contents of the second tank given that he claims to sell the petrol at a profit of 25% ?\n   6   2   1\n   D. 100%\n   7   3\n A. 42 %   B. 66 %   C. 83 3 %",
+  "text": "One morning, Govind Lal the owner of the local petrol bunk, was adulterating the petrol with kerosene. He had two identical\n tanks- the first was full of pure petrol while the second was empty. First he transferred an arbitrary amount of petrol from the\n first tank into the second and then replaced the petrol removed from the first tank with kerosene. He then repeated this process\n one more time but this time he ensured that by the end of the process the second tank was exactly full.\n If the concentration of petrol in the second tank is 75% and the cost price of kerosene is half that of petrol, then what is Govind\n Lal’s net profit percentage on selling the contents of the second tank given that he claims to sell the petrol at a profit of 25% ?\n   D. 100%\n A. 42 %   B. 66 %   C. 83 3 %",
   "key": null,
   "figure": false
  },
@@ -100,7 +100,7 @@ APT.addBank("7.5", [
  {
   "id": "7.5.15",
   "source": "CAT 2018 Set-2 Q 98",
-  "text": "There are two drums, each containing a mixture of paints A and B. In drum 1, A and B are in the ratio 18: 7. The mixtures from\n drums 1 and 2 are mixed in the ratio 3: 4 and in this final mixture, A and B are in the ratio 13: 7. In drum 2, then A and B were\n in the ratio\n A. 229: 141   B. 220: 149   C. 239: 161   D. 251: 163",
+  "text": "There are two drums, each containing a mixture of paints A and B. In drum 1, A and B are in the ratio 18: 7. The mixtures from\n drums 1 and 2 are mixed in the ratio 3: 4 and in this final mixture, A and B are in the ratio 13: 7. In drum 2, then A and B were\n A. 229: 141   B. 220: 149   C. 239: 161   D. 251: 163",
   "key": "C",
   "figure": false
  },
@@ -170,7 +170,7 @@ APT.addBank("7.5", [
  {
   "id": "7.5.25",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section D: 21\n  How many litres of a 3% hydrogen peroxide solution should be mixed with 6 liters of a 30% hydrogen peroxide solution so as\n  to get a mixture of 12% solution ?\n  A. 3 litres   B. 6 liters   C. 9 litres   D. 12 litres\n7.6   Area (4)",
+  "text": "NIELIT 2019 Feb Scientist D - Section D: 21\n  How many litres of a 3% hydrogen peroxide solution should be mixed with 6 liters of a 30% hydrogen peroxide solution so as\n  to get a mixture of 12% solution ?\n  A. 3 litres   B. 6 liters   C. 9 litres   D. 12 litres",
   "key": "D",
   "figure": false
  }

@@ -30,7 +30,7 @@ APT.addBank("7.54", [
  {
   "id": "7.54.5",
   "source": "CAT 2018 Set-2 Q 74",
-  "text": "Let f(x) = max   {5x, 52– 2x } , where x is any positive real numbers. Then the minimum possible value of f(x) is ________\n   2\n7.55   Mean (2)",
+  "text": "Let f(x) = max   {5x, 52– 2x } , where x is any positive real numbers. Then the minimum possible value of f(x) is ________",
   "key": "20",
   "figure": false
  }

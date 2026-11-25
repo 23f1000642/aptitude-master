@@ -16,7 +16,7 @@ APT.addBank("7.41", [
  {
   "id": "7.41.3",
   "source": "CAT 2020 Set-2 Q 55",
-  "text": "3\n  Let the m-th and n-th terms of a geometric progression be 4 and 12, respectively, where m < n. If the common ratio of the\n  progression is an integer r, then the smallest possible value of r+n-m is\n  A. − 2   B. 2   C. 6   D. – 4\n7.42   Geometry (174)",
+  "text": "Let the m-th and n-th terms of a geometric progression be 4 and 12, respectively, where m < n. If the common ratio of the\n  progression is an integer r, then the smallest possible value of r+n-m is\n  A. − 2   B. 2   C. 6   D. – 4",
   "key": "A",
   "figure": false
  }

@@ -16,7 +16,7 @@ APT.addBank("7.91", [
  {
   "id": "7.91.3",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section D: 29\n  The image of the point (3, 8) in the line x + 3y = 7 is :\n  A. (1, 4)   B. (4, 1)\n  C. ( − 1, − 4)   D. ( − 4, − 1)\n7.92   Summation (1)",
+  "text": "NIELIT 2019 Feb Scientist D - Section D: 29\n  The image of the point (3, 8) in the line x + 3y = 7 is :\n  A. (1, 4)   B. (4, 1)\n  C. ( − 1, − 4)   D. ( − 4, − 1)",
   "key": null,
   "figure": false
  }

@@ -16,7 +16,7 @@ APT.addBank("7.26", [
  {
   "id": "7.26.3",
   "source": "CAT 2008 Q 14",
-  "text": "If the roots of the equation x 3 − ax 2 + bx − c = 0 are three consecutive integers, then what is the smallest possible value of b?\n   1   1\n   B. − 1   C. 0   D. 1\n  A. −\n   √3   E.\n   √3\n7.27   Curves (2)",
+  "text": "If the roots of the equation x 3 − ax 2 + bx − c = 0 are three consecutive integers, then what is the smallest possible value of b?\n   B. − 1   C. 0   D. 1\n  A. −\n   √3   E.\n   √3",
   "key": "B",
   "figure": false
  }

@@ -261,7 +261,7 @@ APT.addBank("7.104", [
  {
   "id": "7.104.38",
   "source": "",
-  "text": "NIELIT 2017\n aamir and birju can cut 5000 g of wood in 20 min.birju and charles can cut 5000 g of wood in 40 min.charles and aamir can cut\n 5 kg of wood in 30 min.how much time charles will take to cut 5 kg wood alone??\n work-time   quantitative-aptitude   nielit",
+  "text": "NIELIT 2017\n aamir and birju can cut 5000 g of wood in 20 min.birju and charles can cut 5000 g of wood in 40 min.charles and aamir can cut\n 5 kg of wood in 30 min.how much time charles will take to cut 5 kg wood alone??",
   "key": null,
   "figure": false
  },
@@ -310,21 +310,21 @@ APT.addBank("7.104", [
  {
   "id": "7.104.45",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist C - Section C: 29\n If 20 men working 7 hours a day can do a piece of work in 10 days, in how many days will 15 men working for 8 hours a day\n do the same piece of work?\n   320   35\n A. 21 days   B. 3 days\n   105   21\n C. 16 days   D. 5 days",
+  "text": "NIELIT 2019 Feb Scientist C - Section C: 29\n If 20 men working 7 hours a day can do a piece of work in 10 days, in how many days will 15 men working for 8 hours a day\n do the same piece of work?\n A. 21 days   B. 3 days\n C. 16 days   D. 5 days",
   "key": null,
   "figure": false
  },
  {
   "id": "7.104.46",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 10\n   1\n  If 9 men working 7 2 hours a day can finish a work in 20 days, then how many days will be taken by 12 men working 6 hours a\n  day to finish the work, it being given that 3 men of former type work as much as 2 men of the latter type in the same time ?\n   1   1\n   B. 13   D. 11\n   2\n   A. 12   C. 9 2",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 10\n  If 9 men working 7 2 hours a day can finish a work in 20 days, then how many days will be taken by 12 men working 6 hours a\n  day to finish the work, it being given that 3 men of former type work as much as 2 men of the latter type in the same time ?\n   B. 13   D. 11\n   A. 12   C. 9 2",
   "key": "A",
   "figure": false
  },
  {
   "id": "7.104.47",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 8\n  A can do a piece of work in 14 days which B can do in 21 days. They begin together but 3 days before the completion of the\n  work, A leaves off. The total number of days to complete the work is :\n   33   1   51   1\n   5   2   5\n   A.   B. 8   C.   D. 13 2",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 8\n  A can do a piece of work in 14 days which B can do in 21 days. They begin together but 3 days before the completion of the\n  work, A leaves off. The total number of days to complete the work is :\n   33   1   51   1\n   A.   B. 8   C.   D. 13 2",
   "key": null,
   "figure": false
  },
@@ -338,7 +338,7 @@ APT.addBank("7.104", [
  {
   "id": "7.104.49",
   "source": "",
-  "text": "self doubt\n   1\n  A can complete half work in 7 days B can do 3 of work in 14 days .while C can complete the 20% of the remaining work in\n  28\n   5 days. In how many days A, B, C will complete the work together ?",
+  "text": "A can complete half work in 7 days B can do 3 of work in 14 days .while C can complete the 20% of the remaining work in\n   5 days. In how many days A, B, C will complete the work together ?",
   "key": null,
   "figure": false
  }

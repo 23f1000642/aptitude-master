@@ -23,7 +23,7 @@ APT.addBank("7.94", [
  {
   "id": "7.94.4",
   "source": "CAT 2019 Set-2 Q 87",
-  "text": "Let a, b, x, y be real numbers such that a 2 + b 2 = 25, x 2 + y 2 = 169, and ax + by = 65. If k = ay − bx, then\n   5   5   5\n  A. k = 0\n   13   13   13\n   B. 0 < k ≤   C. k =   D. k >",
+  "text": "Let a, b, x, y be real numbers such that a 2 + b 2 = 25, x 2 + y 2 = 169, and ax + by = 65. If k = ay − bx, then\n  A. k = 0\n   B. 0 < k ≤   C. k =   D. k >",
   "key": "A",
   "figure": false
  },
@@ -37,7 +37,7 @@ APT.addBank("7.94", [
  {
   "id": "7.94.6",
   "source": "CAT 2021 Set-2 | Quantitative Aptitude Q 1",
-  "text": "Consider the pair of equations: x 2– xy– x = 22 and y 2– xy + y = 34. If x > y, then x– y equals\n  A. 7   B. 8   C. 6   D. 4\n7.95   Tabular Data (52)",
+  "text": "Consider the pair of equations: x 2– xy– x = 22 and y 2– xy + y = 34. If x > y, then x– y equals\n  A. 7   B. 8   C. 6   D. 4",
   "key": "B",
   "figure": false
  }

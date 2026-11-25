@@ -2,7 +2,7 @@ APT.addBank("7.13", [
  {
   "id": "7.13.1",
   "source": "CAT 2001 Q 20",
-  "text": "At his usual rowing rate, Rahul can travel 12 miles downstream in a certain river in six hours less than it takes him to travel the\n  same distance upstream. But if he could double his usual rowing rate for this 24 miles round trip, the downstream 12 miles\n  would then take only one hour less than the upstream 12 miles. What is the speed of the current in miles per hour?\n   7   4   5   8\n   3   3   3\n  A.   B.   C.   D. 3",
+  "text": "At his usual rowing rate, Rahul can travel 12 miles downstream in a certain river in six hours less than it takes him to travel the\n  same distance upstream. But if he could double his usual rowing rate for this 24 miles round trip, the downstream 12 miles\n  would then take only one hour less than the upstream 12 miles. What is the speed of the current in miles per hour?\n   7   4   5   8\n  A.   B.   C.   D. 3",
   "key": null,
   "figure": false
  },
@@ -44,7 +44,7 @@ APT.addBank("7.13", [
  {
   "id": "7.13.7",
   "source": "",
-  "text": "NIELIT 2017 July Scientist B - Section A: 4\n  A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will\n  it take to go 5 km in stationary water?\n  A. 40 minutes   B. 1 hour   C. 1 hr 15 min   D. 1 hr 30 min\n7.14   Bodmas (1)",
+  "text": "NIELIT 2017 July Scientist B - Section A: 4\n  A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will\n  it take to go 5 km in stationary water?\n  A. 40 minutes   B. 1 hour   C. 1 hr 15 min   D. 1 hr 30 min",
   "key": "C",
   "figure": false
  }

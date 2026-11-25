@@ -9,7 +9,7 @@ APT.addBank("7.102", [
  {
   "id": "7.102.2",
   "source": "CAT 2003 Q 2-58",
-  "text": "A survey on a sample of 25 new cars being sold at a local auto dealer was conducted to see which of the three popular options-\n air conditioning, radio and power windows- were already installed. The survey found\n   15 had air conditioning\n   2 had air conditioning and power windows but no radios\n   12 had radio\n   6 had air conditioning and radio but no power windows\n   11 had power windows\n   4 had radio and power windows\n   3 had all three options.\n What is the number of cars that had none of the options?\n A. 4   B. 3   C. 1   D. 2",
+  "text": "A survey on a sample of 25 new cars being sold at a local auto dealer was conducted to see which of the three popular options-\n air conditioning, radio and power windows- were already installed. The survey found\n   15 had air conditioning\n   2 had air conditioning and power windows but no radios\n   6 had air conditioning and radio but no power windows\n   11 had power windows\n   4 had radio and power windows\n   3 had all three options.\n What is the number of cars that had none of the options?\n A. 4   B. 3   C. 1   D. 2",
   "key": null,
   "figure": false
  },
@@ -58,7 +58,7 @@ APT.addBank("7.102", [
  {
   "id": "7.102.9",
   "source": "CAT 2020 Set-2 Q 59",
-  "text": "Students in a college have to choose at least two subjects from chemistry, mathematics, and physics. The number of students\n  choosing all three subjects is 18, choosing mathematics as one of their subjects is 23 and choosing physics as one of their\n  subjects is 25. The smallest possible number of students who could choose chemistry as one of their subjects is\n  A. 20   B. 22   C. 19   D. 21\n7.103   Work Cost (9)",
+  "text": "Students in a college have to choose at least two subjects from chemistry, mathematics, and physics. The number of students\n  choosing all three subjects is 18, choosing mathematics as one of their subjects is 23 and choosing physics as one of their\n  subjects is 25. The smallest possible number of students who could choose chemistry as one of their subjects is\n  A. 20   B. 22   C. 19   D. 21",
   "key": "A",
   "figure": false
  }

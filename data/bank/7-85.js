@@ -72,7 +72,7 @@ APT.addBank("7.85", [
  {
   "id": "7.85.11",
   "source": "CAT 2021 Set-3 | Quantitative Aptitude Q 5",
-  "text": "Bank A offers 6% interest rate per annum compounded half yearly. Bank B and Bank C offer simple interest but the annual\n  interest rate offered by Bank C is twice that of Bank B. Raju invests a certain amount in Bank B for a certain period and Rupa\n  invests ₹ 10, 000 in Bank C for twice that period. The interest that would accrue to Raju during that period is equal to the\n  interest that would have accrued had he invested the same amount in Bank A for one year. The interest accrued, in INR, to\n  Rupa is\n  A. 3436   B. 2436   C. 2346   D. 1436\n7.86   Simple Interest (6)",
+  "text": "Bank A offers 6% interest rate per annum compounded half yearly. Bank B and Bank C offer simple interest but the annual\n  interest rate offered by Bank C is twice that of Bank B. Raju invests a certain amount in Bank B for a certain period and Rupa\n  invests ₹ 10, 000 in Bank C for twice that period. The interest that would accrue to Raju during that period is equal to the\n  interest that would have accrued had he invested the same amount in Bank A for one year. The interest accrued, in INR, to\n  Rupa is\n  A. 3436   B. 2436   C. 2346   D. 1436",
   "key": "B",
   "figure": false
  }

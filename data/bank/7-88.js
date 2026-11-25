@@ -58,7 +58,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.9",
   "source": "CAT 2002 Q 97",
-  "text": "3\n There is a tunnel connecting city A & B. There is a CAT which is standing at 8 the length of the tunnel from A. It listens a\n whistle of the train and starts running towards the entrance where, the train and the CAT meet. In another case, the CAT started\n running towards the exit and the train again met the CAT at the exit. What is the ratio of their speeds?\n A. 4: 1   B. 1: 2   C. 8: 1   D. None of these",
+  "text": "There is a tunnel connecting city A & B. There is a CAT which is standing at 8 the length of the tunnel from A. It listens a\n whistle of the train and starts running towards the entrance where, the train and the CAT meet. In another case, the CAT started\n running towards the exit and the train again met the CAT at the exit. What is the ratio of their speeds?\n A. 4: 1   B. 1: 2   C. 8: 1   D. None of these",
   "key": null,
   "figure": false
  },
@@ -93,7 +93,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.14",
   "source": "CAT 2003 Q 2-56",
-  "text": "Two straight roads R1 and R2 diverge from a point A at an angle of 120 ∘ . Ram starts walking from point A along R1 at a\n uniform speed of 3 km/hr. Shyam starts walking at the same time from A along R2 at a uniform speed of 2 km/hr. They\n continue walking for 4 hours along their respective roads and reach points B and C on R1 and R2 , respectively. There is a\n straight line path connecting B and C. Then Ram returns to point A after walking along the line segments BC and CA. Shyam\n also returns to A after walking along line segments CB and BA. Their speeds remain unchanged. The time interval (in hours)\n between Ram‟s and Shyam‟s return to the point A is:\n   10√19 + 26   2 √19 + 10\n   3   3\n A.   B.\n   √19 + 26   10√19 + 10\n   3   3\n C.   D.",
+  "text": "Two straight roads R1 and R2 diverge from a point A at an angle of 120 ∘ . Ram starts walking from point A along R1 at a\n uniform speed of 3 km/hr. Shyam starts walking at the same time from A along R2 at a uniform speed of 2 km/hr. They\n continue walking for 4 hours along their respective roads and reach points B and C on R1 and R2 , respectively. There is a\n straight line path connecting B and C. Then Ram returns to point A after walking along the line segments BC and CA. Shyam\n also returns to A after walking along line segments CB and BA. Their speeds remain unchanged. The time interval (in hours)\n between Ram‟s and Shyam‟s return to the point A is:\n   10√19 + 26   2 √19 + 10\n A.   B.\n   √19 + 26   10√19 + 10\n C.   D.",
   "key": null,
   "figure": false
  },
@@ -205,7 +205,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.30",
   "source": "CAT 2012 Q 19",
-  "text": "A car A starts from a point P towards another point Q. Another car B starts (also from P) 1 hour after the first car and overtakes\n it after covering 30% of the distance PQ. After that, the cars continue. On reaching Q, car B reverses and meets car A, after\n   1\n covering 23 3 of the distance QP. Find the time taken by car B to cover the distance PQ (in hours).\n   1\n A. 3   B. 4   C. 5\n   D. 3 3",
+  "text": "A car A starts from a point P towards another point Q. Another car B starts (also from P) 1 hour after the first car and overtakes\n it after covering 30% of the distance PQ. After that, the cars continue. On reaching Q, car B reverses and meets car A, after\n covering 23 3 of the distance QP. Find the time taken by car B to cover the distance PQ (in hours).\n A. 3   B. 4   C. 5\n   D. 3 3",
   "key": null,
   "figure": false
  },
@@ -233,7 +233,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.34",
   "source": "CAT 2015 Q 85",
-  "text": "3\n Shyam went to Delhi to Shimla via Chandigarh by car. The distance from Delhi to Chandigarh is 4 times the distance from\n Chandigarh to Shimla. The average speed from Delhi to Chandigarh was half as much again as that from Chandigarh to\n Shimla. If the average speed for the entire journey was 49 kmph. What was the average speed from Chandigarh to Shimla?\n A. 39.2 kmph   B. 63 kmph   C. 42 kmph   D. None of the above",
+  "text": "Shyam went to Delhi to Shimla via Chandigarh by car. The distance from Delhi to Chandigarh is 4 times the distance from\n Chandigarh to Shimla. The average speed from Delhi to Chandigarh was half as much again as that from Chandigarh to\n Shimla. If the average speed for the entire journey was 49 kmph. What was the average speed from Chandigarh to Shimla?\n A. 39.2 kmph   B. 63 kmph   C. 42 kmph   D. None of the above",
   "key": null,
   "figure": false
  },
@@ -352,7 +352,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.51",
   "source": "CAT 2019 Set-1 Q 93",
-  "text": "One can use three different transports which move at 10, 20, and 30 kmph, respectively. To reach from A to B, Amal took each\n   1   1\n mode of transport of his total journey time, while Bimal took each mode of transport 3 of the total distance. The percentage\n   3\n by which Bimal’s travel time exceeds Amal’s travel time is nearest to\n A. 21   B. 22   C. 20   D. 19",
+  "text": "One can use three different transports which move at 10, 20, and 30 kmph, respectively. To reach from A to B, Amal took each\n mode of transport of his total journey time, while Bimal took each mode of transport 3 of the total distance. The percentage\n by which Bimal’s travel time exceeds Amal’s travel time is nearest to\n A. 21   B. 22   C. 20   D. 19",
   "key": "B",
   "figure": false
  },
@@ -408,7 +408,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.59",
   "source": "CAT 2020 Set-1 Q 66",
-  "text": "A train travelled at one − thirds of its usual speed, and hence reached the destination 30 minutes after the scheduled time. On its\n return journey, the train initially travelled at its usual speed for 5 minutes but then stopped for 4 minutes for an emergency. The\n percentage by which the train must now increase its usual speed so as to reach the destination at the scheduled time, is nearest\n to\n A. 58   B. 67   C. 61   D. 50",
+  "text": "A train travelled at one − thirds of its usual speed, and hence reached the destination 30 minutes after the scheduled time. On its\n return journey, the train initially travelled at its usual speed for 5 minutes but then stopped for 4 minutes for an emergency. The\n percentage by which the train must now increase its usual speed so as to reach the destination at the scheduled time, is nearest\n A. 58   B. 67   C. 61   D. 50",
   "key": "B",
   "figure": false
  },
@@ -429,7 +429,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.62",
   "source": "CAT 2020 Set-2 Q 68",
-  "text": "A and B are two points on a straight line. Ram runs from A to B while Rahim runs from B to A. After crossing each other,\n Ram and Rahim reach their destinations in one minute and four minutes, respectively. If they start at the same time, then the\n ratio of Ram’s speed to Rahim’s speed is\n   1\n A. 2   B. √2   C. 2√2\n   D. 2",
+  "text": "A and B are two points on a straight line. Ram runs from A to B while Rahim runs from B to A. After crossing each other,\n Ram and Rahim reach their destinations in one minute and four minutes, respectively. If they start at the same time, then the\n ratio of Ram’s speed to Rahim’s speed is\n A. 2   B. √2   C. 2√2\n   D. 2",
   "key": "A",
   "figure": false
  },
@@ -506,7 +506,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.73",
   "source": "",
-  "text": "NIELIT 2016 MAR Scientist C - Section A: 5\n A man walks at 5 kmph for 6 hr and at 4 km/h for 12 hr. His average speed is\n   1   2\n   C. 9½ km/h   D. 8 km/h\n   3\n A. 4 km/h   B. 9 3 km/h",
+  "text": "NIELIT 2016 MAR Scientist C - Section A: 5\n A man walks at 5 kmph for 6 hr and at 4 km/h for 12 hr. His average speed is\n   C. 9½ km/h   D. 8 km/h\n A. 4 km/h   B. 9 3 km/h",
   "key": null,
   "figure": false
  },
@@ -569,7 +569,7 @@ APT.addBank("7.88", [
  {
   "id": "7.88.82",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 5\n  A man travels 35 km partly at 4 kmph and partly at 5 kmph. If he covers the former distance at 5 kmph and the later distance at\n  4 kmph, he could cover 2 km more in the same time. The time taken to cover the whole distance at the original rate (in hours) is\n  :\n   1\n   B. 7   C. 8   D. 9\n  A. 4 2\n7.89   Statement Sufficiency (6)",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 5\n  A man travels 35 km partly at 4 kmph and partly at 5 kmph. If he covers the former distance at 5 kmph and the later distance at\n  4 kmph, he could cover 2 km more in the same time. The time taken to cover the whole distance at the original rate (in hours) is\n  :\n   B. 7   C. 8   D. 9\n  A. 4 2",
   "key": null,
   "figure": false
  }

@@ -37,7 +37,7 @@ APT.addBank("7.24", [
  {
   "id": "7.24.6",
   "source": "",
-  "text": "mixture\n  A milkman has 50 litres of milk. Find quantity of water to be added in it so that he gets 20% profit by selling at its cost price?\n7.25   Cubes (2)",
+  "text": "A milkman has 50 litres of milk. Find quantity of water to be added in it so that he gets 20% profit by selling at its cost price?",
   "key": null,
   "figure": false
  }

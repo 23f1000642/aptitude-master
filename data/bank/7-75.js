@@ -135,7 +135,7 @@ APT.addBank("7.75", [
  {
   "id": "7.75.20",
   "source": "CAT 2007 Q 22",
-  "text": "A confused bank teller transposed the rupees and paise when he cashed a cheque for Shailaja, giving her rupees instead of paise\n and paise instead of rupees. After a buying a toffee for 50 paise, Shalaja noticed that she was left with exactly three time as\n much as the amount on the cheque. Which of the following is a valid statement about the cheque amount?\n A. Over Rupees 13 but less than Rupees   B. Over Rupees 7 but less than Rupees 8\n   14\n C. Over Rupees 22 but less than Rupees   D. Over Rupees 18 but less than Rupees\n   23   19\n E. Over Rupees 4 but less than Rupees 5",
+  "text": "A confused bank teller transposed the rupees and paise when he cashed a cheque for Shailaja, giving her rupees instead of paise\n and paise instead of rupees. After a buying a toffee for 50 paise, Shalaja noticed that she was left with exactly three time as\n much as the amount on the cheque. Which of the following is a valid statement about the cheque amount?\n A. Over Rupees 13 but less than Rupees   B. Over Rupees 7 but less than Rupees 8\n C. Over Rupees 22 but less than Rupees   D. Over Rupees 18 but less than Rupees\n E. Over Rupees 4 but less than Rupees 5",
   "key": null,
   "figure": false
  },
@@ -268,7 +268,7 @@ APT.addBank("7.75", [
  {
   "id": "7.75.39",
   "source": "",
-  "text": "NIELIT 2016 DEC Scientist B - Section A: 53\n 1/4th of 60% of a number is equal to 2/5th of 20% of another number. What is the respective ratio of the first number to that of\n second number?\n A. 8: 15   B. 5: 9   C. 8: 13   D. 4: 7\n nielit2016dec-scientistb   percentage   ratio-proportion",
+  "text": "NIELIT 2016 DEC Scientist B - Section A: 53\n 1/4th of 60% of a number is equal to 2/5th of 20% of another number. What is the respective ratio of the first number to that of\n second number?\n A. 8: 15   B. 5: 9   C. 8: 13   D. 4: 7",
   "key": "A",
   "figure": false
  },
@@ -317,7 +317,7 @@ APT.addBank("7.75", [
  {
   "id": "7.75.46",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist C - Section C: 17\n A man invests an amount of ₹15, 860 in the names of his three sons A, B and C in such a way that they get the same interest\n after 2, 3 and 4 years respectively. If the rate of simple interest is 5%, then the ratio of the amounts invested among A, B and C\n will be\n A. 10: 15: 20   B. 110: 115: 120   1 1 1   1   1   1\n   C. 10 : 15 : 20   D. 110 : 115 : 120",
+  "text": "NIELIT 2019 Feb Scientist C - Section C: 17\n A man invests an amount of ₹15, 860 in the names of his three sons A, B and C in such a way that they get the same interest\n after 2, 3 and 4 years respectively. If the rate of simple interest is 5%, then the ratio of the amounts invested among A, B and C\n A. 10: 15: 20   B. 110: 115: 120   1 1 1   1   1   1\n   C. 10 : 15 : 20   D. 110 : 115 : 120",
   "key": null,
   "figure": false
  },
@@ -345,7 +345,7 @@ APT.addBank("7.75", [
  {
   "id": "7.75.50",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section C: 14\n   1\n A and B entered into partnership with capitals in the ratio 4 and 5. After 3 months, A withdrew 4 of his capital and B withdrew\n 1\n 5\n   of his capital. The gain at the end of 10 months was ₹ 760. The share of A in this profit is\n A. ₹ 360   B. ₹ 330   C. ₹ 430   D. ₹ 380",
+  "text": "NIELIT 2019 Feb Scientist D - Section C: 14\n A and B entered into partnership with capitals in the ratio 4 and 5. After 3 months, A withdrew 4 of his capital and B withdrew\n   of his capital. The gain at the end of 10 months was ₹ 760. The share of A in this profit is\n A. ₹ 360   B. ₹ 330   C. ₹ 430   D. ₹ 380",
   "key": null,
   "figure": false
  },
@@ -387,42 +387,42 @@ APT.addBank("7.75", [
  {
   "id": "7.75.56",
   "source": "",
-  "text": "alligation\n There are two glasses having mixtures of wine and water. In glass 1 the ratio of wine and water is 1:2 and in glass 2 the ratio of\n wine and water is 4:1. Find the amount of mixture that should be taken from glass 1 in order to make 280 ml of mixture\n containing equal amount of water and wine.\n (a) 180 ml (b) 140 ml\n (c) 200 ml (d) None of these",
+  "text": "There are two glasses having mixtures of wine and water. In glass 1 the ratio of wine and water is 1:2 and in glass 2 the ratio of\n wine and water is 4:1. Find the amount of mixture that should be taken from glass 1 in order to make 280 ml of mixture\n containing equal amount of water and wine.\n (a) 180 ml (b) 140 ml\n (c) 200 ml (d) None of these",
   "key": null,
   "figure": false
  },
  {
   "id": "7.75.57",
   "source": "",
-  "text": "mixture\n In what proportion should milk and water be mixed to reduce the price of milk from Rs.18 per litre to Rs.16 per litre?\n (a) 8:1 (b) 10:1\n (c) 6:1 (d) None of these",
+  "text": "In what proportion should milk and water be mixed to reduce the price of milk from Rs.18 per litre to Rs.16 per litre?\n (a) 8:1 (b) 10:1\n (c) 6:1 (d) None of these",
   "key": null,
   "figure": false
  },
  {
   "id": "7.75.58",
   "source": "",
-  "text": "ratio\n  Q.Rekha and Kallu have a certain number of red and black marbles with them. The ratio of red marbles to black marbles with\n  them is 7 : 1 and 9 : 1 respectively. If the total number of marbles with the two persons is 90, what can be the number of red\n  marbles with Kallu?\n  a.Either 9 or 45 b.Either 10 or 50 c.Either 36 or 72 d.Either 18 or 36",
+  "text": "Q.Rekha and Kallu have a certain number of red and black marbles with them. The ratio of red marbles to black marbles with\n  them is 7 : 1 and 9 : 1 respectively. If the total number of marbles with the two persons is 90, what can be the number of red\n  marbles with Kallu?\n  a.Either 9 or 45 b.Either 10 or 50 c.Either 36 or 72 d.Either 18 or 36",
   "key": null,
   "figure": false
  },
  {
   "id": "7.75.59",
   "source": "",
-  "text": "ratio and proportion\n  If P : Q = 2 : 3 , Q : R = 4 : 5 and R : S = 6 : 7 , then P : S = ?\n  A. 18: 25\n  B. 17: 35\n  C. 16: 35\n  D. 8: 11\n  E. None of these",
+  "text": "If P : Q = 2 : 3 , Q : R = 4 : 5 and R : S = 6 : 7 , then P : S = ?\n  A. 18: 25\n  B. 17: 35\n  C. 16: 35\n  D. 8: 11\n  E. None of these",
   "key": null,
   "figure": false
  },
  {
   "id": "7.75.60",
   "source": "",
-  "text": "ratio and proposition\n  X,Y and Z are 3 quantities.X varies inversely with Y when z is constant.Y varies inversely with Z when X is constant.When\n  Y=8,Z=7 and X=30.Find X if Y=16 and Z=21",
+  "text": "X,Y and Z are 3 quantities.X varies inversely with Y when z is constant.Y varies inversely with Z when X is constant.When\n  Y=8,Z=7 and X=30.Find X if Y=16 and Z=21",
   "key": null,
   "figure": false
  },
  {
   "id": "7.75.61",
   "source": "",
-  "text": "ratios and proportions\n  Three numbers A, B and C are in the ratio of 12 : 15 : 25. If sum of these numbers is 312, find the ratio between the difference\n  of B and A and the difference of C and B.\n  (a) 3 : 7\n  (b) 10 : 3\n  (c) 3 : 10\n  (d) 7 : 3\n  (e) None of these\n7.76   Rational Numbers (1)",
+  "text": "Three numbers A, B and C are in the ratio of 12 : 15 : 25. If sum of these numbers is 312, find the ratio between the difference\n  of B and A and the difference of C and B.\n  (a) 3 : 7\n  (b) 10 : 3\n  (c) 3 : 10\n  (d) 7 : 3\n  (e) None of these",
   "key": null,
   "figure": false
  }

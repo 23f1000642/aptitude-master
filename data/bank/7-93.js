@@ -23,7 +23,7 @@ APT.addBank("7.93", [
  {
   "id": "7.93.4",
   "source": "",
-  "text": "NIELIT 2019 Feb Scientist D - Section D: 25\n  In the following system of equations 2 y − x(x + y) = 1 & (x + y) x − y = 2 the value of xy is :\n   1   3   1\n   D. 1\n  A. 2   B. 4   C. 4\n7.94   System Of Equations (6)",
+  "text": "NIELIT 2019 Feb Scientist D - Section D: 25\n  In the following system of equations 2 y − x(x + y) = 1 & (x + y) x − y = 2 the value of xy is :\n   D. 1\n  A. 2   B. 4   C. 4",
   "key": null,
   "figure": false
  }

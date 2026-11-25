@@ -9,7 +9,7 @@ APT.addBank("7.9", [
  {
   "id": "7.9.2",
   "source": "CAT 2003 Q 1-140",
-  "text": "7\n  if log 3   (   )\n   2 x − 5 , log   3   ( )2x − 2   are in arithmetic progression, then the value of x is equal to\n  A. 5   B. 4   C. 2   D. 3\n  cat2003-1   quantitative-aptitude   logarithms   arithmetic-progression",
+  "text": "if log 3   (   )\n   2 x − 5 , log   3   ( )2x − 2   are in arithmetic progression, then the value of x is equal to\n  A. 5   B. 4   C. 2   D. 3",
   "key": null,
   "figure": false
  },
@@ -79,7 +79,7 @@ APT.addBank("7.9", [
  {
   "id": "7.9.12",
   "source": "CAT 2019 Set-1 Q 75",
-  "text": "1   1   1\n If a 1, a 2… are in A.P., then,\n   √a 1 + √a 2 + √a 2 + √a 3 + … + √a n + √a n + 1 is equal to\n   n−1   n\n   a1 +   an − 1   a1 +\n A.\n   √   √   B.\n   √   √an + 1\n   n−1   n\n   a1 +   an   a1 −\n C.\n   √   √   D.\n   √   √an + 1",
+  "text": "If a 1, a 2… are in A.P., then,\n   √a 1 + √a 2 + √a 2 + √a 3 + … + √a n + √a n + 1 is equal to\n   n−1   n\n   a1 +   an − 1   a1 +\n A.\n   √   √   B.\n   √   √an + 1\n   n−1   n\n   a1 +   an   a1 −\n C.\n   √   √   D.\n   √   √an + 1",
   "key": "B",
   "figure": false
  },
@@ -100,7 +100,7 @@ APT.addBank("7.9", [
  {
   "id": "7.9.15",
   "source": "CAT 2021 Set-2 | Quantitative Aptitude Q 10",
-  "text": "Three positive integers x, y and z are in arithmetic progression. If y– x > 2 and xyz = 5(x + y + z), then z − x equals\n  A. 12   B. 8   C. 14   D. 10\n7.10   Average (27)",
+  "text": "Three positive integers x, y and z are in arithmetic progression. If y– x > 2 and xyz = 5(x + y + z), then z − x equals\n  A. 12   B. 8   C. 14   D. 10",
   "key": "C",
   "figure": false
  }
