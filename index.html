@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aptitude Master – Learn, Attempt, Understand</title>
+  <meta name="description" content="Quantitative aptitude made easy: kid-simple concepts, short tricks, and step-by-step solutions to real exam questions." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <button class="menu-btn" id="menuBtn" aria-label="Open topic list">&#9776;</button>
+    <a class="brand" href="#/">Aptitude<span>Master</span></a>
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search questions or topics…" autocomplete="off" />
+    </div>
+    <button class="theme-btn" id="themeBtn" aria-label="Toggle dark mode">&#9790;</button>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar" aria-label="Topics"></nav>
+    <main id="app" class="content" tabindex="-1"></main>
+  </div>
+
+  <!-- core -->
+  <script src="js/registry.js"></script>
+  <!-- topic data: concepts + solved questions -->
+  <script src="data/topics/number-system.js"></script>
+  <script src="data/topics/lcm-hcf.js"></script>
+  <script src="data/topics/percentage.js"></script>
+  <script src="data/topics/profit-loss.js"></script>
+  <script src="data/topics/interest.js"></script>
+  <script src="data/topics/ratio-ages.js"></script>
+  <script src="data/topics/averages.js"></script>
+  <script src="data/topics/mixtures.js"></script>
+  <script src="data/topics/time-work.js"></script>
+  <script src="data/topics/speed-distance.js"></script>
+  <script src="data/topics/clocks-calendar.js"></script>
+  <script src="data/topics/pnc-probability.js"></script>
+  <script src="data/topics/progressions-logs-quadratics.js"></script>
+  <script src="data/topics/geometry.js"></script>
+  <!-- practice bank index (questions load on demand) -->
+  <script src="data/bank/index.js"></script>
+  <!-- app -->
+  <script src="js/store.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
