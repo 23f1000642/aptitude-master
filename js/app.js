@@ -180,7 +180,8 @@
     return `<article class="q-card" id="q-${q.no}" data-qid="${q.qid}">
       <div class="q-top">
         <span class="q-no">Q${q.no}</span>
-        ${q.pdf ? `<span class="q-ref">PDF ${esc(q.pdf)}</span>` : ''}
+        ${q.pdf ? `<span class="q-ref">${q.pdf[0] === 'G' ? 'GATE book ' + esc(q.pdf.slice(1)) : 'PDF ' + esc(q.pdf)}</span>` : ''}
+        ${q.source ? `<span class="q-src">${esc(q.source)}</span>` : ''}
         ${q.level ? `<span class="q-level ${q.level}">${q.level}</span>` : ''}
         <span class="spacer"></span>
         <button class="icon-btn star${star ? ' on' : ''}" title="Bookmark">&#9733;</button>
@@ -299,7 +300,12 @@
 
   function renderTopicPractice(t, body) {
     const subs = APT.bankIndex.filter((b) => t.pdfTopics.includes(b.id));
-    if (!subs.length) { body.innerHTML = '<p class="muted">No extra PDF questions mapped to this topic.</p>'; return; }
+    if (!subs.length) {
+      body.innerHTML = t.section === 'gate'
+        ? '<p class="muted">Every question of this GATE chapter is already in the Questions tab, with a full solution.</p>'
+        : '<p class="muted">No extra PDF questions mapped to this topic.</p>';
+      return;
+    }
     body.innerHTML = `<p class="muted">These are the original questions from your PDF on this topic. Try them, then check the answer key.</p>
       <div class="bank-list">${subs.map((b) => `<a class="bank-chip" href="#/bank/${b.id}">${esc(b.title)} <span>${b.count}</span></a>`).join('')}</div>`;
   }
