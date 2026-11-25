@@ -1,5 +1,54 @@
 APT.setBankIndex([
  {
+  "id": "1.1",
+  "section": "di",
+  "title": "Bar Graph",
+  "count": 79,
+  "keyed": 11
+ },
+ {
+  "id": "1.2",
+  "section": "di",
+  "title": "Data Interpretation",
+  "count": 17,
+  "keyed": 0
+ },
+ {
+  "id": "1.3",
+  "section": "di",
+  "title": "Graphical Data",
+  "count": 4,
+  "keyed": 0
+ },
+ {
+  "id": "1.4",
+  "section": "di",
+  "title": "Line Graph",
+  "count": 36,
+  "keyed": 7
+ },
+ {
+  "id": "1.5",
+  "section": "di",
+  "title": "Pie Chart",
+  "count": 12,
+  "keyed": 1
+ },
+ {
+  "id": "1.6",
+  "section": "di",
+  "title": "Radar Web Graph",
+  "count": 7,
+  "keyed": 0
+ },
+ {
+  "id": "1.7",
+  "section": "di",
+  "title": "Tabular Data",
+  "count": 168,
+  "keyed": 14
+ },
+ {
   "id": "7.2",
   "section": "quant",
   "title": "Absolute Value",
