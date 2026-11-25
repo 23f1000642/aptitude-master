@@ -146,6 +146,11 @@
   }
 
   /* ---------- question cards ---------- */
+  function figuresHtml(list) {
+    if (!list || !list.length) return '';
+    return `<div class="q-figs">${list.map((f) => `<a href="data/figures/${esc(f)}" target="_blank" rel="noopener"><img src="data/figures/${esc(f)}" alt="Chart or table for this question" loading="lazy"></a>`).join('')}</div>`;
+  }
+
   function questionCard(q, t) {
     const att = Store.getAttempt(q.qid);
     const revealed = Store.isRevealed(q.qid);
@@ -179,6 +184,8 @@
         <button class="icon-btn star${star ? ' on' : ''}" title="Bookmark">&#9733;</button>
         <button class="btn sol-btn${revealed ? ' open' : ''}">${revealed ? 'Hide solution' : 'Show solution'}</button>
       </div>
+      ${q.data ? `<div class="q-data">${q.data}</div>` : ''}
+      ${figuresHtml(q.figures)}
       <div class="q-text">${q.q}</div>
       ${answerArea}
       <div class="feedback-slot">${feedback}</div>
@@ -270,6 +277,7 @@
         ${solved ? '<span class="has-sol">solved in app</span>' : ''}
         <button class="btn sol-btn">Show answer</button></div>
       <div class="q-text pre">${esc(b.text)}</div>
+      ${figuresHtml(b.images)}
       <div class="solution"><div class="final">${key}</div>${link}</div>
     </article>`;
   }
