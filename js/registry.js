@@ -2,6 +2,7 @@
 window.APT = {
   sections: [
     { id: 'quant', title: 'Quantitative Aptitude', short: 'Quant' },
+    { id: 'di', title: 'Data Interpretation', short: 'DI' },
     { id: 'reasoning', title: 'Logical Reasoning', short: 'Reasoning' },
   ],
   topics: [],
