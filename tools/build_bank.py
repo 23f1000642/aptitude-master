@@ -1,7 +1,8 @@
 """Build the practice bank from the extracted PDF text.
 
 Usage: python3 tools/build_bank.py <pdftotext-layout.txt> <out_dir> [chapter ...]
-Chapters default to 7 (Quantitative Aptitude). 2 = Logical Reasoning.
+Chapters default to 7 (Quantitative Aptitude). 1 = Data Interpretation, 2 = Logical Reasoning.
+If data/figures/map.json exists (see extract_figures.py), each question gets its chart images.
 Writes one JS file per PDF sub-topic (data/bank/7-62.js ...) and data/bank/index.js.
 """
 import json
@@ -11,7 +12,10 @@ from collections import OrderedDict
 
 src, out = sys.argv[1], sys.argv[2]
 chapters = sys.argv[3:] or ['7']
-SECTION = {'2': 'reasoning', '7': 'quant'}
+SECTION = {'1': 'di', '2': 'reasoning', '7': 'quant'}
+import os
+FIG_MAP = os.path.join(os.path.dirname(os.path.abspath(out)), 'figures', 'map.json')
+figures = json.load(open(FIG_MAP)) if os.path.exists(FIG_MAP) else {}
 t = open(src, encoding='utf-8').read()
 
 TAG_LINE = re.compile(r'^\s*[a-z0-9&-]+(?:\s+[a-z0-9&-]+)*\s*$')
@@ -61,7 +65,11 @@ for ch in chapters:
         figure = bool(re.search(r'\b(table|graph|chart|figure|diagram|shown below|given below)\b', text, re.I))
         if name:
             names.setdefault(sub, name)
-        groups.setdefault(sub, []).append({'id': qid, 'source': source, 'text': text, 'key': key, 'figure': figure})
+        entry = {'id': qid, 'source': source, 'text': text, 'key': key, 'figure': figure}
+        if qid in figures:
+            entry['images'] = figures[qid]
+            entry['figure'] = False
+        groups.setdefault(sub, []).append(entry)
 
 names['7.0'] = 'Mixed questions'
 names['2.0'] = 'Mixed reasoning questions'
