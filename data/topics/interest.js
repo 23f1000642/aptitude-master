@@ -1,0 +1,98 @@
+APT.addTopic({
+  id: 'interest',
+  title: 'Simple & Compound Interest',
+  tagline: 'Mango tree vs snowball: how money grows.',
+  pdfTopics: ['7.85', '7.23', '7.86', '7.49'],
+  concepts: {
+    story: [
+      'You lend Rs 100 to a bank, and it gives you a thank-you of Rs 10 every year. That is <b>10% interest</b>.',
+      '<b>Simple interest</b> is like a mango tree: the same 10 mangoes every year, always worked out on the original Rs 100.',
+      '<b>Compound interest</b> is like a snowball: each year\'s interest joins your money, so next year\'s interest is bigger (100 → 110 → 121).',
+    ],
+    memory: 'SI adds the same amount every year. CI multiplies by the same factor every year.',
+    formulas: [
+      'SI = P × R × T / 100 · Amount = P + SI',
+      'CI amount A = P(1 + R/100)<sup>T</sup> · CI = A − P',
+      'Half-yearly: rate R/2, time 2T. Quarterly: rate R/4, time 4T',
+      '<b>CI − SI for 2 years</b> = P(R/100)²',
+      '<b>CI − SI for 3 years</b> = P(R/100)² × (3 + R/100)',
+      'Different rates each year: A = P(1 + R1/100)(1 + R2/100)…',
+    ],
+    tricks: [
+      '<b>2-year CI as one rate</b> = 2R + R²/100. At 10% that\'s 21%; at 5% it\'s 10.25%.',
+      '<b>Amount after 3 and 6 years</b>: A6/A3 = (1 + r)³ and P = A3²/A6.',
+      '<b>SI at changing rates</b>: add up (rate × years) to get one total percent.',
+      '<b>CI interest in year n+1 ÷ year n</b> = 1 + R/100.',
+    ],
+    patterns: [
+      ['Difference between CI and SI', '2-year or 3-year difference formula'],
+      ['"Amounts to X in 3 years and Y in 6 years"', 'Trick 2'],
+      ['Rate changes over periods (SI)', 'Trick 3'],
+      ['Compounded half-yearly', 'Halve the rate, double the time'],
+      ['Two people invest: when are balances equal?', 'Write both amounts and set them equal'],
+    ],
+  },
+  questions: [
+    {
+      pdf: '7.23.1', level: 'easy',
+      q: 'Anand invests ₹8000 in a fixed deposit for 2 years at 5% compound interest. How much will he get at maturity?',
+      options: ['₹8600', '₹8620', '₹8820', 'None of these'], answer: 2,
+      steps: ['A = 8000 × 1.05 × 1.05 = 8000 × 1.1025.', '= 8820.'],
+    },
+    {
+      pdf: '7.86.1', level: 'easy',
+      q: 'The difference between compound and simple interest on a sum for 2 years at 4% per annum is Re 1. What is the sum?',
+      options: ['625', '630', '640', '650'], answer: 0,
+      steps: ['CI − SI (2 years) = P(R/100)² = P × 0.0016.', 'P × 0.0016 = 1, so P = 625.'],
+      trick: '2-year difference formula.',
+    },
+    {
+      pdf: '7.23.2', level: 'medium',
+      q: 'The difference between CI and SI at the end of 3 years at 10% per annum is Rs 77.5. What is the sum?',
+      options: ['Rs 3500', 'Rs 2500', 'Rs 3000', 'Rs 2000'], answer: 1,
+      steps: ['3-year difference = P × (0.1)² × (3 + 0.1) = 0.031P.', '0.031P = 77.5, so P = 2500.'],
+    },
+    {
+      pdf: '7.86.2', level: 'easy',
+      q: 'Simple interest is 6% a year for the first 3 years, 8% for the next 5 years, and 10% beyond 8 years. The SI for 10 years is Rs 1560. What is the sum?',
+      options: ['Rs 1500', 'Rs 3000', 'Rs 2000', 'Data inadequate'], answer: 2,
+      steps: ['Total % = 6 × 3 + 8 × 5 + 10 × 2 = 18 + 40 + 20 = 78%.', '0.78P = 1560, so P = 2000.'],
+      trick: 'Add up rate × years.',
+    },
+    {
+      pdf: '7.23.3', level: 'medium',
+      q: 'A sum amounts to ₹6690 after 3 years and ₹10035 after 6 years at compound interest. What is the sum?',
+      options: ['₹4400', '₹4460', '₹4520', '₹4445'], answer: 1,
+      steps: ['10035 ÷ 6690 = 1.5. This is the growth over 3 years, so (1 + r)³ = 1.5.', 'P = 6690 ÷ 1.5 = 4460.'],
+      trick: 'P = A3² / A6.',
+    },
+    {
+      pdf: '7.85.9', level: 'medium',
+      q: 'Money is invested at 10% a year, compounded half-yearly. After 1½ years, principal plus interest is Rs 18522. How much was invested?',
+      options: null, answerText: '16000', accept: ['16000', 'rs16000', '16,000'],
+      steps: ['Half-yearly: 5% per period for 3 periods.', 'P × 1.05³ = 18522, and 1.05³ = 1.157625.', 'P = 18522 ÷ 1.157625 = 16000.'],
+    },
+    {
+      pdf: '7.85.8', level: 'medium',
+      q: 'For the same principal, CI for 2 years at 5% exceeds SI for 3 years at 3% by Rs 1125. Find the principal.',
+      options: null, answerText: '90000', accept: ['90000', '90,000'],
+      steps: ['CI (2 years, 5%) = 10.25% of P.', 'SI (3 years, 3%) = 9% of P.', 'The difference 1.25% of P = 1125, so P = 90000.'],
+    },
+    {
+      pdf: '7.85.7', level: 'medium',
+      q: 'Veeru invests Rs 10000 at 5% simple interest. Two years later Joy invests Rs 8000 at 10% simple interest. How many years after Veeru\'s investment will their balances be equal?',
+      options: null, answerText: '12', accept: ['12', '12years'],
+      steps: [
+        'After t years Veeru has 10000 + 500t.',
+        'Joy has invested for (t − 2) years: 8000 + 800(t − 2).',
+        '10000 + 500t = 8000 + 800t − 1600, so 3600 = 300t and t = 12.',
+      ],
+    },
+    {
+      pdf: '7.86.5', level: 'easy',
+      q: 'The interest rate falls from 13% to 12½% a year, and a moneylender\'s yearly income drops by ₹104. What is his capital?',
+      options: ['₹21,400', '₹20,800', '₹22,300', '₹24,000'], answer: 1,
+      steps: ['The fall in rate is 0.5%.', '0.5% of capital = 104, so capital = 104 × 200 = 20,800.'],
+    },
+  ],
+});
