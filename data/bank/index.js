@@ -49,6 +49,454 @@ APT.setBankIndex([
   "keyed": 14
  },
  {
+  "id": "5.1",
+  "section": "english",
+  "title": "Appropriate Word",
+  "count": 89,
+  "keyed": 38
+ },
+ {
+  "id": "5.2",
+  "section": "english",
+  "title": "English Language",
+  "count": 321,
+  "keyed": 25
+ },
+ {
+  "id": "5.3",
+  "section": "english",
+  "title": "Error Spotting",
+  "count": 16,
+  "keyed": 9
+ },
+ {
+  "id": "5.4",
+  "section": "english",
+  "title": "Fill The Blank",
+  "count": 42,
+  "keyed": 4
+ },
+ {
+  "id": "5.5",
+  "section": "english",
+  "title": "Idioms",
+  "count": 2,
+  "keyed": 2
+ },
+ {
+  "id": "5.6",
+  "section": "english",
+  "title": "Logic Puzzles (English)",
+  "count": 2,
+  "keyed": 0
+ },
+ {
+  "id": "5.7",
+  "section": "english",
+  "title": "Logical Reasoning (English)",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "5.8",
+  "section": "english",
+  "title": "Match The Following",
+  "count": 7,
+  "keyed": 7
+ },
+ {
+  "id": "5.0",
+  "section": "english",
+  "title": "Mixed English questions",
+  "count": 31,
+  "keyed": 10
+ },
+ {
+  "id": "5.9",
+  "section": "english",
+  "title": "Most Appropriate Alternative",
+  "count": 32,
+  "keyed": 17
+ },
+ {
+  "id": "5.10",
+  "section": "english",
+  "title": "Most Appropriate Option",
+  "count": 21,
+  "keyed": 0
+ },
+ {
+  "id": "5.11",
+  "section": "english",
+  "title": "Multiple Sub Parts",
+  "count": 50,
+  "keyed": 0
+ },
+ {
+  "id": "5.12",
+  "section": "english",
+  "title": "Numerical Answer",
+  "count": 5,
+  "keyed": 0
+ },
+ {
+  "id": "5.13",
+  "section": "english",
+  "title": "Odd One Out",
+  "count": 34,
+  "keyed": 11
+ },
+ {
+  "id": "5.14",
+  "section": "english",
+  "title": "Opposite Word",
+  "count": 6,
+  "keyed": 6
+ },
+ {
+  "id": "5.15",
+  "section": "english",
+  "title": "Paragraph Construction",
+  "count": 28,
+  "keyed": 0
+ },
+ {
+  "id": "5.16",
+  "section": "english",
+  "title": "Passage Reading",
+  "count": 641,
+  "keyed": 64
+ },
+ {
+  "id": "5.17",
+  "section": "english",
+  "title": "Relationship",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "5.18",
+  "section": "english",
+  "title": "Sentence Completion",
+  "count": 10,
+  "keyed": 5
+ },
+ {
+  "id": "5.19",
+  "section": "english",
+  "title": "Sentence Correction",
+  "count": 6,
+  "keyed": 2
+ },
+ {
+  "id": "5.20",
+  "section": "english",
+  "title": "Sentence Formation",
+  "count": 37,
+  "keyed": 9
+ },
+ {
+  "id": "5.21",
+  "section": "english",
+  "title": "Sentence Rearrangement",
+  "count": 117,
+  "keyed": 24
+ },
+ {
+  "id": "5.22",
+  "section": "english",
+  "title": "Statements Conclusions",
+  "count": 8,
+  "keyed": 3
+ },
+ {
+  "id": "5.23",
+  "section": "english",
+  "title": "Two Blank Word",
+  "count": 3,
+  "keyed": 3
+ },
+ {
+  "id": "5.24",
+  "section": "english",
+  "title": "Word Meaning",
+  "count": 4,
+  "keyed": 4
+ },
+ {
+  "id": "5.25",
+  "section": "english",
+  "title": "Word Pairs",
+  "count": 46,
+  "keyed": 28
+ },
+ {
+  "id": "4.1",
+  "section": "general",
+  "title": "Abbreviations",
+  "count": 3,
+  "keyed": 3
+ },
+ {
+  "id": "3.1",
+  "section": "general",
+  "title": "Attitude And Leadership",
+  "count": 60,
+  "keyed": 0
+ },
+ {
+  "id": "6.1",
+  "section": "general",
+  "title": "Author",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.2",
+  "section": "general",
+  "title": "Author Books",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.3",
+  "section": "general",
+  "title": "Awards",
+  "count": 3,
+  "keyed": 0
+ },
+ {
+  "id": "6.4",
+  "section": "general",
+  "title": "Bank India",
+  "count": 2,
+  "keyed": 0
+ },
+ {
+  "id": "6.5",
+  "section": "general",
+  "title": "Banks",
+  "count": 7,
+  "keyed": 0
+ },
+ {
+  "id": "4.2",
+  "section": "general",
+  "title": "Compilers",
+  "count": 1,
+  "keyed": 1
+ },
+ {
+  "id": "4.3",
+  "section": "general",
+  "title": "Computer Knowledge",
+  "count": 46,
+  "keyed": 40
+ },
+ {
+  "id": "6.6",
+  "section": "general",
+  "title": "Computer Knowledge (GA)",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.7",
+  "section": "general",
+  "title": "Currency",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.8",
+  "section": "general",
+  "title": "Debt Mean",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "4.4",
+  "section": "general",
+  "title": "Devices",
+  "count": 1,
+  "keyed": 1
+ },
+ {
+  "id": "4.5",
+  "section": "general",
+  "title": "Excel Ability",
+  "count": 6,
+  "keyed": 6
+ },
+ {
+  "id": "4.6",
+  "section": "general",
+  "title": "Excel Powerpoint",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "4.7",
+  "section": "general",
+  "title": "Files",
+  "count": 2,
+  "keyed": 1
+ },
+ {
+  "id": "6.9",
+  "section": "general",
+  "title": "Game Football",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.10",
+  "section": "general",
+  "title": "Game Player",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.11",
+  "section": "general",
+  "title": "General Awareness",
+  "count": 63,
+  "keyed": 37
+ },
+ {
+  "id": "4.8",
+  "section": "general",
+  "title": "Hardware",
+  "count": 1,
+  "keyed": 1
+ },
+ {
+  "id": "4.9",
+  "section": "general",
+  "title": "Hardware Software",
+  "count": 1,
+  "keyed": 1
+ },
+ {
+  "id": "6.12",
+  "section": "general",
+  "title": "History",
+  "count": 7,
+  "keyed": 7
+ },
+ {
+  "id": "6.13",
+  "section": "general",
+  "title": "Index Exchange",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.14",
+  "section": "general",
+  "title": "India",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.15",
+  "section": "general",
+  "title": "Insurance",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.16",
+  "section": "general",
+  "title": "Letter Stands For",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.17",
+  "section": "general",
+  "title": "Loans",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "4.10",
+  "section": "general",
+  "title": "Mailing",
+  "count": 2,
+  "keyed": 2
+ },
+ {
+  "id": "4.0",
+  "section": "general",
+  "title": "Mixed computer questions",
+  "count": 2,
+  "keyed": 0
+ },
+ {
+  "id": "6.0",
+  "section": "general",
+  "title": "Mixed general awareness",
+  "count": 38,
+  "keyed": 35
+ },
+ {
+  "id": "6.18",
+  "section": "general",
+  "title": "Mortgage",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.19",
+  "section": "general",
+  "title": "Producer India",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.20",
+  "section": "general",
+  "title": "Public Sector",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.21",
+  "section": "general",
+  "title": "Sports",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.22",
+  "section": "general",
+  "title": "Sports Tennis",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.23",
+  "section": "general",
+  "title": "Term Deposits",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "6.24",
+  "section": "general",
+  "title": "Unit Electric",
+  "count": 1,
+  "keyed": 0
+ },
+ {
+  "id": "4.11",
+  "section": "general",
+  "title": "Word Ability",
+  "count": 2,
+  "keyed": 1
+ },
+ {
   "id": "7.2",
   "section": "quant",
   "title": "Absolute Value",
@@ -868,6 +1316,13 @@ APT.setBankIndex([
   "keyed": 0
  },
  {
+  "id": "8.1",
+  "section": "reasoning",
+  "title": "Direction Sense (spatial)",
+  "count": 3,
+  "keyed": 1
+ },
+ {
   "id": "2.13",
   "section": "reasoning",
   "title": "Fact Judgemeant Inference",
@@ -880,6 +1335,13 @@ APT.setBankIndex([
   "title": "Family Relationships",
   "count": 1,
   "keyed": 0
+ },
+ {
+  "id": "8.2",
+  "section": "reasoning",
+  "title": "Figure Folding",
+  "count": 1,
+  "keyed": 1
  },
  {
   "id": "2.15",
@@ -1029,6 +1491,13 @@ APT.setBankIndex([
   "keyed": 0
  },
  {
+  "id": "8.3",
+  "section": "reasoning",
+  "title": "Sequences (spatial)",
+  "count": 1,
+  "keyed": 1
+ },
+ {
   "id": "2.35",
   "section": "reasoning",
   "title": "Sequences&series",
@@ -1041,6 +1510,13 @@ APT.setBankIndex([
   "title": "Some All None",
   "count": 13,
   "keyed": 0
+ },
+ {
+  "id": "8.4",
+  "section": "reasoning",
+  "title": "Spatial Aptitude",
+  "count": 3,
+  "keyed": 2
  },
  {
   "id": "2.37",
