@@ -3,7 +3,7 @@ APT.addTopic({
   section: 'reasoning',
   title: 'Puzzles, Days & Arrangements',
   tagline: 'Count carefully, write everything down, never guess.',
-  pdfTopics: ['2.18', '2.19', '2.5', '2.24', '2.0', '2.9'],
+  pdfTopics: ['2.18', '2.19', '2.5', '2.24', '2.0', '2.9', '8.1', '8.2', '8.3', '8.4'],
   concepts: {
     story: [
       'Puzzles look scary because they hide simple steps inside long sentences. Break a long sentence into small pieces, and do the piece at the very end (the "innermost" one) first.',
