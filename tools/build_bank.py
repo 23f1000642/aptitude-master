@@ -7,15 +7,18 @@ If data/figures/map.json exists (see extract_figures.py), each question gets its
 Writes one JS file per PDF sub-topic (data/bank/7-62.js ...) and data/bank/index.js.
 """
 import json
+import os
 import re
 import sys
 from collections import OrderedDict
 
 src, out = sys.argv[1], sys.argv[2]
 chapters = sys.argv[3:] or ['7']
+# Optional: PREFIX=G SECTION=gate FIGMAP=... for a second book (ids become G8.1.1 etc.)
+PREFIX = os.environ.get('PREFIX', '')
+SECTION_OVERRIDE = os.environ.get('SECTION')
 SECTION = {'1': 'di', '2': 'reasoning', '3': 'general', '4': 'general', '5': 'english', '6': 'general', '7': 'quant', '8': 'reasoning'}
-import os
-FIG_MAP = os.path.join(os.path.dirname(os.path.abspath(out)), 'figures', 'map.json')
+FIG_MAP = os.environ.get('FIGMAP') or os.path.join(os.path.dirname(os.path.abspath(out)), 'figures', 'map.json')
 figures = json.load(open(FIG_MAP)) if os.path.exists(FIG_MAP) else {}
 t = open(src, encoding='utf-8').read()
 
@@ -35,7 +38,7 @@ for ch in chapters:
         m = re.match(r'\s*(' + ch + r'\.(\d+))\.(\d+) (.*)', part)
         if not m:
             continue
-        sub, qid = m.group(1), f'{m.group(1)}.{m.group(3)}'
+        sub, qid = PREFIX + m.group(1), f'{PREFIX}{m.group(1)}.{m.group(3)}'
         lines = part.replace('\f', '').replace('top☝', '').replace('Answer key ☟', '').split('\n')
         head = re.sub(r'^\s*\d+\.\d+\.\d+ ', '', lines[0]).strip()
         name, source, rest = None, '', ''
@@ -60,7 +63,7 @@ for ch in chapters:
         text = NEXT_HEAD.sub('', text).strip()
         if not text:
             continue
-        key = keys.get(qid)
+        key = keys.get(qid[len(PREFIX):])
         if key in (None, 'Q-Q', 'X'):
             key = None
         figure = bool(re.search(r'\b(table|graph|chart|figure|diagram|shown below|given below)\b', text, re.I))
@@ -81,7 +84,14 @@ for sub, qs in groups.items():
     fname = sub.replace('.', '-')
     with open(f'{out}/{fname}.js', 'w', encoding='utf-8') as f:
         f.write(f'APT.addBank({json.dumps(sub)}, {json.dumps(qs, ensure_ascii=False, indent=1)});\n')
-    index.append({'id': sub, 'section': SECTION.get(sub.split('.')[0]), 'title': names.get(sub, sub), 'count': len(qs), 'keyed': sum(1 for q in qs if q['key'])})
+    index.append({'id': sub, 'section': SECTION_OVERRIDE or SECTION.get(sub.split('.')[0]), 'title': names.get(sub, sub), 'count': len(qs), 'keyed': sum(1 for q in qs if q['key'])})
+idx_path = f'{out}/index.js'
+if os.path.exists(idx_path):
+    old = open(idx_path, encoding='utf-8').read()
+    old = json.loads(old[old.index('(') + 1:old.rindex(')')])
+    built = {b['id'] for b in index}
+    keep = [b for b in old if b['id'] not in built and (b['id'].startswith(PREFIX) is False if PREFIX else b['id'][0].isalpha())]
+    index = keep + index
 index.sort(key=lambda b: (b['section'] or '', b['title']))
 with open(f'{out}/index.js', 'w', encoding='utf-8') as f:
     f.write('APT.setBankIndex(' + json.dumps(index, ensure_ascii=False, indent=1) + ');\n')
