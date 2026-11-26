@@ -79,7 +79,7 @@
       <section class="hero">
         <h1>Aptitude, made easy</h1>
         <p>Learn each idea like a story, try the question yourself, then open the step-by-step solution.</p>
-        <p class="exams">Questions from <b>CAT 1994–2021</b>, <b>NIELIT 2016–2019</b> and <b>GATE</b>, as collected in the GATE Overflow aptitude book.</p>
+        <p class="exams">Questions from <b>CAT 1994–2021</b>, <b>NIELIT 2016–2019</b> and <b>GATE</b> (aptitude book), plus every <b>GATE General Aptitude PYQ 2010–2026</b> from the GATE Overflow volume.</p>
         <div class="hero-stats">
           <div><b>${APT.sections.length}</b><span>sections</span></div>
           <div><b>${APT.topics.length}</b><span>topics</span></div>
@@ -175,7 +175,7 @@
     }
     const feedback = att
       ? (att.correct ? '<div class="feedback ok">Correct! Well done.</div>'
-        : `<div class="feedback bad">Not quite. The answer is <b>${q.options ? LETTERS[q.answer] + ') ' + q.options[q.answer] : q.answerText}</b>.</div>`)
+        : `<div class="feedback bad">Not quite. The answer is <b>${q.options ? LETTERS[q.answer] + ') ' + q.options[q.answer].replace(/[.!?]$/, '') : q.answerText}</b>.</div>`)
       : '';
     return `<article class="q-card" id="q-${q.no}" data-qid="${q.qid}">
       <div class="q-top">
