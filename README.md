@@ -1,6 +1,6 @@
 # Aptitude Master
 
-An interactive study app covering the whole aptitude syllabus: **Quantitative Aptitude**, **Data Interpretation**, **Logical Reasoning**, **English**, and **Computer & General Awareness**. Every topic is taught like a story, then you attempt real exam questions and open a step-by-step solution only after you've tried.
+An interactive study app covering the whole aptitude syllabus: **Quantitative Aptitude**, **Data Interpretation**, **Logical Reasoning**, **English**, **Computer & General Awareness**, and every **GATE General Aptitude PYQ (2010–2026)**. Every topic is taught like a story, then you attempt real exam questions and open a step-by-step solution only after you've tried.
 
 **Live app:** https://23f1000642.github.io/aptitude-master/
 
@@ -8,11 +8,11 @@ An interactive study app covering the whole aptitude syllabus: **Quantitative Ap
 
 | | |
 | --- | --- |
-| Sections | 5: Quant, Data Interpretation, Logical Reasoning, English, Computer & General Awareness |
-| Topics | 34 (14 quant + 3 DI + 9 reasoning + 6 English + 2 GA) |
-| Solved questions | 297 (all from the PDF), each with options, steps and the trick used |
+| Sections | 6: Quant, Data Interpretation, Logical Reasoning, English, Computer & General Awareness, GATE General Aptitude (PYQ) |
+| Topics | 44 (14 quant + 3 DI + 9 reasoning + 6 English + 2 GA + 10 GATE) |
+| Solved questions | 726: 297 from the aptitude book + all 429 GATE General Aptitude PYQs, each with options, steps and the trick used |
 | PDF question bank | All 5,018 questions from the GATE Overflow aptitude book, in 221 sub-topics, with the book's answer key where it has one (1,173) |
-| Figures | 268 images taken from the PDF and shown with their 525 questions |
+| Figures | 268 images from the aptitude book (shown with their 525 questions) + 63 GATE question crops for charts and diagrams |
 
 ### Each topic has three tabs
 
@@ -39,7 +39,25 @@ Every solved question is from the PDF (GATE Overflow aptitude book, July 2022 ed
 | NIELIT (Scientist B/C/D, Scientific Assistant A) | 2016, 2017, 2019 | ~730 |
 | GATE (General Aptitude) | 2014, 2017 | ~12 |
 | Others (SBI, UGC NET) | 2017, 2018 | 3 |
+| **GATE General Aptitude PYQs** (second PDF: GATE Overflow CSE volume, aptitude chapters only) | 2010 – 2026 (CSE, DA, DS&AI and other papers) | 429, all solved |
 | No exam named (practice / doubt questions posted on GATE Overflow) | n/a | ~490 |
+
+### GATE General Aptitude (PYQ) section
+
+| Topic | Questions |
+| --- | --- |
+| Analytical Aptitude | 48 |
+| Spatial Aptitude | 19 |
+| Quant: Arithmetic | 50 |
+| Quant: Algebra & Numbers | 56 |
+| Quant: Geometry & Mensuration | 23 |
+| Quant: Data Interpretation | 29 |
+| Quant: Probability, Counting & Statistics | 39 |
+| Verbal: Grammar & Usage | 30 |
+| Verbal: Vocabulary & Analogies | 91 |
+| Verbal: Reading & Reasoning | 44 |
+
+Every answer is checked against the book's answer key. Two are flagged with a note in the app: 9.13.1 (the key says 51; direct counting gives 52) and 9.36.2 (marks given to all; Fermat's two-squares theorem gives A).
 
 ## Run it locally
 
